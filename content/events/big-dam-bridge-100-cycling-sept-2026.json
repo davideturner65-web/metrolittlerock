@@ -1,0 +1,23 @@
+{
+  "slug": "big-dam-bridge-100-cycling-sept-2026",
+  "event_name": "Big Dam Bridge 100 Cycling Event",
+  "seo": {
+    "title": "Big Dam Bridge 100 Cycling Event — September 2026 | Metro Little Rock Events",
+    "description": "Central Arkansas's premier cycling event: 100-mile, 62-mile, and 30-mile routes along the Arkansas River Trail. One of the largest recreational cycling events in the South.",
+    "canonical": "/events/big-dam-bridge-100-cycling-sept-2026"
+  },
+  "date_start": "2026-09-27",
+  "time": "6:30 AM (100-mile start) / 7:30 AM (62-mile) / 8:30 AM (30-mile)",
+  "venue_name": "Big Dam Bridge / Two Rivers Park",
+  "venue_address": "Big Dam Bridge, Little Rock, AR 72223",
+  "venue_coordinates": { "lat": 34.7648, "lng": -92.4003 },
+  "neighborhood_slug": "west-little-rock",
+  "category": "sports",
+  "price_range": "$",
+  "ticket_url": "https://bigdambridge100.com",
+  "description": "The Big Dam Bridge 100 is central Arkansas's signature cycling event — a non-competitive recreational ride that draws upward of 3,000 cyclists from across the region each September. Three route options (100 miles, 62 miles, and 30 miles) all use the Arkansas River Trail system, crossing the Big Dam Bridge — the longest pedestrian and bicycle bridge in the U.S. over a dam — and winding through Two Rivers Park and the river corridor west of the city. The 100-mile route extends out through the rice fields and farmland west of Little Rock before looping back. Aid stations are well-stocked and staffed, and the finish line festival at Two Rivers Park includes food trucks, live music, and the particular satisfaction of finishing a century ride with that view. Registration fills quickly; early sign-up is advisable.",
+  "highlight": true,
+  "image": { "src": "/images/events/big-dam-bridge-100.jpg", "alt": "Cyclists crossing the Big Dam Bridge on the Arkansas River Trail" },
+  "tags": ["cycling", "Big Dam Bridge", "Arkansas River Trail", "century ride", "outdoor", "annual"],
+  "recurring": { "pattern": "annual" }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "arkansas-travelers-home-opener-2026",
+  "event_name": "Arkansas Travelers Home Opener",
+  "seo": {
+    "title": "Arkansas Travelers Home Opener 2026 | Metro Little Rock Events",
+    "description": "The Arkansas Travelers open the 2026 Double-A season at Dickey-Stephens Park in North Little Rock. Opening night fireworks, giveaways, and affordable family baseball on the river.",
+    "canonical": "/events/arkansas-travelers-home-opener-2026"
+  },
+  "date_start": "2026-04-08",
+  "time": "6:35 PM",
+  "venue_name": "Dickey-Stephens Park",
+  "venue_address": "400 West Broadway St, North Little Rock, AR 72114",
+  "venue_coordinates": { "lat": 34.7618, "lng": -92.2761 },
+  "neighborhood_slug": "north-little-rock",
+  "category": "sports",
+  "price_range": "$",
+  "ticket_url": "https://travs.com",
+  "description": "The Arkansas Travelers — Double-A affiliate of the Seattle Mariners — open the 2026 home season at Dickey-Stephens Park, one of the best minor league ballparks in the country. The park sits on the Arkansas River in North Little Rock with a view of the downtown Little Rock skyline beyond the outfield wall, and the atmosphere on Opening Night is reliably festive: giveaways for early arrivals, a pre-game ceremony, and fireworks after the final out. Travs games are one of the metro's best value family outings — good sight lines from nearly every seat, a solid concession operation with local food options, and parking that doesn't require a second mortgage. The home schedule runs through September; Opening Night is traditionally one of the most attended games of the season.",
+  "highlight": false,
+  "tags": ["baseball", "Travelers", "Dickey-Stephens", "NLR", "minor league", "family"],
+  "recurring": { "pattern": "annual" }
+}

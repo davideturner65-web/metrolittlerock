@@ -1,0 +1,22 @@
+{
+  "slug": "heights-holiday-market-nov-2026",
+  "event_name": "Heights Holiday Market",
+  "seo": {
+    "title": "Heights Holiday Market — November 2026 | Metro Little Rock Events",
+    "description": "The Heights neighborhood's annual holiday shopping event brings local makers, boutiques, and food vendors to Kavanaugh Blvd the weekend before Thanksgiving.",
+    "canonical": "/events/heights-holiday-market-nov-2026"
+  },
+  "date_start": "2026-11-21",
+  "date_end": "2026-11-22",
+  "time": "10:00 AM – 6:00 PM",
+  "venue_name": "Kavanaugh Blvd — The Heights",
+  "venue_address": "Kavanaugh Blvd, Little Rock, AR 72205",
+  "venue_coordinates": { "lat": 34.7517, "lng": -92.3301 },
+  "neighborhood_slug": "the-heights",
+  "category": "markets",
+  "price_range": "free",
+  "description": "The Heights Holiday Market takes over Kavanaugh Boulevard the weekend before Thanksgiving, transforming the neighborhood's main commercial strip into a two-day open-air shopping event anchored by the area's existing boutiques and supplemented by thirty-plus pop-up vendors. The Heights is already one of the metro's best retail neighborhoods — WordsWorth Books, Half Shell, Local Lime, and a string of independent boutiques line the corridor — and the Holiday Market adds handcrafted goods, seasonal food vendors, live acoustic music, and outdoor seating between the stalls. It's the neighborhood's way of launching the holiday shopping season, and the combination of existing stores and new vendors makes it possible to complete most of your local holiday shopping in one weekend. Both Saturday and Sunday draw crowds; Saturday afternoon is peak.",
+  "highlight": false,
+  "tags": ["holiday market", "Heights", "shopping", "artisan", "Kavanaugh", "Thanksgiving weekend"],
+  "recurring": { "pattern": "annual" }
+}

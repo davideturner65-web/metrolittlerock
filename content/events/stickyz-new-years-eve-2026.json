@@ -1,0 +1,22 @@
+{
+  "slug": "stickyz-new-years-eve-2026",
+  "event_name": "Stickyz New Year's Eve Party",
+  "seo": {
+    "title": "Stickyz New Year's Eve Party 2026 | Metro Little Rock Events",
+    "description": "Ring in 2027 at Stickyz Rock 'n' Roll Chicken Shack in downtown Little Rock. Live band, midnight countdown, and the downtown bar crawl scene that makes River Market New Year's one of the metro's best.",
+    "canonical": "/events/stickyz-new-years-eve-2026"
+  },
+  "date_start": "2026-12-31",
+  "time": "8:00 PM – 2:00 AM",
+  "venue_name": "Stickyz Rock 'n' Roll Chicken Shack",
+  "venue_address": "107 River Market Ave, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7468, "lng": -92.2702 },
+  "neighborhood_slug": "downtown",
+  "category": "nightlife",
+  "price_range": "$$",
+  "ticket_url": "https://stickyz.com",
+  "description": "Stickyz anchors the River Market District's New Year's Eve scene — a live band, a packed house, and the energy of one of downtown Little Rock's best live music rooms at its most festive. The River Market District becomes a walkable bar crawl on New Year's Eve, with Stickyz, Flying Saucer, Dugan's, and a string of surrounding bars all running NYE specials and live music simultaneously. Stickyz typically runs a ticketed event with a midnight champagne toast and a dance floor that earns its reputation. Cover charges vary by ticket tier; advance purchase is strongly recommended as capacity fills well in advance. New Year's in the River Market is one of the better bar district experiences in the South — dense enough to feel like a real event, small enough to actually talk to people.",
+  "highlight": false,
+  "tags": ["New Year's Eve", "nightlife", "Stickyz", "live music", "River Market", "downtown"],
+  "recurring": { "pattern": "annual" }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "community-bakery",
+  "name": "Community Bakery",
+  "seo": {
+    "title": "Community Bakery — Downtown Little Rock's Classic Café & Bakery | Metro Little Rock",
+    "description": "Community Bakery has been a downtown Little Rock institution since 1947 — a full-service café and bakery with scratch pastries, sandwiches, and the kind of neighborhood reliability that decades build.",
+    "canonical": "/places/community-bakery"
+  },
+  "type": "bakery",
+  "cuisine_tags": [
+    "bakery",
+    "café",
+    "breakfast",
+    "lunch",
+    "sandwiches",
+    "cakes"
+  ],
+  "neighborhood_slug": "downtown",
+  "address": "1200 Main St, Little Rock, AR 72202",
+  "coordinates": {
+    "lat": 34.7408,
+    "lng": -92.284
+  },
+  "phone": "(501) 375-5951",
+  "website": "https://communitybakery.com",
+  "hours": {
+    "Monday": "7:00 AM – 5:00 PM",
+    "Tuesday": "7:00 AM – 5:00 PM",
+    "Wednesday": "7:00 AM – 5:00 PM",
+    "Thursday": "7:00 AM – 5:00 PM",
+    "Friday": "7:00 AM – 5:00 PM",
+    "Saturday": "8:00 AM – 3:00 PM"
+  },
+  "price_range": "$",
+  "vibe": "casual",
+  "description": "Community Bakery opened in 1947 and has operated continuously in the Main Street corridor ever since, which makes it one of the most durably reliable spots in downtown Little Rock. The menu spans breakfast pastries, full café breakfast plates, deli sandwiches, soups, and the custom cakes that have anchored Little Rock celebrations for generations. The kolaches are a legacy item worth seeking out. The dining room is unpretentious and functional — it's a working bakery café, not a lifestyle concept — and the regulars have been coming for years because the quality holds. A good stop before or after the museums and galleries along this stretch of downtown.",
+  "must_try_items": [
+    "Kolaches (fruit or sausage)",
+    "Pecan coffee cake",
+    "Turkey and swiss on house bread",
+    "Custom birthday cake (order ahead)"
+  ],
+  "good_for": [
+    "brunch",
+    "lunch",
+    "solo",
+    "quick_bite"
+  ],
+  "featured": false,
+  "related": [
+    {
+      "title": "Downtown Little Rock Neighborhood Guide",
+      "slug": "downtown",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Breakfast in Little Rock",
+      "slug": "breakfast/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

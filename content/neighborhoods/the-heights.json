@@ -1,0 +1,76 @@
+{
+  "slug": "the-heights",
+  "name": "the-heights",
+  "display_name": "The Heights",
+  "seo": {
+    "title": "The Heights Neighborhood Guide — Little Rock, AR | Metro Little Rock",
+    "description": "Everything you need to know about living in The Heights — Little Rock's most walkable neighborhood, with Craftsman bungalows, top restaurants, and a tight-knit community.",
+    "canonical": "/neighborhoods/the-heights",
+    "og_image": "/images/neighborhoods/the-heights.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/the-heights.jpg",
+    "alt": "Tree-lined streets in The Heights neighborhood of Little Rock, AR"
+  },
+  "hero_stats": {
+    "median_price": "$425,000",
+    "avg_days_on_market": 14,
+    "price_trend": "+6.2% YoY",
+    "walkability_score": 72
+  },
+  "intro": "The Heights is Little Rock's most beloved intown neighborhood — a walkable grid of mature oaks, brick sidewalks, and Craftsman bungalows that has been the heartbeat of the city's social scene for a century. Kavanaugh Boulevard serves as the main drag, lined with independent restaurants, wine bars, and boutiques that give the neighborhood an energy unlike anywhere else in central Arkansas.",
+  "real_estate_overview": "The Heights housing stock is dominated by early-20th-century Craftsman bungalows, Colonial Revivals, and Tudor Revivals, most of them on 50-to-75-foot lots. Supply is perpetually tight — turnover averages around 80-100 homes per year — and demand from buyers who want walkability and character keeps prices competitive. Expect to pay a premium over comparables in outer suburbs: entry-level ranches start around $275,000, while fully renovated four-bedroom homes on larger lots routinely cross $600,000. Multiple-offer situations are common in spring and fall. Investors occasionally convert larger homes into rental units, but owner-occupancy rates remain high, which keeps maintenance standards strong across the neighborhood.",
+  "schools_section": {
+    "overview": "The Heights falls within the Little Rock School District. Pulaski Heights Elementary and Pulaski Heights Middle School serve the neighborhood and are among the most sought-after schools in the district, consistently drawing families who prize walkable proximity.",
+    "highlights": [
+      { "name": "Pulaski Heights Elementary", "note": "K-5 neighborhood school with a strong PTA and arts programming; walking distance for most Heights residents." },
+      { "name": "Pulaski Heights Middle School", "note": "6-8 school one block from Kavanaugh, known for its music and theater programs." },
+      { "name": "Little Rock Central High School", "note": "Historic National Historic Site and IB World School serving Heights students in grades 9-12." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "The Heights lives outside. On a weekday morning you'll see joggers on the shaded sidewalks, dogs off-leash at Allsopp Park, and remote workers filling the coffee shops by 8 a.m. The mix of young professionals, longtime families, and empty-nesters gives the neighborhood a layered energy you rarely find in newer developments.",
+    "dining": "Kavanaugh Boulevard is arguably Little Rock's best restaurant street. Doe's Eat Place (a James Beard-recognized Delta tamales and steaks institution), Bruno's Little Italy, ZaZa Fine Salad & Wood Oven Pizza, and a rotating cast of wine bars and brunch spots keep residents eating out multiple nights a week without leaving the neighborhood.",
+    "outdoor": "Allsopp Park sits at the center of the neighborhood — 165 acres of wooded trails, tennis courts, and a disc golf course. The Arkansas River Trail is accessible via a short bike ride west, and Rebsamen Park Golf Course borders the western edge of the Heights.",
+    "culture": "The Heights has a strong independent bookstore and gallery culture. WordsWorth Books, one of Little Rock's last independent bookshops, anchors the literary scene. The Stifft's Station area nearby adds antique shops and small galleries to the mix.",
+    "family": "The walkable school routes, neighborhood parks, and active civic association make the Heights a popular landing spot for families moving to Little Rock. The Heights Neighborhood Association runs community events year-round including a popular Fourth of July parade."
+  },
+  "commute_section": {
+    "overview": "The Heights enjoys exceptional access to the rest of the metro. Markham Street and Cantrell Road both connect directly west to the interstate network, and downtown Little Rock is a 10-minute surface-street drive. The neighborhood is bike-friendly by Little Rock standards, with dedicated lanes on parts of Kavanaugh.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "10 min", "notes": "Via Cantrell Rd or Markham St — no freeway needed." },
+      { "destination": "UAMS / Medical Corridor", "time": "12 min", "notes": "Straight shot down Markham; heavy 7–8 AM traffic." },
+      { "destination": "I-630 / Chenal Pkwy", "time": "15 min", "notes": "Quick freeway access via I-630 west." },
+      { "destination": "LIT Airport", "time": "20 min", "notes": "Via I-430 north or surface streets through NLR." },
+      { "destination": "Conway", "time": "35 min", "notes": "I-40 west, light traffic outside of rush hour." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Young professionals", "Move-up families", "Empty nesters", "Walkability seekers"],
+    "typical_buyer": "A dual-income professional couple in their 30s–40s, often relocating to Little Rock for UAMS or a downtown employer, who wants character housing and walkable amenities and is willing to pay a premium for them.",
+    "budget_range": "$275,000 – $700,000+"
+  },
+  "faqs": [
+    {
+      "question": "Is The Heights safe?",
+      "answer": "The Heights is one of Little Rock's safer intown neighborhoods. The active neighborhood association, strong owner-occupancy rates, and well-lit commercial streets contribute to a low-crime environment. Like any urban neighborhood, situational awareness matters, but residents consistently rate it as one of the most livable areas in the city."
+    },
+    {
+      "question": "Is The Heights walkable?",
+      "answer": "Yes — it scores a 72/100 on Walk Score, the highest of any Little Rock neighborhood. Kavanaugh Boulevard puts coffee, groceries, restaurants, and shops within a 5-10 minute walk of most homes."
+    },
+    {
+      "question": "What are property taxes like in The Heights?",
+      "answer": "The Heights is in Pulaski County. The effective property tax rate is roughly 0.6–0.7% of assessed value (Arkansas assesses at 20% of market value), making it quite low by national standards. A $450,000 home typically carries around $550–650/year in property taxes."
+    },
+    {
+      "question": "Are there historic preservation restrictions in The Heights?",
+      "answer": "Parts of The Heights fall within or adjacent to locally designated historic districts, which can affect exterior renovation permits. No part of The Heights is a federally designated National Register district that restricts private owners, but the neighborhood association has design guidelines that buyers should review before major exterior projects."
+    }
+  ],
+  "related": [
+    { "title": "Midtown", "slug": "midtown", "type": "neighborhood" },
+    { "title": "SoMa District", "slug": "soma", "type": "neighborhood" },
+    { "title": "Riverdale", "slug": "riverdale", "type": "neighborhood" }
+  ]
+}

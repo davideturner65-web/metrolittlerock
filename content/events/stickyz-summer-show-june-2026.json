@@ -1,0 +1,22 @@
+{
+  "slug": "stickyz-summer-show-june-2026",
+  "event_name": "Live at Stickyz: Summer Headliner Series",
+  "seo": {
+    "title": "Live at Stickyz Summer Headliner Series 2026 | Metro Little Rock Events",
+    "description": "Stickyz Rock 'n' Roll Chicken Shack launches its summer concert series with regional and national touring acts in Little Rock's River Market District.",
+    "canonical": "/events/stickyz-summer-show-june-2026"
+  },
+  "date_start": "2026-06-12",
+  "time": "8:00 PM",
+  "venue_name": "Stickyz Rock 'n' Roll Chicken Shack",
+  "venue_address": "107 River Market Ave, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7492, "lng": -92.2713 },
+  "neighborhood_slug": "downtown",
+  "category": "music",
+  "price_range": "$$",
+  "ticket_url": "https://stickyz.com",
+  "description": "Stickyz Rock 'n' Roll Chicken Shack is Little Rock's quintessential live music venue — a low-ceilinged, high-energy room where you're never more than 40 feet from the stage. The Summer Headliner Series brings in regional touring acts every Friday and Saturday night from June through August. The food is genuinely good (try the mac and cheese), the drink selection covers everything from local craft pints to the full bar, and the sound system is the best in the River Market. Check the Stickyz website for specific artist announcements as the summer season fills out.",
+  "highlight": false,
+  "tags": ["rock", "live music", "River Market", "downtown", "summer series"],
+  "recurring": { "pattern": "monthly" }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "lr-restaurant-week-sept-2026",
+  "event_name": "Little Rock Restaurant Week",
+  "seo": {
+    "title": "Little Rock Restaurant Week — September 2026 | Metro Little Rock Events",
+    "description": "Little Rock Restaurant Week returns with prix-fixe menus at 40+ participating restaurants across The Heights, SoMa, downtown, and the metro.",
+    "canonical": "/events/lr-restaurant-week-sept-2026"
+  },
+  "date_start": "2026-09-12",
+  "date_end": "2026-09-19",
+  "time": "Lunch & Dinner hours (varies by restaurant)",
+  "venue_name": "Participating Restaurants Citywide",
+  "venue_address": "Various locations, Little Rock, AR",
+  "venue_coordinates": { "lat": 34.7465, "lng": -92.3180 },
+  "neighborhood_slug": "downtown",
+  "category": "food",
+  "price_range": "$$",
+  "description": "Little Rock Restaurant Week is the best time to try restaurants you've been meaning to visit — dozens of participating spots across The Heights, SoMa, Midtown, downtown, and West Little Rock offer special prix-fixe menus at $20 lunch and $35–$45 dinner price points. It's the week the local food community comes out in force, and reservations at the most sought-after spots (South on Main, Kemuri, Cache, Brave New) fill up in the first day of booking. Make your reservations the week before. Weekday lunches are often the hidden value — same prix-fixe menu, no wait.",
+  "highlight": true,
+  "image": { "src": "/images/events/restaurant-week.jpg", "alt": "Prix-fixe dinner during Little Rock Restaurant Week" },
+  "tags": ["restaurant week", "dining", "prix-fixe", "food event", "citywide"],
+  "recurring": { "pattern": "annual" }
+}

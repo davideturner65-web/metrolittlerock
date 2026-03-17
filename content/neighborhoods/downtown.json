@@ -1,0 +1,76 @@
+{
+  "slug": "downtown",
+  "name": "downtown",
+  "display_name": "Downtown Little Rock",
+  "seo": {
+    "title": "Downtown Little Rock Neighborhood Guide | Metro Little Rock",
+    "description": "Downtown Little Rock is the metro's urban core — River Market District, converted lofts, walkable nightlife, and a rapidly evolving condo market on the Arkansas River.",
+    "canonical": "/neighborhoods/downtown",
+    "og_image": "/images/neighborhoods/downtown.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/downtown.jpg",
+    "alt": "Downtown Little Rock skyline and River Market District on the Arkansas River"
+  },
+  "hero_stats": {
+    "median_price": "$235,000",
+    "avg_days_on_market": 38,
+    "price_trend": "+3.1% YoY",
+    "walkability_score": 68
+  },
+  "intro": "Downtown Little Rock sits on the south bank of the Arkansas River and serves as the metro's civic, cultural, and nightlife hub. The River Market District anchors the entertainment scene, while the Warehouse District, Quapaw Quarter, and SoMa spill south with galleries, breweries, and an arts community that has grown considerably since 2015. For buyers who want an urban lifestyle at prices still far below what comparable metros charge, downtown is the most compelling value play in the city.",
+  "real_estate_overview": "Downtown's housing inventory is split between historic conversion condos (former office buildings and warehouses adapted into loft-style units), newer purpose-built condo towers, and a small stock of Victorian-era single-family homes in the adjacent Quapaw Quarter. Prices reflect the early stage of the market's maturation: one-bedroom condos start around $130,000, two-bedrooms in newer buildings around $220,000–$350,000, and restored Quapaw Quarter Victorian homes from $350,000 to $700,000+. The rental market is strong, making downtown properties viable investment vehicles. The primary headwind for appreciation is that parking, walkable grocery access, and K-12 school options remain weaker than suburban alternatives.",
+  "schools_section": {
+    "overview": "Downtown falls within the Little Rock School District. For K-12 education, downtown residents have access to several magnet schools that draw from across the district, which partially offsets the lack of a neighborhood school walkable from most condo addresses.",
+    "highlights": [
+      { "name": "Little Rock Central High School", "note": "The iconic National Historic Site and IB World School is 10 minutes from downtown. One of the most academically rigorous public high schools in Arkansas." },
+      { "name": "Gibbs Magnet School", "note": "International Studies magnet serving K-8 students; a popular choice for downtown families willing to drive or bus." },
+      { "name": "KIPP Delta Public Schools", "note": "Charter school option nearby with strong academic programming and extended school days." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Downtown is where the metro comes to play. The River Market District hosts year-round farmers markets, concerts, festivals, and the Ottenheimer Market Hall food vendors. The nightlife corridor on President Clinton Avenue and the emerging brewpub scene give residents a walkable entertainment district that suburban neighborhoods simply can't replicate.",
+    "dining": "The River Market area has Arkansas's densest concentration of restaurants per block: Brave New Restaurant, The Pantry, Blue Sail Coffee, Lost Forty Brewing taproom, and dozens of options within a 10-minute walk. SoMa's South Main strip adds another cluster of chef-driven spots to the mix.",
+    "outdoor": "The Arkansas River Trail runs directly through downtown, connecting north to the Big Dam Bridge (the longest pedestrian-only bridge in the U.S.) and south along the river. Riverfront Park and the Clinton Presidential Park offer green space within steps of most downtown addresses.",
+    "culture": "Downtown is the cultural capital of the metro. The Arkansas Arts Center (undergoing a major renovation/expansion), Repertory Theatre of Little Rock, Arkansas Symphony Orchestra, Heifer International campus, and multiple galleries cluster in and around the core. The Clinton Presidential Library anchors the eastern end of River Market.",
+    "family": "Downtown is more popular with young singles and couples than families with school-age children, primarily due to the school situation and limited outdoor play space near most condo buildings. That said, the River Market Farmers Market and community events make it a vibrant place to raise toddlers."
+  },
+  "commute_section": {
+    "overview": "Downtown residents enjoy the best commute times in the metro to the central employment corridor — hospitals, state government, law firms, and financial institutions all cluster within or adjacent to downtown. The primary commute challenge is for those who work in the western suburbs.",
+    "key_routes": [
+      { "destination": "State Capitol / State Jobs", "time": "5 min", "notes": "Walkable or 5-minute drive up Capitol Ave." },
+      { "destination": "UAMS Medical Corridor", "time": "10 min", "notes": "I-630 west; quick access but heavy AM traffic." },
+      { "destination": "Chenal Valley / West LR", "time": "25–30 min", "notes": "I-630 west to I-430; plan for traffic." },
+      { "destination": "North Little Rock (Argenta)", "time": "10 min", "notes": "Over the Broadway Bridge; easy cross-river commute." },
+      { "destination": "LIT Airport", "time": "15 min", "notes": "Shortest commute to the airport of any neighborhood." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Young professionals", "Empty nesters", "Investors", "Urban lifestyle seekers"],
+    "typical_buyer": "A single professional or DINK couple in their late 20s–40s who works downtown or nearby and wants a lock-and-leave condo with walkable nightlife, or an investor looking for a rental property with strong demand from UAMS residents and state government employees.",
+    "budget_range": "$130,000 – $500,000"
+  },
+  "faqs": [
+    {
+      "question": "Is downtown Little Rock safe to live in?",
+      "answer": "Downtown has seen significant investment in safety infrastructure including increased lighting, police presence in the River Market District, and business improvement district patrols. Like any urban core, property crime exists and awareness matters. Most residents feel comfortable and the trend line over the past five years has been positive."
+    },
+    {
+      "question": "Is there a grocery store downtown?",
+      "answer": "The River Market Farmers Market (Tuesday/Saturday) provides excellent fresh produce but is seasonal. The nearest full-service grocery is a Kroger in the Heights or SoMa area, roughly a 5-10 minute drive. This remains a genuine walkability gap that developers and the city are working to address."
+    },
+    {
+      "question": "What are condo fees like downtown?",
+      "answer": "HOA/condo fees vary significantly by building. Older converted buildings typically run $200–$400/month and cover exterior maintenance and common areas. Newer luxury buildings with amenities (gym, concierge, pool) can run $500–$700+/month. Always factor these into your monthly cost comparison with suburban single-family homes."
+    },
+    {
+      "question": "Is downtown Little Rock good for investment properties?",
+      "answer": "Yes — rental demand is consistent, driven by UAMS residents, state government contractors, and young professionals who prefer renting downtown to buying in the suburbs. Cap rates in the 5–7% range are achievable on well-priced condo purchases. The market is small enough that liquidity can be an issue on resale, so buy with a 5+ year horizon."
+    }
+  ],
+  "related": [
+    { "title": "SoMa District", "slug": "soma", "type": "neighborhood" },
+    { "title": "The Heights", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "North Little Rock", "slug": "north-little-rock", "type": "neighborhood" }
+  ]
+}

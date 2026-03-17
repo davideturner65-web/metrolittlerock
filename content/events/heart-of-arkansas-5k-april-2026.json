@@ -1,0 +1,22 @@
+{
+  "slug": "heart-of-arkansas-5k-april-2026",
+  "event_name": "Heart of Arkansas 5K & 10K River Run",
+  "seo": {
+    "title": "Heart of Arkansas 5K & 10K River Run — April 2026 | Metro Little Rock Events",
+    "description": "Lace up for the Heart of Arkansas River Run along the Arkansas River Trail. 5K and 10K routes through downtown Little Rock's riverfront with post-race festival.",
+    "canonical": "/events/heart-of-arkansas-5k-april-2026"
+  },
+  "date_start": "2026-04-12",
+  "time": "7:30 AM (10K start) / 8:00 AM (5K start)",
+  "venue_name": "Riverfront Park",
+  "venue_address": "Riverfront Dr, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7469, "lng": -92.2740 },
+  "neighborhood_slug": "downtown",
+  "category": "sports",
+  "price_range": "$",
+  "ticket_url": "https://heartofarkansasrun.com",
+  "description": "The Heart of Arkansas River Run follows the Arkansas River Trail through some of the most scenic stretches of the riverfront — starting at Riverfront Park, crossing over the Two Rivers Bridge path, and finishing back along the water with the downtown skyline behind you. The 10K route takes runners further west along the trail before looping back; the 5K is a more accessible out-and-back. Both routes are flat and fast, making this one of the better courses in the metro for runners chasing a PR. Post-race festival includes a recovery area, food vendors, sponsor booths, and an awards ceremony for age-group winners. The event typically draws 1,200–1,500 runners. Pre-registration is strongly recommended; packet pickup is the day before at a downtown running store.",
+  "highlight": false,
+  "tags": ["5K", "10K", "running", "river trail", "downtown", "fitness"],
+  "recurring": { "pattern": "annual" }
+}

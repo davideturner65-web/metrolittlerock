@@ -1,0 +1,1712 @@
+[
+  {
+    "slug": "the-heights",
+    "name": "The Heights",
+    "display_name": "The Heights / Hillcrest",
+    "coordinates": { "lat": 34.7465, "lng": -92.3310 },
+    "audience": "Young professionals, foodies, and urban-minded buyers who want a walkable neighborhood with real personality and the best restaurant scene in central Arkansas.",
+    "pain_points": [
+      "Limited inventory — desirable homes move fast and attract multiple offers",
+      "Older housing stock means higher maintenance and renovation costs",
+      "Parking is genuinely frustrating on Kavanaugh on weekends",
+      "Premium price for the zip code relative to square footage"
+    ],
+    "what_draws_people": [
+      "Kavanaugh Blvd — a walkable main street with restaurants, coffee shops, and bars",
+      "Highest concentration of locally-owned restaurants in central Arkansas",
+      "Historic bungalows and Craftsman homes with real character",
+      "Strong sense of neighborhood identity and community events",
+      "Short distance to everything — downtown, UAMS, Midtown"
+    ],
+    "content_that_works": [
+      "Best restaurants in the Heights/Hillcrest",
+      "What it's like to live on Kavanaugh Blvd",
+      "Heights vs. Midtown: which one fits you?",
+      "Historic bungalow renovation stories",
+      "Walkability guide to the Heights neighborhood"
+    ],
+    "key_subtopics": [
+      "Kavanaugh Boulevard restaurant scene",
+      "Historic home character and renovation",
+      "Walkability and bike-friendliness",
+      "Property appreciation and investment value",
+      "School options (Pulaski Academy, Episcopal Collegiate)"
+    ],
+    "vibe_tags": ["walkable", "foodie", "historic", "urban", "community-oriented"],
+    "best_for": ["young_professionals", "foodies", "empty_nesters", "urban_buyers"],
+    "typical_weekend": "Saturday starts with coffee at Onyx and a walk down Kavanaugh. Lunch at Raduno or Cache, then browsing the independent shops on Hillcrest. Sunday brunch at ZaZa or the Root Cafe, followed by a run on the River Trail.",
+    "market": {
+      "median_price": 315000,
+      "avg_days_on_market": 18,
+      "price_trend_yoy": "+6.8%",
+      "inventory_level": "low",
+      "price_range": "$220K–$850K",
+      "property_types": ["single-family", "bungalow", "craftsman", "condo", "townhome"]
+    },
+    "schools": [
+      { "name": "Pulaski Academy", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Episcopal Collegiate School", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Fulbright Elementary", "type": "public", "grades": "K-5", "rating": 7 },
+      { "name": "Pulaski Heights Middle School", "type": "public", "grades": "6-8", "rating": 6 }
+    ],
+    "commute": {
+      "to_downtown": "10 min",
+      "to_airport": "25 min",
+      "to_uams": "12 min",
+      "to_major_employers": [
+        { "name": "UAMS", "time": "12 min" },
+        { "name": "Baptist Health", "time": "15 min" },
+        { "name": "Arkansas Children's Hospital", "time": "14 min" },
+        { "name": "State Capitol", "time": "10 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Doe's Eat Place", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Delta-style tamales and steaks, legendary local institution since 1942" },
+      { "name": "ZaZa Fine Salad & Wood Oven Pizza", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Best pizza in Little Rock, creative salads, and a buzzy patio" },
+      { "name": "Cache Restaurant", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "Upscale American cuisine, date night staple on Kavanaugh" },
+      { "name": "Raduno Brick Oven & Barroom", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Wood-fired pizza, craft cocktails, and a great happy hour" },
+      { "name": "Kemuri", "type": "restaurant", "vibe": "trendy", "price_range": "$$$", "known_for": "Japanese-inspired small plates and one of the best cocktail menus in LR" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Onyx Coffee Lab", "type": "coffee", "vibe": "trendy", "known_for": "Specialty roaster with a serious espresso program" },
+      { "name": "The Pizzeria Bar", "type": "bar", "vibe": "casual", "known_for": "Low-key neighborhood bar with good beer selection" },
+      { "name": "Hillcrest Artisan Meats", "type": "bar", "vibe": "casual", "known_for": "Craft cocktails and charcuterie in a neighborhood setting" }
+    ],
+    "parks_outdoor": [
+      { "name": "Allsopp Park", "type": "park", "best_for": "Tennis, walking trails, and weekend family gatherings" },
+      { "name": "River Trail — Heights Access", "type": "trail", "best_for": "Running, cycling, and walking along the Arkansas River" },
+      { "name": "Reservoir Park", "type": "park", "best_for": "Historic reservoir, walking, and neighborhood dog park" }
+    ],
+    "landmarks": [
+      { "name": "Kavanaugh Boulevard", "description": "The heart of Heights commercial life — restaurants, shops, and coffee from Hillcrest to the I-430 corridor" },
+      { "name": "Stifft's Station", "description": "Historic gas station converted to a neighborhood gathering spot and bar" },
+      { "name": "Pulaski Academy", "description": "Premier K-12 private school, the most-referenced school address in the Heights market" }
+    ],
+    "development_notes": "Continued renovation activity on historic bungalows; a few new infill townhome projects on the western edge. Kavanaugh sees a new restaurant opening roughly every quarter.",
+    "proximity_to": [
+      { "area": "Downtown Little Rock", "drive_time": "10 min" },
+      { "area": "UAMS / Medical Row", "drive_time": "12 min" },
+      { "area": "Midtown", "drive_time": "5 min" },
+      { "area": "West Little Rock", "drive_time": "15 min" },
+      { "area": "Riverdale", "drive_time": "8 min" }
+    ]
+  },
+  {
+    "slug": "west-little-rock",
+    "name": "West Little Rock",
+    "display_name": "West Little Rock",
+    "coordinates": { "lat": 34.7401, "lng": -92.4050 },
+    "audience": "Families and professionals who want suburban convenience, good schools, and easy access to retail without sacrificing proximity to the city.",
+    "pain_points": [
+      "Car-dependent — almost nothing is walkable",
+      "Generic suburban feel; lacks neighborhood identity compared to Heights or SoMa",
+      "Traffic on Chenal Pkwy during peak hours is genuinely bad",
+      "Lots of new development but not all of it is quality construction"
+    ],
+    "what_draws_people": [
+      "Excellent access to retail — Kroger Marketplace, Target, Whole Foods all within a short drive",
+      "Good school zones, including Hall High and Pleasant Valley Elementary",
+      "Newer construction and larger lot sizes",
+      "Relatively short drive to both downtown and Chenal Valley",
+      "Strong resale market and consistent appreciation"
+    ],
+    "content_that_works": [
+      "Best neighborhoods in West Little Rock by price point",
+      "West LR vs. Chenal Valley: what's the difference?",
+      "New construction guide for West Little Rock",
+      "School zone breakdown: Hall vs. Parkview vs. private options",
+      "Retail and dining guide for the Chenal corridor"
+    ],
+    "key_subtopics": [
+      "Chenal Parkway retail corridor",
+      "School zones and private school options",
+      "New construction subdivisions",
+      "Pleasant Valley Country Club proximity",
+      "Commute times to major employers"
+    ],
+    "vibe_tags": ["suburban", "family-friendly", "convenient", "newer-construction", "retail-rich"],
+    "best_for": ["families", "move_up_buyers", "professionals", "relocating_executives"],
+    "typical_weekend": "Saturday morning errands at Kroger Marketplace or Whole Foods, followed by youth soccer or swim team. Dinner at Petit & Keet or The Pantry. Sunday is yard work, church, and maybe a drive out to the Chenal golf course.",
+    "market": {
+      "median_price": 295000,
+      "avg_days_on_market": 22,
+      "price_trend_yoy": "+4.9%",
+      "inventory_level": "moderate",
+      "price_range": "$200K–$700K",
+      "property_types": ["single-family", "new-construction", "townhome", "patio-home"]
+    },
+    "schools": [
+      { "name": "Hall High School", "type": "public", "grades": "9-12", "rating": 7 },
+      { "name": "Pleasant Valley Elementary", "type": "public", "grades": "K-5", "rating": 8 },
+      { "name": "Little Rock Christian Academy", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Mount St. Mary Academy", "type": "private", "grades": "9-12", "rating": 9 }
+    ],
+    "commute": {
+      "to_downtown": "18 min",
+      "to_airport": "20 min",
+      "to_uams": "15 min",
+      "to_major_employers": [
+        { "name": "UAMS", "time": "15 min" },
+        { "name": "Baptist Health", "time": "12 min" },
+        { "name": "Little Rock Christian Academy (employer)", "time": "5 min" },
+        { "name": "State Capitol", "time": "18 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Petit & Keet", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "New American cuisine, one of LR's best special-occasion restaurants" },
+      { "name": "The Pantry", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Czech and European comfort food, neighborhood institution" },
+      { "name": "Cheesecake Factory", "type": "restaurant", "vibe": "family", "price_range": "$$", "known_for": "Reliable chain anchor of the Chenal corridor dining scene" },
+      { "name": "Flying Burrito", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Tex-Mex staple, consistently packed for lunch" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Starbucks Reserve (Chenal)", "type": "coffee", "vibe": "quick_bite", "known_for": "De facto office for work-from-home West LR residents" },
+      { "name": "Flying Saucer (West)", "type": "bar", "vibe": "casual", "known_for": "Large beer selection, good for groups, sports bar feel" }
+    ],
+    "parks_outdoor": [
+      { "name": "Kanis Park", "type": "park", "best_for": "Youth sports fields, walking trails, and large open green space" },
+      { "name": "Two Rivers Park", "type": "park", "best_for": "Cycling, walking, and access to the River Trail system" },
+      { "name": "Chenal Valley Golf Courses", "type": "trail", "best_for": "Golf at Chenal Country Club and The Alotian Club" }
+    ],
+    "landmarks": [
+      { "name": "Chenal Parkway", "description": "The retail and restaurant spine of west Little Rock, running from I-430 to the Chenal Valley master plan" },
+      { "name": "Pleasant Valley Country Club", "description": "Established country club anchoring the Pleasant Valley neighborhood with golf, tennis, and pool" },
+      { "name": "Kroger Marketplace on Chenal", "description": "Anchor grocery for the corridor — the de facto community gathering point on weekends" }
+    ],
+    "development_notes": "Several new townhome and patio home developments in the 12400-12600 Chenal zip code area; The Breckenridge subdivision seeing rapid new construction.",
+    "proximity_to": [
+      { "area": "Chenal Valley", "drive_time": "10 min" },
+      { "area": "The Heights", "drive_time": "15 min" },
+      { "area": "Pleasant Valley", "drive_time": "5 min" },
+      { "area": "Downtown", "drive_time": "18 min" },
+      { "area": "UAMS", "drive_time": "15 min" }
+    ]
+  },
+  {
+    "slug": "downtown",
+    "name": "Downtown Little Rock",
+    "display_name": "Downtown Little Rock",
+    "coordinates": { "lat": 34.7465, "lng": -92.2896 },
+    "audience": "Young professionals, urban enthusiasts, and buyers who want walkable city living with river access and a growing food and arts scene.",
+    "pain_points": [
+      "Fewer family-friendly amenities and school options than suburban neighborhoods",
+      "Parking can be challenging and often paid",
+      "Condo HOA fees add to monthly housing costs",
+      "The urban revival is real but still uneven block-to-block"
+    ],
+    "what_draws_people": [
+      "River Market District — Arkansas's best urban food and entertainment hub",
+      "Big Dam Bridge and River Trail access steps from your door",
+      "Lofts and condos with genuine character in historic buildings",
+      "First Thursday art walks and year-round events",
+      "Proximity to state government, law firms, and financial institutions"
+    ],
+    "content_that_works": [
+      "Living in Downtown Little Rock: what to expect",
+      "River Market District guide — restaurants, bars, and markets",
+      "Condo and loft buying guide for downtown LR",
+      "First-time buyers: is downtown LR right for you?",
+      "Best things to do in Downtown Little Rock this weekend"
+    ],
+    "key_subtopics": [
+      "River Market District",
+      "Big Dam Bridge and River Trail",
+      "Condo and loft inventory",
+      "First Thursday events",
+      "Ottenheimer Market Hall"
+    ],
+    "vibe_tags": ["urban", "walkable", "trendy", "river-access", "arts"],
+    "best_for": ["young_professionals", "urban_buyers", "empty_nesters", "investors"],
+    "typical_weekend": "Saturday morning at the Ottenheimer Farmers Market, then lunch at Three Fold Noodles. Afternoon on the River Trail by bike. Saturday night at Samantha's Tap Room or a show at the Rep. Sunday brunch at Dugan's then a walk across the Big Dam Bridge.",
+    "market": {
+      "median_price": 225000,
+      "avg_days_on_market": 32,
+      "price_trend_yoy": "+5.1%",
+      "inventory_level": "moderate",
+      "price_range": "$140K–$580K",
+      "property_types": ["condo", "loft", "townhome", "single-family"]
+    },
+    "schools": [
+      { "name": "Gibbs International Magnet", "type": "public", "grades": "K-5", "rating": 7 },
+      { "name": "Dunbar Magnet Middle School", "type": "public", "grades": "6-8", "rating": 7 },
+      { "name": "Parkview Arts & Science Magnet", "type": "public", "grades": "9-12", "rating": 8 }
+    ],
+    "commute": {
+      "to_downtown": "0 min",
+      "to_airport": "15 min",
+      "to_uams": "10 min",
+      "to_major_employers": [
+        { "name": "State Capitol Complex", "time": "5 min" },
+        { "name": "UAMS", "time": "10 min" },
+        { "name": "Stephens Inc.", "time": "5 min" },
+        { "name": "Dillard's HQ", "time": "5 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Three Fold Noodles + Dumpling Co.", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Hand-pulled noodles and dumplings, one of LR's best lunch spots" },
+      { "name": "Dugan's Pub", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Legendary brunch spot in the River Market, always has a line" },
+      { "name": "La Paloma", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "Italian-American fine dining, River Market special occasion restaurant" },
+      { "name": "Flying Saucer Draught Emporium", "type": "bar", "vibe": "casual", "price_range": "$$", "known_for": "200+ beers on tap, sprawling riverside patio" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Samantha's Tap Room & Kitchen", "type": "bar", "vibe": "casual", "known_for": "Best craft beer bar in Little Rock, Ottenheimer Market building" },
+      { "name": "River Market Brewing Co.", "type": "brewery", "vibe": "casual", "known_for": "Downtown taproom with rotating local taps and a big patio" },
+      { "name": "Mylo Coffee Co.", "type": "coffee", "vibe": "trendy", "known_for": "Specialty coffee in the River Market, great workspace energy" }
+    ],
+    "parks_outdoor": [
+      { "name": "Riverfront Park", "type": "park", "best_for": "Concerts, festivals, and the Junction Bridge pedestrian walkway" },
+      { "name": "Big Dam Bridge", "type": "trail", "best_for": "Iconic pedestrian/cycling bridge, longest such bridge in North America" },
+      { "name": "River Trail — Downtown Segment", "type": "trail", "best_for": "The main artery for running and cycling along both sides of the Arkansas River" }
+    ],
+    "landmarks": [
+      { "name": "Ottenheimer Market Hall", "description": "Indoor farmers and artisan market anchoring the River Market District" },
+      { "name": "Big Dam Bridge", "description": "689-foot pedestrian bridge connecting North and South River Trail — a citywide gathering point" },
+      { "name": "Arkansas Repertory Theatre", "description": "Premier regional theater and cultural anchor for downtown arts programming" },
+      { "name": "Clinton Presidential Center", "description": "Presidential library and museum, major tourism draw on the eastern edge of downtown" }
+    ],
+    "development_notes": "The East Village corridor between downtown and SoMa is seeing renewed development interest; several mixed-use projects in permitting stages along Main Street.",
+    "proximity_to": [
+      { "area": "SoMa District", "drive_time": "5 min" },
+      { "area": "North Little Rock (Argenta)", "drive_time": "8 min" },
+      { "area": "The Heights", "drive_time": "10 min" },
+      { "area": "UAMS", "drive_time": "10 min" },
+      { "area": "Little Rock Airport", "drive_time": "15 min" }
+    ]
+  },
+  {
+    "slug": "maumelle",
+    "name": "Maumelle",
+    "display_name": "Maumelle",
+    "coordinates": { "lat": 34.8687, "lng": -92.3876 },
+    "audience": "Families and professionals who want a planned, safe community north of the river with lake access and a strong sense of neighborhood without the big-city noise.",
+    "pain_points": [
+      "The river crossing — I-40 bridge traffic during rush hour is significant",
+      "Limited dining and entertainment within the community itself",
+      "Feels isolated from Little Rock's urban energy",
+      "Older planned-community housing stock from the 1980s-90s is dated"
+    ],
+    "what_draws_people": [
+      "Planned community design with parks, trails, and green space baked in",
+      "Lake Maumelle access and water recreation",
+      "Lower crime rates and strong neighborhood watch culture",
+      "Saline River Greenway trail system",
+      "Generally lower price per square foot than comparable LR neighborhoods"
+    ],
+    "content_that_works": [
+      "Living in Maumelle: is the commute worth it?",
+      "Maumelle vs. Conway: which suburb fits your family?",
+      "Lake access homes in Maumelle — what's available",
+      "Best parks and outdoor activities in Maumelle",
+      "Maumelle school district guide"
+    ],
+    "key_subtopics": [
+      "Lake Maumelle area homes",
+      "Maumelle Community Park",
+      "Saline River Greenway trail",
+      "Pulaski County Special School District",
+      "Commute dynamics to downtown and west LR"
+    ],
+    "vibe_tags": ["planned-community", "family-friendly", "outdoorsy", "safe", "suburban"],
+    "best_for": ["families", "move_up_buyers", "outdoor_enthusiasts", "commuters_to_conway"],
+    "typical_weekend": "Saturday on the Saline River Greenway trail or kayaking near Lake Maumelle. Afternoon at Maumelle Community Park with the kids. Drive into North Little Rock for dinner at a Argenta restaurant, back home for a quiet Sunday.",
+    "market": {
+      "median_price": 235000,
+      "avg_days_on_market": 26,
+      "price_trend_yoy": "+4.2%",
+      "inventory_level": "moderate",
+      "price_range": "$170K–$420K",
+      "property_types": ["single-family", "patio-home", "townhome"]
+    },
+    "schools": [
+      { "name": "Maumelle High School", "type": "public", "grades": "9-12", "rating": 7 },
+      { "name": "Maumelle Middle School", "type": "public", "grades": "6-8", "rating": 7 },
+      { "name": "Maumelle Charter School", "type": "charter", "grades": "K-8", "rating": 8 }
+    ],
+    "commute": {
+      "to_downtown": "22 min",
+      "to_airport": "28 min",
+      "to_uams": "28 min",
+      "to_major_employers": [
+        { "name": "Downtown Little Rock", "time": "22 min" },
+        { "name": "North Little Rock", "time": "15 min" },
+        { "name": "Conway (UCA)", "time": "25 min" },
+        { "name": "UAMS", "time": "28 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Whole Hog Cafe (Maumelle)", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Award-winning Arkansas BBQ, local chain institution" },
+      { "name": "Cajun's Wharf (nearby NLR)", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "River-adjacent seafood and Cajun dining institution" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Mugs Coffee (Maumelle)", "type": "coffee", "vibe": "casual", "known_for": "Local coffee shop, community gathering spot" }
+    ],
+    "parks_outdoor": [
+      { "name": "Maumelle Community Park", "type": "park", "best_for": "Youth sports, splash pad, pavilions, and large green space" },
+      { "name": "Saline River Greenway", "type": "trail", "best_for": "Multi-use paved trail system connecting neighborhoods to parks" },
+      { "name": "Lake Maumelle Recreation Area", "type": "water", "best_for": "Fishing, kayaking, and waterfront views" }
+    ],
+    "landmarks": [
+      { "name": "Maumelle Community Park", "description": "300+ acre park that serves as the social center of the Maumelle community" },
+      { "name": "Lake Maumelle", "description": "The primary drinking water source for Little Rock, with recreational access on the Maumelle side" }
+    ],
+    "development_notes": "Several new subdivisions along the Pinnacle Mountain corridor; commercial development along Club Manor Drive adding new dining and service options.",
+    "proximity_to": [
+      { "area": "North Little Rock", "drive_time": "15 min" },
+      { "area": "Conway", "drive_time": "25 min" },
+      { "area": "Downtown Little Rock", "drive_time": "22 min" },
+      { "area": "West Little Rock", "drive_time": "28 min" },
+      { "area": "Pinnacle Mountain State Park", "drive_time": "10 min" }
+    ]
+  },
+  {
+    "slug": "cammack-village",
+    "name": "Cammack Village",
+    "display_name": "Cammack Village",
+    "coordinates": { "lat": 34.7520, "lng": -92.3570 },
+    "audience": "Buyers who want the Heights lifestyle — walkability, character, mature trees — but who place the highest priority on school quality and neighborhood prestige.",
+    "pain_points": [
+      "Extremely limited inventory — only about 500 homes in the entire village",
+      "When something comes on the market, expect competition",
+      "No real commercial strip of its own; relies on the Heights for dining",
+      "Higher price premium than surrounding areas for the school zone benefit"
+    ],
+    "what_draws_people": [
+      "Surrounded on all sides by Little Rock but governed separately — its own police and services",
+      "Access to Pulaski Academy and Episcopal Collegiate feeder schools",
+      "Mature canopy and beautiful tree-lined streets",
+      "Strong community identity despite tiny size",
+      "Historic and architecturally distinctive homes"
+    ],
+    "content_that_works": [
+      "What is Cammack Village and why does everyone want to live there?",
+      "Cammack Village vs. the Heights: which is right for you?",
+      "School guide: Pulaski Academy and Episcopal Collegiate from Cammack Village",
+      "Historic homes of Cammack Village",
+      "Why Cammack Village stays one of Little Rock's best investments"
+    ],
+    "key_subtopics": [
+      "Pulaski Academy school zone",
+      "Historic architecture",
+      "Neighborhood governance and city-within-a-city character",
+      "Property appreciation history",
+      "Community events and neighborhood culture"
+    ],
+    "vibe_tags": ["prestigious", "walkable", "historic", "tree-lined", "tight-knit"],
+    "best_for": ["families", "professionals", "empty_nesters", "buyers_prioritizing_schools"],
+    "typical_weekend": "Morning walk through the tree-lined streets, then coffee at Onyx a few blocks away in the Heights. Afternoon at Allsopp Park. Dinner somewhere on Kavanaugh. Sunday is church, then a farmers market run. Slow, residential, and exactly how they like it.",
+    "market": {
+      "median_price": 375000,
+      "avg_days_on_market": 14,
+      "price_trend_yoy": "+7.2%",
+      "inventory_level": "low",
+      "price_range": "$260K–$900K",
+      "property_types": ["single-family", "bungalow", "tudor", "colonial"]
+    },
+    "schools": [
+      { "name": "Pulaski Academy", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Episcopal Collegiate School", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Fulbright Elementary", "type": "public", "grades": "K-5", "rating": 7 }
+    ],
+    "commute": {
+      "to_downtown": "12 min",
+      "to_airport": "24 min",
+      "to_uams": "13 min",
+      "to_major_employers": [
+        { "name": "UAMS", "time": "13 min" },
+        { "name": "Baptist Health", "time": "14 min" },
+        { "name": "State Capitol", "time": "12 min" },
+        { "name": "Arkansas Children's Hospital", "time": "15 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Doe's Eat Place", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "2 minutes from Cammack Village, the default neighborhood steakhouse" },
+      { "name": "ZaZa Pizza", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Walking distance for many Cammack Village residents" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Onyx Coffee Lab (Heights)", "type": "coffee", "vibe": "trendy", "known_for": "5-minute walk from most of Cammack Village" }
+    ],
+    "parks_outdoor": [
+      { "name": "Allsopp Park", "type": "park", "best_for": "Tennis courts, walking paths, and open green space bordering Cammack Village" },
+      { "name": "Heights / River Trail", "type": "trail", "best_for": "Access to the full River Trail system via Riverdale Road" }
+    ],
+    "landmarks": [
+      { "name": "Cammack Village City Hall", "description": "The tiny city hall that governs one of the smallest incorporated cities in Arkansas — a point of neighborhood pride" },
+      { "name": "The Cammack Village boundary streets", "description": "The village is defined by Markham, University, and Kavanaugh — a perfect 1-square-mile enclave" }
+    ],
+    "development_notes": "Almost no new construction — the village is essentially fully built out. Activity is renovation and flip of existing homes. One new infill project was approved in 2024.",
+    "proximity_to": [
+      { "area": "The Heights", "drive_time": "4 min" },
+      { "area": "UAMS / Medical Row", "drive_time": "13 min" },
+      { "area": "Midtown", "drive_time": "5 min" },
+      { "area": "West Little Rock", "drive_time": "14 min" },
+      { "area": "Downtown", "drive_time": "12 min" }
+    ]
+  },
+  {
+    "slug": "north-little-rock",
+    "name": "North Little Rock",
+    "display_name": "North Little Rock",
+    "coordinates": { "lat": 34.7695, "lng": -92.2671 },
+    "audience": "Value-oriented buyers, artists and creatives, and first-time buyers who want proximity to downtown without downtown prices, plus outdoor enthusiasts who live for Burns Park and the River Trail.",
+    "pain_points": [
+      "Perception problem — the 'across the river' stigma persists despite real improvements",
+      "School quality is inconsistent across the district",
+      "Some corridors are genuinely rough; neighborhood research matters more here",
+      "Commute to Little Rock requires crossing the river"
+    ],
+    "what_draws_people": [
+      "Argenta Arts District — one of the most authentic arts neighborhoods in Arkansas",
+      "Burns Park — one of the largest municipal parks in the entire United States",
+      "Affordable entry prices with genuine upside",
+      "River Trail access and Junction Bridge to downtown LR",
+      "Growing food and bar scene in the Argenta area"
+    ],
+    "content_that_works": [
+      "Argenta Arts District guide: galleries, restaurants, and events",
+      "Burns Park: the ultimate guide to North Little Rock's crown jewel",
+      "Is North Little Rock a good investment right now?",
+      "First-time buyer guide: best streets in NLR under $200K",
+      "NLR vs. Downtown LR: same commute, very different price"
+    ],
+    "key_subtopics": [
+      "Argenta Arts District",
+      "Burns Park recreation",
+      "River Trail access",
+      "First Thursday Argenta art walks",
+      "Investment and appreciation trajectory"
+    ],
+    "vibe_tags": ["artsy", "affordable", "outdoorsy", "up-and-coming", "authentic"],
+    "best_for": ["first_time_buyers", "investors", "artists", "outdoor_enthusiasts"],
+    "typical_weekend": "Saturday morning at Burns Park — maybe the disc golf course or the mountain bike trails. Lunch at one of the Argenta spots. First Thursday art walk if it's that week. Sunday is the River Trail and brunch.",
+    "market": {
+      "median_price": 175000,
+      "avg_days_on_market": 28,
+      "price_trend_yoy": "+5.8%",
+      "inventory_level": "moderate",
+      "price_range": "$110K–$380K",
+      "property_types": ["single-family", "bungalow", "craftsman", "condo"]
+    },
+    "schools": [
+      { "name": "North Little Rock High School", "type": "public", "grades": "9-12", "rating": 5 },
+      { "name": "Argenta Preparatory Academy", "type": "charter", "grades": "K-8", "rating": 7 },
+      { "name": "Ole Main High School (NLR alternative)", "type": "public", "grades": "9-12", "rating": 6 }
+    ],
+    "commute": {
+      "to_downtown": "8 min",
+      "to_airport": "12 min",
+      "to_uams": "18 min",
+      "to_major_employers": [
+        { "name": "Downtown Little Rock", "time": "8 min" },
+        { "name": "Little Rock Airport (BNA/LIT)", "time": "12 min" },
+        { "name": "UAMS", "time": "18 min" },
+        { "name": "Maumelle employers", "time": "15 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Creegan's Irish Pub", "type": "bar", "vibe": "casual", "price_range": "$$", "known_for": "Argenta institution, Irish pub with great food and live music" },
+      { "name": "Cajun's Wharf", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "River views, classic Cajun seafood, a NLR institution since the 1970s" },
+      { "name": "Eat My Catfish", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Arkansas catfish done right, no-frills and always packed" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Fossil Cove Brewing Co.", "type": "brewery", "vibe": "casual", "known_for": "Local NLR brewery with a strong tap list and a comfortable taproom" },
+      { "name": "Mugs Up Root Beer Drive-In", "type": "coffee", "vibe": "casual", "known_for": "Nostalgic drive-in institution, root beer floats and burgers" }
+    ],
+    "parks_outdoor": [
+      { "name": "Burns Park", "type": "park", "best_for": "1,600+ acres of trails, disc golf, baseball, amphitheater, and a amusement area — one of the largest municipal parks in the US" },
+      { "name": "River Trail — North Bank", "type": "trail", "best_for": "Paved multi-use trail running along the north bank of the Arkansas River" },
+      { "name": "Junction Bridge", "type": "trail", "best_for": "Pedestrian bridge connecting Argenta directly to downtown Little Rock" }
+    ],
+    "landmarks": [
+      { "name": "Argenta Arts District", "description": "A genuine arts neighborhood centered on Main Street NLR, with galleries, studios, restaurants, and First Thursday events" },
+      { "name": "Burns Park", "description": "One of the largest municipal parks in the US — over 1,600 acres of recreation a few miles from downtown" },
+      { "name": "Junction Bridge", "description": "Former railroad bridge converted to a pedestrian crossing connecting Argenta to the River Market District" }
+    ],
+    "development_notes": "Argenta continues to attract new restaurants and galleries; several mixed-use apartment developments under construction near the Main Street corridor.",
+    "proximity_to": [
+      { "area": "Downtown Little Rock", "drive_time": "8 min" },
+      { "area": "Maumelle", "drive_time": "15 min" },
+      { "area": "Sherwood", "drive_time": "15 min" },
+      { "area": "Little Rock Airport", "drive_time": "12 min" },
+      { "area": "Cabot", "drive_time": "35 min" }
+    ]
+  },
+  {
+    "slug": "conway",
+    "name": "Conway",
+    "display_name": "Conway",
+    "coordinates": { "lat": 35.0887, "lng": -92.4421 },
+    "audience": "Young families, UCA faculty and staff, and buyers priced out of Little Rock who want excellent schools, a college-town energy, and room for their money to go further.",
+    "pain_points": [
+      "30-35 minute commute to Little Rock limits appeal for LR-based workers",
+      "I-40 congestion during peak hours erodes the suburban appeal",
+      "Rapid growth means construction noise and traffic in new areas",
+      "Limited high-end dining compared to Little Rock"
+    ],
+    "what_draws_people": [
+      "Conway Public Schools — consistently among the top districts in Arkansas",
+      "University of Central Arkansas (UCA) campus energy and cultural programming",
+      "Hendrix College adds additional intellectual and cultural texture",
+      "Lower price-to-quality ratio than comparable Little Rock neighborhoods",
+      "Rapid population and job growth creating strong investment fundamentals"
+    ],
+    "content_that_works": [
+      "Conway vs. Little Rock: should you commute or stay?",
+      "Conway school district guide: public vs. private options",
+      "Best new construction neighborhoods in Conway",
+      "Living near UCA: what it's actually like",
+      "Conway restaurant and food scene guide"
+    ],
+    "key_subtopics": [
+      "Conway Public School District",
+      "UCA and Hendrix College proximity",
+      "New construction subdivisions",
+      "Lake Conway recreation",
+      "Tech corridor development"
+    ],
+    "vibe_tags": ["college-town", "family-friendly", "growing", "affordable", "outdoorsy"],
+    "best_for": ["families", "move_up_buyers", "first_time_buyers", "uca_affiliated"],
+    "typical_weekend": "Saturday morning at Lake Conway fishing or kayaking. Kids' soccer or baseball in the afternoon. Dinner at one of the growing downtown Conway restaurant options. Sunday is church, yard work, and maybe a drive to Little Rock for something specific.",
+    "market": {
+      "median_price": 245000,
+      "avg_days_on_market": 20,
+      "price_trend_yoy": "+6.1%",
+      "inventory_level": "low",
+      "price_range": "$175K–$480K",
+      "property_types": ["single-family", "new-construction", "townhome"]
+    },
+    "schools": [
+      { "name": "Conway High School", "type": "public", "grades": "9-12", "rating": 8 },
+      { "name": "Conway Junior High", "type": "public", "grades": "7-9", "rating": 8 },
+      { "name": "Conway Christian School", "type": "private", "grades": "K-12", "rating": 8 }
+    ],
+    "commute": {
+      "to_downtown": "32 min",
+      "to_airport": "38 min",
+      "to_uams": "38 min",
+      "to_major_employers": [
+        { "name": "University of Central Arkansas", "time": "5 min" },
+        { "name": "Conway Regional Medical Center", "time": "8 min" },
+        { "name": "Hendrix College", "time": "8 min" },
+        { "name": "Little Rock employers (I-40)", "time": "32-40 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Zaza Pizza (Conway)", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "The Heights favorite expands to Conway — same great pizza" },
+      { "name": "Old South Restaurant", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Conway institution for Southern comfort food and breakfast" },
+      { "name": "Stoby's Restaurant", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Conway classic, cheese dip allegedly originated here, massive portions" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Rick's Bakery", "type": "coffee", "vibe": "casual", "known_for": "Conway legend — giant pastries and coffee, a weekend destination in itself" },
+      { "name": "Depot Brewing", "type": "brewery", "vibe": "casual", "known_for": "Downtown Conway craft brewery in a historic depot building" }
+    ],
+    "parks_outdoor": [
+      { "name": "Lake Conway", "type": "water", "best_for": "Fishing, boating, and lakefront recreation — one of Arkansas's most popular fishing lakes" },
+      { "name": "Beaverfork Lake", "type": "water", "best_for": "Water skiing, fishing, and swimming in a smaller, less crowded lake" },
+      { "name": "Laurel Park", "type": "park", "best_for": "Youth sports, walking trails, and community events" }
+    ],
+    "landmarks": [
+      { "name": "University of Central Arkansas", "description": "Major state university with 12,000+ students anchoring downtown Conway's energy and economy" },
+      { "name": "Hendrix College", "description": "Liberal arts college with a beautiful campus and outsized cultural influence for its size" },
+      { "name": "Downtown Conway", "description": "A revitalized downtown square with restaurants, boutiques, and strong walkability for a mid-size Arkansas city" }
+    ],
+    "development_notes": "Multiple large residential subdivisions under construction in the I-40 corridor; Conway Regional expanding medical campus creating new healthcare employment.",
+    "proximity_to": [
+      { "area": "Maumelle", "drive_time": "25 min" },
+      { "area": "Little Rock (downtown)", "drive_time": "32 min" },
+      { "area": "Morrilton", "drive_time": "25 min" },
+      { "area": "Little Rock Airport", "drive_time": "38 min" },
+      { "area": "North Little Rock", "drive_time": "28 min" }
+    ]
+  },
+  {
+    "slug": "chenal-valley",
+    "name": "Chenal Valley",
+    "display_name": "Chenal Valley",
+    "coordinates": { "lat": 34.7248, "lng": -92.4602 },
+    "audience": "Executives, physicians, and established professionals who want the best new construction, premium amenities, and a master-planned environment that delivers what it promises.",
+    "pain_points": [
+      "Significant price premium — entry-level here is another area's move-up",
+      "Very car-dependent; almost nothing is walkable",
+      "HOA fees are real and can be substantial",
+      "The commute to downtown or UAMS is 25-30 minutes in traffic"
+    ],
+    "what_draws_people": [
+      "The Alotian Club — one of the top-rated private golf courses in the country",
+      "Chenal Country Club with golf, tennis, pool, and social facilities",
+      "Master-planned design with enforced aesthetic standards",
+      "The best concentration of luxury new construction in the metro",
+      "Top-tier school access including Little Rock Christian Academy"
+    ],
+    "content_that_works": [
+      "Chenal Valley luxury home guide",
+      "Chenal Valley vs. Pleasant Valley: the real comparison",
+      "Relocating physicians: why Chenal Valley tops the list",
+      "Golf community living in Little Rock",
+      "New construction under $600K in Chenal Valley"
+    ],
+    "key_subtopics": [
+      "The Alotian Club and Chenal Country Club",
+      "Little Rock Christian Academy feeder",
+      "New construction options by price point",
+      "Executive relocation guide",
+      "HOA communities and amenities"
+    ],
+    "vibe_tags": ["upscale", "master-planned", "golf-community", "executive", "new-construction"],
+    "best_for": ["executives", "physicians", "move_up_families", "golf_enthusiasts"],
+    "typical_weekend": "Saturday morning round at Chenal Country Club, then lunch at the club. Afternoon running kids to activities. Dinner at Petit & Keet or Arthur's. Sunday is church and a late morning on the Chenal golf course.",
+    "market": {
+      "median_price": 520000,
+      "avg_days_on_market": 28,
+      "price_trend_yoy": "+4.5%",
+      "inventory_level": "low",
+      "price_range": "$380K–$2M+",
+      "property_types": ["single-family", "new-construction", "custom-build", "patio-home"]
+    },
+    "schools": [
+      { "name": "Little Rock Christian Academy", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Mount St. Mary Academy", "type": "private", "grades": "9-12", "rating": 9 },
+      { "name": "Landmark Elementary (LRSD)", "type": "public", "grades": "K-5", "rating": 7 }
+    ],
+    "commute": {
+      "to_downtown": "28 min",
+      "to_airport": "22 min",
+      "to_uams": "22 min",
+      "to_major_employers": [
+        { "name": "UAMS", "time": "22 min" },
+        { "name": "Baptist Health", "time": "18 min" },
+        { "name": "St. Vincent Infirmary", "time": "20 min" },
+        { "name": "Downtown Little Rock", "time": "28 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Arthur's Prime Steakhouse", "type": "restaurant", "vibe": "upscale", "price_range": "$$$$", "known_for": "Little Rock's premier steakhouse, power dining institution" },
+      { "name": "Petit & Keet", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "New American, one of LR's most celebrated fine dining restaurants" },
+      { "name": "Brave New Restaurant", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "Inventive American cuisine with panoramic city views" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Starbucks Reserve (Chenal)", "type": "coffee", "vibe": "casual", "known_for": "Default morning stop for the Chenal Valley commuter" },
+      { "name": "Chenal Country Club Bar", "type": "bar", "vibe": "upscale", "known_for": "Private club bar after golf rounds — members only" }
+    ],
+    "parks_outdoor": [
+      { "name": "Chenal Country Club Golf Course", "type": "trail", "best_for": "18-hole member golf course in a master-planned residential setting" },
+      { "name": "The Alotian Club", "type": "trail", "best_for": "Top-100 private golf course in the US, ultra-exclusive, host of PGA Tour events" },
+      { "name": "Two Rivers Park", "type": "park", "best_for": "Public park with trails and the River Trail connection, 5-10 min from Chenal" }
+    ],
+    "landmarks": [
+      { "name": "The Alotian Club", "description": "One of the top-ranked private golf clubs in America, designed by Tom Fazio, a genuine national destination" },
+      { "name": "Chenal Country Club", "description": "Established member club with golf, tennis, pool, and social dining anchoring the Chenal Valley community" }
+    ],
+    "development_notes": "New luxury townhome communities under construction along the southern Chenal corridor; two new custom home subdivisions opening in 2025.",
+    "proximity_to": [
+      { "area": "West Little Rock", "drive_time": "10 min" },
+      { "area": "Pleasant Valley", "drive_time": "8 min" },
+      { "area": "UAMS", "drive_time": "22 min" },
+      { "area": "Little Rock Airport", "drive_time": "22 min" },
+      { "area": "Downtown", "drive_time": "28 min" }
+    ]
+  },
+  {
+    "slug": "pleasant-valley",
+    "name": "Pleasant Valley",
+    "display_name": "Pleasant Valley",
+    "coordinates": { "lat": 34.7350, "lng": -92.4280 },
+    "audience": "Established families and move-up buyers who want a mature, tree-lined neighborhood with country club access and strong community character without Chenal Valley prices.",
+    "pain_points": [
+      "Older housing stock — most homes built 1970s-1990s, renovation costs can be significant",
+      "PVCC membership is additional cost on top of housing",
+      "Car-dependent like all west LR neighborhoods",
+      "Prices have risen significantly, narrowing the gap with Chenal Valley"
+    ],
+    "what_draws_people": [
+      "Pleasant Valley Country Club — golf, tennis, pool, and a tight-knit social community",
+      "Mature trees and established landscaping that new construction can't replicate",
+      "Strong neighborhood identity and long-tenured residents",
+      "Excellent school access (LRCA, Hall High)",
+      "Slightly more affordable than Chenal Valley with comparable amenities"
+    ],
+    "content_that_works": [
+      "Pleasant Valley vs. Chenal Valley: the honest comparison",
+      "Living at Pleasant Valley Country Club",
+      "Older home renovation guide for west LR buyers",
+      "Is Pleasant Valley worth the premium over West Little Rock?",
+      "Move-up buyer guide: Pleasant Valley neighborhood overview"
+    ],
+    "key_subtopics": [
+      "Pleasant Valley Country Club",
+      "Mature neighborhood character",
+      "Move-up buyer market",
+      "Hall High School zone",
+      "Renovation vs. new construction trade-offs"
+    ],
+    "vibe_tags": ["established", "country-club", "family-friendly", "mature-trees", "prestigious"],
+    "best_for": ["move_up_families", "golf_enthusiasts", "established_professionals"],
+    "typical_weekend": "Saturday at the PVCC pool with the kids, then tennis. Dinner at Arthur's or a neighborhood cookout. Sunday is church, then a round at the club. Pleasant Valley weekends revolve around the club.",
+    "market": {
+      "median_price": 380000,
+      "avg_days_on_market": 24,
+      "price_trend_yoy": "+4.8%",
+      "inventory_level": "low",
+      "price_range": "$260K–$750K",
+      "property_types": ["single-family", "ranch", "two-story-traditional"]
+    },
+    "schools": [
+      { "name": "Little Rock Christian Academy", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Hall High School", "type": "public", "grades": "9-12", "rating": 7 },
+      { "name": "Pleasant Valley Elementary", "type": "public", "grades": "K-5", "rating": 8 }
+    ],
+    "commute": {
+      "to_downtown": "22 min",
+      "to_airport": "20 min",
+      "to_uams": "18 min",
+      "to_major_employers": [
+        { "name": "UAMS", "time": "18 min" },
+        { "name": "Baptist Health", "time": "14 min" },
+        { "name": "Downtown LR", "time": "22 min" },
+        { "name": "Little Rock Christian Academy", "time": "5 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Arthur's Prime Steakhouse", "type": "restaurant", "vibe": "upscale", "price_range": "$$$$", "known_for": "The Pleasant Valley neighborhood steakhouse of choice" },
+      { "name": "Pleasant Valley Country Club Dining", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "Members-only dining, Sunday brunch is a neighborhood institution" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Starbucks (Chenal area)", "type": "coffee", "vibe": "casual", "known_for": "Morning stop for the PVCC commuter crowd" }
+    ],
+    "parks_outdoor": [
+      { "name": "Pleasant Valley Country Club Golf Course", "type": "trail", "best_for": "Private member golf course with challenging layout and beautiful mature setting" },
+      { "name": "Kanis Park", "type": "park", "best_for": "Public park close to Pleasant Valley with sports fields and walking" }
+    ],
+    "landmarks": [
+      { "name": "Pleasant Valley Country Club", "description": "The social and recreational anchor of the neighborhood — golf, tennis, pool, and dining for members" }
+    ],
+    "development_notes": "Several full renovations and teardown-rebuilds occurring on larger lots; neighborhood is seeing significant renovation investment as buyers upgrade older homes.",
+    "proximity_to": [
+      { "area": "Chenal Valley", "drive_time": "8 min" },
+      { "area": "West Little Rock (retail)", "drive_time": "5 min" },
+      { "area": "UAMS", "drive_time": "18 min" },
+      { "area": "Downtown", "drive_time": "22 min" },
+      { "area": "Little Rock Airport", "drive_time": "20 min" }
+    ]
+  },
+  {
+    "slug": "sherwood",
+    "name": "Sherwood",
+    "display_name": "Sherwood",
+    "coordinates": { "lat": 34.8154, "lng": -92.2243 },
+    "audience": "Working families and first-time buyers who want suburban safety and decent schools at a price point that makes sense, with easy access to North Little Rock and Jacksonville.",
+    "pain_points": [
+      "Limited local dining and entertainment — relies on NLR for most options",
+      "Traffic on Sherwood Road and the I-40 interchange",
+      "Perception as a pass-through suburb lacks neighborhood cachet",
+      "School ratings are average, not a primary draw"
+    ],
+    "what_draws_people": [
+      "Value — more home for the money than comparable neighborhoods closer to the city",
+      "Sylvan Hills School District has a loyal following",
+      "Low crime and safe suburban environment",
+      "Convenient to Jacksonville, NLR, and the eastern metro",
+      "Relatively new housing stock in many subdivisions"
+    ],
+    "content_that_works": [
+      "Sherwood neighborhood guide: what buyers need to know",
+      "Sherwood vs. Jacksonville: side-by-side comparison",
+      "Best subdivisions in Sherwood by price point",
+      "Sylvan Hills school district overview",
+      "First-time buyers: what $175K–$250K buys you in Sherwood"
+    ],
+    "key_subtopics": [
+      "Sylvan Hills School District",
+      "Affordable suburban inventory",
+      "Jacksonville and NLR commute",
+      "Military-adjacent community culture",
+      "Investment rental potential"
+    ],
+    "vibe_tags": ["suburban", "affordable", "family-friendly", "safe", "military-adjacent"],
+    "best_for": ["first_time_buyers", "families", "military_personnel", "investors"],
+    "typical_weekend": "Errands along the Sherwood Road corridor Saturday morning. Kids' activities in the afternoon. Dinner at home or driving to NLR for something nicer. Sunday is church and a quiet neighborhood afternoon.",
+    "market": {
+      "median_price": 192000,
+      "avg_days_on_market": 24,
+      "price_trend_yoy": "+3.9%",
+      "inventory_level": "moderate",
+      "price_range": "$140K–$320K",
+      "property_types": ["single-family", "ranch", "new-construction"]
+    },
+    "schools": [
+      { "name": "Sylvan Hills High School", "type": "public", "grades": "9-12", "rating": 6 },
+      { "name": "Sylvan Hills Middle School", "type": "public", "grades": "6-8", "rating": 6 },
+      { "name": "Sherwood Elementary", "type": "public", "grades": "K-5", "rating": 6 }
+    ],
+    "commute": {
+      "to_downtown": "22 min",
+      "to_airport": "18 min",
+      "to_uams": "28 min",
+      "to_major_employers": [
+        { "name": "Little Rock Air Force Base", "time": "15 min" },
+        { "name": "North Little Rock", "time": "12 min" },
+        { "name": "Little Rock Airport", "time": "18 min" },
+        { "name": "Downtown LR", "time": "22 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Whole Hog Cafe (NLR)", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "10 minutes away, the default BBQ destination for Sherwood residents" },
+      { "name": "Local chain dining (Sherwood Rd)", "type": "restaurant", "vibe": "family", "price_range": "$$", "known_for": "Standard suburban corridor: Chili's, Applebee's, local pizza shops" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Starbucks (Hwy 107)", "type": "coffee", "vibe": "casual", "known_for": "Morning routine for the Sherwood commuter crowd" }
+    ],
+    "parks_outdoor": [
+      { "name": "Sherwood Forest Park", "type": "park", "best_for": "Community park with youth sports, playground, and open space" },
+      { "name": "Burns Park (NLR)", "type": "park", "best_for": "10-minute drive, access to one of the largest municipal parks in the US" }
+    ],
+    "landmarks": [
+      { "name": "Sherwood Road Corridor", "description": "The main commercial strip connecting Sherwood to North Little Rock and Jacksonville" }
+    ],
+    "development_notes": "New townhome development along the Hwy 107 corridor; several infill single-family subdivisions building out in 2024-2025.",
+    "proximity_to": [
+      { "area": "North Little Rock", "drive_time": "12 min" },
+      { "area": "Jacksonville", "drive_time": "15 min" },
+      { "area": "Little Rock Airport", "drive_time": "18 min" },
+      { "area": "Cabot", "drive_time": "25 min" },
+      { "area": "Downtown LR", "drive_time": "22 min" }
+    ]
+  },
+  {
+    "slug": "jacksonville",
+    "name": "Jacksonville",
+    "display_name": "Jacksonville",
+    "coordinates": { "lat": 34.8665, "lng": -92.1199 },
+    "audience": "Military families stationed at LRAFB, working families who need affordable housing in the northeast metro, and investors seeking rental properties near a stable military tenant base.",
+    "pain_points": [
+      "Heavily dependent on LRAFB — base closures or drawdowns would impact the market",
+      "Limited dining and entertainment options in Jacksonville proper",
+      "Older housing stock in many areas",
+      "Commute to Little Rock is 25-30 minutes minimum"
+    ],
+    "what_draws_people": [
+      "Little Rock Air Force Base — stable employment and consistent rental demand from military",
+      "Genuinely affordable housing — some of the lowest prices in the metro",
+      "Military community culture — strong sense of belonging and mutual support",
+      "Access to on-base amenities for servicemembers and families",
+      "Good schools in the Jacksonville/North Pulaski district"
+    ],
+    "content_that_works": [
+      "Moving to Jacksonville AR: LRAFB relocation guide",
+      "Best neighborhoods in Jacksonville near the base",
+      "Jacksonville vs. Sherwood: northeast metro comparison",
+      "Investing near LRAFB: rental market analysis",
+      "North Pulaski School District overview"
+    ],
+    "key_subtopics": [
+      "Little Rock Air Force Base (LRAFB)",
+      "Military relocation",
+      "Affordable investment properties",
+      "North Pulaski School District",
+      "Northeast metro commute"
+    ],
+    "vibe_tags": ["military-community", "affordable", "family-friendly", "suburban", "stable"],
+    "best_for": ["military_families", "investors", "first_time_buyers", "working_families"],
+    "typical_weekend": "Saturday is base activities or kids' sports. Dinner at home or one of the local spots on John Harden Drive. Sunday is church, maybe a drive to Cabot or NLR for shopping.",
+    "market": {
+      "median_price": 158000,
+      "avg_days_on_market": 28,
+      "price_trend_yoy": "+3.2%",
+      "inventory_level": "moderate",
+      "price_range": "$110K–$280K",
+      "property_types": ["single-family", "ranch", "manufactured"]
+    },
+    "schools": [
+      { "name": "Jacksonville High School", "type": "public", "grades": "9-12", "rating": 6 },
+      { "name": "Jacksonville Middle School", "type": "public", "grades": "6-8", "rating": 5 },
+      { "name": "Arnold Drive Elementary", "type": "public", "grades": "K-5", "rating": 6 }
+    ],
+    "commute": {
+      "to_downtown": "28 min",
+      "to_airport": "18 min",
+      "to_uams": "32 min",
+      "to_major_employers": [
+        { "name": "Little Rock Air Force Base", "time": "5 min" },
+        { "name": "Little Rock Airport", "time": "18 min" },
+        { "name": "North Little Rock", "time": "20 min" },
+        { "name": "Cabot", "time": "18 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Taco Bell / local chains (John Harden Dr)", "type": "restaurant", "vibe": "quick_bite", "price_range": "$", "known_for": "Practical dining strip near the base — limited but convenient" },
+      { "name": "Whole Hog Cafe (nearby)", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Drive to NLR or Cabot for quality BBQ" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Starbucks (Jacksonville)", "type": "coffee", "vibe": "casual", "known_for": "One of few sit-down coffee options in the area" }
+    ],
+    "parks_outdoor": [
+      { "name": "Dupree Park", "type": "park", "best_for": "Community park with sports facilities and walking paths" },
+      { "name": "Burns Park (NLR)", "type": "park", "best_for": "20-minute drive to one of the region's premier outdoor recreation areas" }
+    ],
+    "landmarks": [
+      { "name": "Little Rock Air Force Base", "description": "Home of the 19th Airlift Wing, C-130 training, and thousands of military and civilian employees — the economic anchor of Jacksonville" }
+    ],
+    "development_notes": "Some commercial redevelopment along the John Harden Drive corridor; new subdivision activity north of the base near Cabot Road.",
+    "proximity_to": [
+      { "area": "Cabot", "drive_time": "18 min" },
+      { "area": "Sherwood", "drive_time": "15 min" },
+      { "area": "North Little Rock", "drive_time": "20 min" },
+      { "area": "Little Rock Airport", "drive_time": "18 min" },
+      { "area": "Downtown LR", "drive_time": "28 min" }
+    ]
+  },
+  {
+    "slug": "cabot",
+    "name": "Cabot",
+    "display_name": "Cabot",
+    "coordinates": { "lat": 34.9748, "lng": -92.0165 },
+    "audience": "Families who prioritize school district above all else and are willing to commute 35-40 minutes to Little Rock to access what is consistently rated as one of Arkansas's top public school systems.",
+    "pain_points": [
+      "The commute to Little Rock proper is real — budget 35-40 minutes in traffic",
+      "Limited urban amenities; still a small-town feel despite rapid growth",
+      "New construction pace means traffic and infrastructure strain",
+      "Limited dining options compared to the city"
+    ],
+    "what_draws_people": [
+      "Cabot School District — one of the highest-rated public school systems in Arkansas",
+      "Lower cost per square foot than equivalent quality in Little Rock",
+      "Small-town community feel with rapid growth bringing new amenities",
+      "Family-focused community events and sports culture",
+      "New construction in desirable subdivisions at accessible price points"
+    ],
+    "content_that_works": [
+      "Cabot school district: why families drive 40 minutes for it",
+      "Best new construction neighborhoods in Cabot",
+      "Cabot vs. Bryant: which suburb has better schools?",
+      "What $250K–$350K buys you in Cabot",
+      "Move-up family guide to Cabot, AR"
+    ],
+    "key_subtopics": [
+      "Cabot School District ranking",
+      "New construction subdivisions",
+      "Family-focused community events",
+      "Commute management to Little Rock",
+      "Price-to-quality ratio for families"
+    ],
+    "vibe_tags": ["school-focused", "family-friendly", "small-town", "growing", "affordable"],
+    "best_for": ["families", "move_up_buyers", "school_district_buyers"],
+    "typical_weekend": "Saturday is Cabot Panther football or kids' athletics. Lunch at one of the local spots. Drive to NLR or LR for dinner if feeling adventurous. Sunday is church — Cabot has a strong church community.",
+    "market": {
+      "median_price": 248000,
+      "avg_days_on_market": 18,
+      "price_trend_yoy": "+6.4%",
+      "inventory_level": "low",
+      "price_range": "$160K–$420K",
+      "property_types": ["single-family", "new-construction", "ranch"]
+    },
+    "schools": [
+      { "name": "Cabot High School", "type": "public", "grades": "9-12", "rating": 9 },
+      { "name": "Cabot Middle School North/South", "type": "public", "grades": "6-8", "rating": 8 },
+      { "name": "Cabot Elementary Schools", "type": "public", "grades": "K-5", "rating": 8 }
+    ],
+    "commute": {
+      "to_downtown": "38 min",
+      "to_airport": "28 min",
+      "to_uams": "40 min",
+      "to_major_employers": [
+        { "name": "Little Rock Air Force Base", "time": "18 min" },
+        { "name": "North Little Rock", "time": "28 min" },
+        { "name": "Little Rock Airport", "time": "28 min" },
+        { "name": "Downtown LR", "time": "38 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Taziki's Mediterranean Cafe (Cabot)", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "One of the better sit-down options in the Cabot corridor" },
+      { "name": "Cabot Diner and local spots", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Small-town diner culture with local regulars" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Local coffee shops", "type": "coffee", "vibe": "casual", "known_for": "Small independent coffee shops serving the school-parent morning crowd" }
+    ],
+    "parks_outdoor": [
+      { "name": "Cabot Athletic Complex", "type": "playground", "best_for": "Youth sports facilities serving Cabot's nationally-recognized athletic programs" },
+      { "name": "Cabot City Park", "type": "park", "best_for": "Community green space with walking trail and playground" }
+    ],
+    "landmarks": [
+      { "name": "Cabot Panther Stadium", "description": "Friday night football is a community institution — capacity crowds and genuine small-town pride" },
+      { "name": "Cabot School District Facilities", "description": "Modern facilities reflecting the district's top-tier status; the reason most families move here" }
+    ],
+    "development_notes": "Multiple large residential subdivisions under development; new commercial corridor developing along Highway 321; population growth outpacing most of the metro.",
+    "proximity_to": [
+      { "area": "Jacksonville", "drive_time": "18 min" },
+      { "area": "Sherwood", "drive_time": "25 min" },
+      { "area": "Little Rock Airport", "drive_time": "28 min" },
+      { "area": "Beebe", "drive_time": "20 min" },
+      { "area": "North Little Rock", "drive_time": "28 min" }
+    ]
+  },
+  {
+    "slug": "bryant",
+    "name": "Bryant",
+    "display_name": "Bryant",
+    "coordinates": { "lat": 34.5987, "lng": -92.4896 },
+    "audience": "Families who want the combination of an excellent school district, affordable new construction, and a south-side location that avoids north I-30 traffic.",
+    "pain_points": [
+      "I-30 southbound traffic during peak hours can be brutal",
+      "Still relatively limited in terms of dining and entertainment",
+      "The suburban character is heavy — not for buyers who want city energy",
+      "Rapid growth means some growing pains in infrastructure"
+    ],
+    "what_draws_people": [
+      "Bryant School District — consistently top-10 in Arkansas, exceptional athletics",
+      "New construction at prices well below comparable LR neighborhoods",
+      "Saline County tax rates lower than Pulaski County",
+      "Strong community identity built around Hornet pride",
+      "Accessible to Little Rock without the city tax burden"
+    ],
+    "content_that_works": [
+      "Bryant vs. Cabot: which suburb wins for families?",
+      "Bryant school district guide: what makes it exceptional",
+      "New construction guide for Bryant, AR",
+      "Saline County vs. Pulaski County: the tax difference explained",
+      "What $225K–$325K buys you in Bryant"
+    ],
+    "key_subtopics": [
+      "Bryant Hornets school district",
+      "Saline County tax advantage",
+      "New construction market",
+      "I-30 commute management",
+      "Community sports culture"
+    ],
+    "vibe_tags": ["school-focused", "family-friendly", "growing", "suburban", "affordable"],
+    "best_for": ["families", "move_up_buyers", "first_time_buyers", "saline_county_employers"],
+    "typical_weekend": "Friday night at the Hornets game. Saturday kids' activities, then Lowe's for a home project. Dinner at one of the new restaurant additions along Highway 5. Sunday is church and yard work.",
+    "market": {
+      "median_price": 242000,
+      "avg_days_on_market": 19,
+      "price_trend_yoy": "+6.8%",
+      "inventory_level": "low",
+      "price_range": "$170K–$430K",
+      "property_types": ["single-family", "new-construction", "ranch"]
+    },
+    "schools": [
+      { "name": "Bryant High School", "type": "public", "grades": "9-12", "rating": 9 },
+      { "name": "Bryant Middle School", "type": "public", "grades": "6-8", "rating": 8 },
+      { "name": "Bryant Elementary Schools", "type": "public", "grades": "K-5", "rating": 8 }
+    ],
+    "commute": {
+      "to_downtown": "25 min",
+      "to_airport": "28 min",
+      "to_uams": "25 min",
+      "to_major_employers": [
+        { "name": "Downtown LR", "time": "25 min" },
+        { "name": "UAMS", "time": "25 min" },
+        { "name": "Baptist Health (Saline)", "time": "10 min" },
+        { "name": "Benton employers", "time": "12 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Taziki's (Bryant)", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "One of the best sit-down options in the Bryant corridor" },
+      { "name": "Colton's Steak House", "type": "restaurant", "vibe": "family", "price_range": "$$", "known_for": "Family steakhouse popular with the after-game Friday night crowd" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Local coffee shops (Hwy 5)", "type": "coffee", "vibe": "casual", "known_for": "Independent coffee shops serving the school-parent crowd" }
+    ],
+    "parks_outdoor": [
+      { "name": "Bishop Park", "type": "park", "best_for": "Large community park with sports fields, aquatic center, and walking trails" },
+      { "name": "Saline River access", "type": "water", "best_for": "Fishing and light river recreation accessible from Saline County parks" }
+    ],
+    "landmarks": [
+      { "name": "Bryant Hornet Stadium", "description": "Friday night football is the heartbeat of Bryant — the stadium fills regardless of the season's record" },
+      { "name": "Baptist Health Medical Center - Saline", "description": "Growing medical campus serving the Saline County corridor and supporting area employment" }
+    ],
+    "development_notes": "Extensive new construction activity along the Highway 5 and Highway 229 corridors; new commercial development bringing additional dining options to match population growth.",
+    "proximity_to": [
+      { "area": "Benton", "drive_time": "12 min" },
+      { "area": "Little Rock (downtown)", "drive_time": "25 min" },
+      { "area": "UAMS", "drive_time": "25 min" },
+      { "area": "Little Rock Airport", "drive_time": "28 min" },
+      { "area": "Hot Springs", "drive_time": "45 min" }
+    ]
+  },
+  {
+    "slug": "benton",
+    "name": "Benton",
+    "display_name": "Benton",
+    "coordinates": { "lat": 34.5648, "lng": -92.5868 },
+    "audience": "Value buyers, small-town lifestyle seekers, and investors who want Saline County tax advantages, community character, and a genuine small-town feel 20 minutes from Little Rock.",
+    "pain_points": [
+      "More limited job market than Little Rock — most residents commute",
+      "Downtown Benton revitalization is early-stage",
+      "Limited dining and nightlife options",
+      "Older housing stock in many established neighborhoods"
+    ],
+    "what_draws_people": [
+      "Saline County seat with genuine small-town community culture",
+      "Lower real estate prices than Bryant with similar county tax advantages",
+      "Railroad Avenue revitalization bringing new energy to downtown",
+      "Tyndall Park and outdoor recreation options",
+      "Strong value play — lowest price-to-quality in the south metro"
+    ],
+    "content_that_works": [
+      "Benton AR neighborhood guide: what buyers need to know",
+      "Benton vs. Bryant: which Saline County city is right for you?",
+      "Downtown Benton revitalization: what's happening on Railroad Ave",
+      "Investment properties in Benton: the case for Saline County",
+      "What $150K–$250K buys you in Benton"
+    ],
+    "key_subtopics": [
+      "Saline County tax advantage",
+      "Railroad Avenue revitalization",
+      "Benton School District",
+      "Value investment properties",
+      "Small-town community culture"
+    ],
+    "vibe_tags": ["small-town", "affordable", "authentic", "community-oriented", "value"],
+    "best_for": ["first_time_buyers", "investors", "value_buyers", "small_town_seekers"],
+    "typical_weekend": "Saturday at Tyndall Park or the Saline River. Downtown Benton for coffee and a walk on Railroad Ave if the weather's nice. Sunday is church and family time. Quiet, unhurried, and exactly what a lot of people are looking for.",
+    "market": {
+      "median_price": 188000,
+      "avg_days_on_market": 26,
+      "price_trend_yoy": "+4.1%",
+      "inventory_level": "moderate",
+      "price_range": "$130K–$340K",
+      "property_types": ["single-family", "ranch", "older-stock", "new-construction"]
+    },
+    "schools": [
+      { "name": "Benton High School", "type": "public", "grades": "9-12", "rating": 6 },
+      { "name": "Benton Middle School", "type": "public", "grades": "6-8", "rating": 6 },
+      { "name": "Benton Elementary Schools", "type": "public", "grades": "K-5", "rating": 6 }
+    ],
+    "commute": {
+      "to_downtown": "30 min",
+      "to_airport": "32 min",
+      "to_uams": "30 min",
+      "to_major_employers": [
+        { "name": "Bryant employers", "time": "12 min" },
+        { "name": "Baptist Health Saline", "time": "15 min" },
+        { "name": "Little Rock (downtown)", "time": "30 min" },
+        { "name": "Hot Springs", "drive_time": "35 min", "time": "35 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Whole Hog Cafe (Benton)", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Arkansas BBQ institution with a Benton location" },
+      { "name": "Railroad Ave restaurants", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Growing collection of locally-owned dining on the revitalized downtown strip" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Local Benton coffee shops", "type": "coffee", "vibe": "casual", "known_for": "Small independent cafes in the Railroad Ave district" }
+    ],
+    "parks_outdoor": [
+      { "name": "Tyndall Park", "type": "park", "best_for": "Sports, community events, and open green space — the center of Benton outdoor activity" },
+      { "name": "Saline River", "type": "water", "best_for": "Fishing, light paddling, and river access at multiple Saline County parks" }
+    ],
+    "landmarks": [
+      { "name": "Railroad Avenue", "description": "Benton's downtown revitalization corridor — historic storefronts being converted to restaurants, boutiques, and gathering spaces" },
+      { "name": "Saline County Courthouse", "description": "Classic Arkansas county courthouse anchoring downtown Benton, a visual reminder of the county seat's history" }
+    ],
+    "development_notes": "Railroad Avenue revitalization accelerating with several new restaurant and retail openings; residential development active on the north and east sides of the city.",
+    "proximity_to": [
+      { "area": "Bryant", "drive_time": "12 min" },
+      { "area": "Hot Springs Village", "drive_time": "35 min" },
+      { "area": "Hot Springs", "drive_time": "35 min" },
+      { "area": "Little Rock (downtown)", "drive_time": "30 min" },
+      { "area": "Little Rock Airport", "drive_time": "32 min" }
+    ]
+  },
+  {
+    "slug": "hot-springs-village",
+    "name": "Hot Springs Village",
+    "display_name": "Hot Springs Village",
+    "coordinates": { "lat": 34.6563, "lng": -93.0088 },
+    "audience": "Retirees and pre-retirees seeking the best active adult lifestyle in Arkansas — multiple golf courses, beautiful lakes, low maintenance, and a tight-knit community of like-minded people.",
+    "pain_points": [
+      "45-60 minutes from Little Rock limits access to city amenities",
+      "The POA (Property Owners Association) fee is significant",
+      "Limited healthcare options within the village itself",
+      "The community skews older — not ideal for families or young buyers",
+      "Resale can be slower due to specialized buyer pool"
+    ],
+    "what_draws_people": [
+      "Largest gated community in the United States — 26,000+ acres",
+      "9 golf courses including Balboa and Coronado clubs",
+      "11 lakes within the village boundaries",
+      "Lock-and-leave lifestyle with extensive amenity infrastructure",
+      "Genuine community — the Village has its own newspaper, restaurants, and civic life"
+    ],
+    "content_that_works": [
+      "Hot Springs Village retirement guide: is it right for you?",
+      "Hot Springs Village vs. the Heights: two paths to right-sizing",
+      "Golf and lake life in Hot Springs Village",
+      "Cost breakdown: what does Hot Springs Village actually cost per month?",
+      "Active adult living in Arkansas: HSV vs. other options"
+    ],
+    "key_subtopics": [
+      "POA fees and governance",
+      "Golf course selection (9 courses)",
+      "Lake access and water recreation",
+      "Active adult community culture",
+      "Healthcare access and planning"
+    ],
+    "vibe_tags": ["retirement", "golf-community", "lakeside", "gated", "active-adult"],
+    "best_for": ["retirees", "empty_nesters", "golf_enthusiasts", "lock_and_leave"],
+    "typical_weekend": "Saturday morning round at Balboa Golf Club. Lunch at one of the Village clubs. Afternoon on Lake Balboa fishing or pontoon boating. Dinner at one of the Village restaurants. Sunday is the same routine, maybe a different course.",
+    "market": {
+      "median_price": 268000,
+      "avg_days_on_market": 42,
+      "price_trend_yoy": "+3.8%",
+      "inventory_level": "moderate",
+      "price_range": "$150K–$650K",
+      "property_types": ["single-family", "patio-home", "condo", "ranch"]
+    },
+    "schools": [
+      { "name": "Mountain Pine School District", "type": "public", "grades": "K-12", "rating": 5 }
+    ],
+    "commute": {
+      "to_downtown": "55 min",
+      "to_airport": "55 min",
+      "to_uams": "55 min",
+      "to_major_employers": [
+        { "name": "Hot Springs (Oaklawn, medical)", "time": "15 min" },
+        { "name": "Benton employers", "time": "35 min" },
+        { "name": "Little Rock (downtown)", "time": "55 min" },
+        { "name": "Little Rock Airport", "time": "55 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Balboa Clubhouse Restaurant", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Classic clubhouse dining after a round at Balboa Golf Club" },
+      { "name": "Isabella's Restaurant", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Village dining staple with a loyal local following" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Village coffee shops", "type": "coffee", "vibe": "casual", "known_for": "Several independently-owned coffee shops serving the morning golfer crowd" }
+    ],
+    "parks_outdoor": [
+      { "name": "Lake Balboa", "type": "water", "best_for": "Fishing, pontoon boating, and waterfront living" },
+      { "name": "Lake Cortez", "type": "water", "best_for": "Smaller, quieter lake popular for kayaking and fishing" },
+      { "name": "Balboa Golf Club", "type": "trail", "best_for": "18-hole golf course, one of 9 within Village boundaries" },
+      { "name": "HSV Trails System", "type": "trail", "best_for": "Miles of walking and cycling trails throughout the Village" }
+    ],
+    "landmarks": [
+      { "name": "Hot Springs Village POA", "description": "The governing body for the largest gated community in the US — manages roads, amenities, lakes, and golf courses" },
+      { "name": "Balboa Club", "description": "The flagship amenity of the Village — 18-hole golf, marina, beach, and clubhouse dining" }
+    ],
+    "development_notes": "The Village is transitioning from a purely retirement community to a broader active adult appeal; some infrastructure updates ongoing and a push for more dining and commercial options.",
+    "proximity_to": [
+      { "area": "Hot Springs", "drive_time": "15 min" },
+      { "area": "Benton", "drive_time": "35 min" },
+      { "area": "Bryant", "drive_time": "42 min" },
+      { "area": "Little Rock (downtown)", "drive_time": "55 min" },
+      { "area": "Arkadelphia", "drive_time": "45 min" }
+    ]
+  },
+  {
+    "slug": "soma",
+    "name": "SoMa District",
+    "display_name": "SoMa (South Main) District",
+    "coordinates": { "lat": 34.7365, "lng": -92.2848 },
+    "audience": "Creatives, young professionals, and urban buyers who want the Heights' energy at a lower price point, with genuine arts culture, walkability, and a neighborhood that's still becoming something.",
+    "pain_points": [
+      "Uneven development — some blocks are polished, others aren't yet",
+      "Limited family-oriented amenities",
+      "Parking can be scarce near South Main during events",
+      "School options require research and often private school consideration"
+    ],
+    "what_draws_people": [
+      "South on Main — one of Arkansas's most acclaimed restaurants",
+      "Lost Forty Brewing — the anchor of SoMa's social scene",
+      "South Main Creative Corridor — galleries, studios, and the Argenta-style arts energy",
+      "Genuinely walkable main street feeling on South Main",
+      "Lower buy-in than the Heights with similar appreciation trajectory"
+    ],
+    "content_that_works": [
+      "SoMa District guide: Little Rock's creative neighborhood",
+      "South Main restaurants and bars: the definitive list",
+      "SoMa vs. the Heights: which urban neighborhood is right for you?",
+      "Arts scene in SoMa: galleries, studios, and events",
+      "First-time buyer guide to South Main / SoMa"
+    ],
+    "key_subtopics": [
+      "South Main Creative Corridor",
+      "Lost Forty Brewery",
+      "South on Main restaurant",
+      "Gallery and arts scene",
+      "Appreciation and gentrification dynamics"
+    ],
+    "vibe_tags": ["artsy", "walkable", "trendy", "creative", "up-and-coming"],
+    "best_for": ["young_professionals", "creatives", "first_time_buyers", "urban_buyers"],
+    "typical_weekend": "Saturday starts at the Root Cafe for brunch. Walk to Community Bakery for pastries. Afternoon at one of the South Main galleries. Evening at Lost Forty for beers and live music. Sunday farmers market at the Ottenheimer (5 min away), then South on Main for a late lunch.",
+    "market": {
+      "median_price": 248000,
+      "avg_days_on_market": 22,
+      "price_trend_yoy": "+7.1%",
+      "inventory_level": "low",
+      "price_range": "$175K–$525K",
+      "property_types": ["bungalow", "craftsman", "condo", "loft", "single-family"]
+    },
+    "schools": [
+      { "name": "Gibbs International Magnet", "type": "public", "grades": "K-5", "rating": 7 },
+      { "name": "Parkview Arts & Science Magnet", "type": "public", "grades": "9-12", "rating": 8 },
+      { "name": "Episcopal Collegiate School", "type": "private", "grades": "K-12", "rating": 9 }
+    ],
+    "commute": {
+      "to_downtown": "5 min",
+      "to_airport": "18 min",
+      "to_uams": "12 min",
+      "to_major_employers": [
+        { "name": "Downtown LR / State government", "time": "5 min" },
+        { "name": "UAMS", "time": "12 min" },
+        { "name": "Baptist Health", "time": "15 min" },
+        { "name": "Arkansas Children's Hospital", "time": "14 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "South on Main", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "James Beard-nominated Southern cuisine; the restaurant that put SoMa on the culinary map" },
+      { "name": "Root Cafe", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Farm-to-table brunch institution, local sourcing, great community vibe" },
+      { "name": "Community Bakery", "type": "bakery", "vibe": "casual", "price_range": "$", "known_for": "Little Rock's oldest continuously-operating bakery — since 1947, now in SoMa" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Lost Forty Brewing", "type": "brewery", "vibe": "casual", "known_for": "The social anchor of SoMa — large taproom, excellent beers, frequent live music and events" },
+      { "name": "Stone's Throw Brewing", "type": "brewery", "vibe": "casual", "known_for": "Neighborhood brewery with a laid-back atmosphere and solid tap list" }
+    ],
+    "parks_outdoor": [
+      { "name": "MacArthur Park", "type": "park", "best_for": "Historic park adjacent to the Arkansas Arts Center, walking and community events" },
+      { "name": "River Trail — South Access", "type": "trail", "best_for": "Access point for the River Trail running system, short ride to downtown" }
+    ],
+    "landmarks": [
+      { "name": "Lost Forty Brewing", "description": "The neighborhood anchor and social heart of SoMa — their taproom hosts music, events, and the community" },
+      { "name": "South Main Creative Corridor", "description": "The stretch of South Main from Capitol to 12th Street with galleries, restaurants, and studios defining the neighborhood's character" },
+      { "name": "Arkansas Arts Center", "description": "Major visual arts museum at the edge of MacArthur Park — a cultural anchor for SoMa and the city" }
+    ],
+    "development_notes": "New mixed-use development under construction on South Main between 4th and 6th; continued gallery and creative business openings driving the corridor's evolution.",
+    "proximity_to": [
+      { "area": "Downtown Little Rock", "drive_time": "5 min" },
+      { "area": "Midtown", "drive_time": "6 min" },
+      { "area": "The Heights", "drive_time": "10 min" },
+      { "area": "UAMS", "drive_time": "12 min" },
+      { "area": "Riverdale", "drive_time": "8 min" }
+    ]
+  },
+  {
+    "slug": "riverdale",
+    "name": "Riverdale",
+    "display_name": "Riverdale",
+    "coordinates": { "lat": 34.7420, "lng": -92.3080 },
+    "audience": "Established professionals, empty nesters, and buyers who want proximity to the Heights and the river without the Heights price, in a quieter, more residential setting.",
+    "pain_points": [
+      "Limited commercial corridor of its own — relies on the Heights for dining",
+      "Some of the housing stock is dated and requires investment",
+      "River Road traffic during peak hours",
+      "Less neighborhood identity than the Heights or SoMa"
+    ],
+    "what_draws_people": [
+      "Riverfront Park access and Big Dam Bridge proximity",
+      "Quieter, more residential character than the Heights proper",
+      "Older established homes with good bones and mature trees",
+      "Central location — everything is 10-15 minutes away",
+      "Generally lower prices than the Heights for comparable quality"
+    ],
+    "content_that_works": [
+      "Riverdale neighborhood guide: hidden gem next to the Heights",
+      "Living near the river: Riverdale lifestyle guide",
+      "Riverdale vs. the Heights: which fits your budget?",
+      "Home renovation opportunities in Riverdale",
+      "River access and outdoor recreation from Riverdale"
+    ],
+    "key_subtopics": [
+      "Riverfront Park and Big Dam Bridge access",
+      "River Road neighborhood character",
+      "Renovation opportunities",
+      "Heights adjacency",
+      "Investment trajectory"
+    ],
+    "vibe_tags": ["established", "quiet", "river-adjacent", "walkable", "residential"],
+    "best_for": ["professionals", "empty_nesters", "renovation_buyers", "river_enthusiasts"],
+    "typical_weekend": "Morning run on the River Trail from the Riverdale boat launch. Coffee at a Heights spot 5 minutes away. Afternoon puttering around the house. Dinner on Kavanaugh. The Riverdale weekend is comfortable and unhurried.",
+    "market": {
+      "median_price": 285000,
+      "avg_days_on_market": 26,
+      "price_trend_yoy": "+5.3%",
+      "inventory_level": "low",
+      "price_range": "$180K–$580K",
+      "property_types": ["single-family", "craftsman", "ranch", "condo"]
+    },
+    "schools": [
+      { "name": "Pulaski Academy", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Episcopal Collegiate School", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Fulbright Elementary", "type": "public", "grades": "K-5", "rating": 7 }
+    ],
+    "commute": {
+      "to_downtown": "12 min",
+      "to_airport": "22 min",
+      "to_uams": "15 min",
+      "to_major_employers": [
+        { "name": "UAMS", "time": "15 min" },
+        { "name": "Baptist Health", "time": "16 min" },
+        { "name": "Downtown LR", "time": "12 min" },
+        { "name": "Arkansas Children's", "time": "16 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Brave New Restaurant", "type": "restaurant", "vibe": "upscale", "price_range": "$$$", "known_for": "Panoramic city and river views, consistently one of LR's best special-occasion restaurants" },
+      { "name": "Heights restaurants (5 min)", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Kavanaugh Blvd is effectively Riverdale's restaurant scene" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Onyx (Heights, 5 min)", "type": "coffee", "vibe": "trendy", "known_for": "Riverdale residents treat the Heights coffee scene as their own" }
+    ],
+    "parks_outdoor": [
+      { "name": "Riverfront Park / Big Dam Bridge", "type": "park", "best_for": "River access, walking, cycling, and the Junction Bridge to NLR" },
+      { "name": "River Trail — Riverdale Segment", "type": "trail", "best_for": "Paved trail running along the south bank of the Arkansas River" }
+    ],
+    "landmarks": [
+      { "name": "Brave New Restaurant", "description": "Perched above Riverdale with panoramic river and city views — a landmark dining experience" },
+      { "name": "Riverdale boat launches", "description": "Multiple access points to the Arkansas River and the River Trail system from the Riverdale corridor" }
+    ],
+    "development_notes": "Several renovation projects on River Road; occasional new infill development; generally stable and slowly appreciating with Heights adjacency as its tailwind.",
+    "proximity_to": [
+      { "area": "The Heights", "drive_time": "6 min" },
+      { "area": "Downtown", "drive_time": "12 min" },
+      { "area": "SoMa", "drive_time": "8 min" },
+      { "area": "UAMS", "drive_time": "15 min" },
+      { "area": "Midtown", "drive_time": "8 min" }
+    ]
+  },
+  {
+    "slug": "midtown",
+    "name": "Midtown Little Rock",
+    "display_name": "Midtown Little Rock",
+    "coordinates": { "lat": 34.7435, "lng": -92.3180 },
+    "audience": "Value-seeking urban buyers, renters ready to buy, and investors who want Heights-adjacent character at first-time buyer prices, accepting that the neighborhood is still transitioning.",
+    "pain_points": [
+      "Block-by-block quality variation — research specific streets carefully",
+      "Still genuinely transitional in some corridors",
+      "Less established commercial scene than the Heights",
+      "Some older housing stock requires significant renovation budget"
+    ],
+    "what_draws_people": [
+      "Heights-adjacent pricing — similar character at 20-30% lower cost",
+      "Markham Street corridor has genuine small-business energy developing",
+      "Historic housing stock with renovation potential",
+      "Increasingly attracting young creatives and first-time buyers",
+      "Strong long-term appreciation potential as the Heights prices out buyers"
+    ],
+    "content_that_works": [
+      "Midtown Little Rock: the neighborhood in transition",
+      "First-time buyer guide: what Midtown offers under $250K",
+      "Midtown vs. Heights: same commute, different price point",
+      "Renovation success stories in Midtown Little Rock",
+      "Is Midtown Little Rock a good investment in 2025?"
+    ],
+    "key_subtopics": [
+      "Markham Street small business corridor",
+      "Historic renovation opportunities",
+      "Heights spillover buyer profile",
+      "Investment and appreciation potential",
+      "Urban living price point comparison"
+    ],
+    "vibe_tags": ["transitional", "affordable", "urban", "emerging", "creative"],
+    "best_for": ["first_time_buyers", "investors", "young_professionals", "renovation_buyers"],
+    "typical_weekend": "Morning coffee at a Midtown spot, then over to the Heights for brunch. Afternoon working on a home project — Midtown buyers tend to be hands-on. Evening at Lost Forty or somewhere in SoMa. Sunday is the farmers market.",
+    "market": {
+      "median_price": 198000,
+      "avg_days_on_market": 24,
+      "price_trend_yoy": "+6.2%",
+      "inventory_level": "moderate",
+      "price_range": "$130K–$380K",
+      "property_types": ["bungalow", "craftsman", "single-family", "duplex"]
+    },
+    "schools": [
+      { "name": "Pulaski Academy", "type": "private", "grades": "K-12", "rating": 9 },
+      { "name": "Dunbar Magnet Middle", "type": "public", "grades": "6-8", "rating": 7 },
+      { "name": "Brady Elementary", "type": "public", "grades": "K-5", "rating": 6 }
+    ],
+    "commute": {
+      "to_downtown": "12 min",
+      "to_airport": "22 min",
+      "to_uams": "14 min",
+      "to_major_employers": [
+        { "name": "UAMS", "time": "14 min" },
+        { "name": "Downtown LR", "time": "12 min" },
+        { "name": "Baptist Health", "time": "15 min" },
+        { "name": "State Capitol", "time": "12 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Heights restaurants (walking/biking distance)", "type": "restaurant", "vibe": "casual", "price_range": "$$", "known_for": "Midtown buyers effectively use Kavanaugh as their neighborhood dining strip" },
+      { "name": "Local Midtown spots (Markham corridor)", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Growing number of independent cafes and casual spots on Markham" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Onyx Coffee Lab (nearby Heights)", "type": "coffee", "vibe": "trendy", "known_for": "Default coffee spot for Midtown residents, 5-8 minutes away" }
+    ],
+    "parks_outdoor": [
+      { "name": "Allsopp Park (nearby)", "type": "park", "best_for": "Tennis, walking, and open green space at the Heights-Midtown border" },
+      { "name": "River Trail access", "type": "trail", "best_for": "Short bike or drive to multiple River Trail access points" }
+    ],
+    "landmarks": [
+      { "name": "Markham Street Corridor", "description": "Midtown's main commercial artery — a mix of long-standing businesses and new openings as the neighborhood evolves" }
+    ],
+    "development_notes": "Renovation activity intensifying as Heights buyers priced out look to Midtown; several multi-family conversion projects on the Markham corridor.",
+    "proximity_to": [
+      { "area": "The Heights", "drive_time": "5 min" },
+      { "area": "Cammack Village", "drive_time": "5 min" },
+      { "area": "SoMa", "drive_time": "6 min" },
+      { "area": "Downtown", "drive_time": "12 min" },
+      { "area": "UAMS", "drive_time": "14 min" }
+    ]
+  },
+  {
+    "slug": "colony-west-otter-creek",
+    "name": "Colony West / Otter Creek",
+    "display_name": "Colony West / Otter Creek",
+    "coordinates": { "lat": 34.6850, "lng": -92.4060 },
+    "audience": "Diverse families and budget-conscious buyers who want southwest Little Rock at an accessible price point, with newer development options and improving infrastructure.",
+    "pain_points": [
+      "Some corridors have had crime concerns — block-by-block research important",
+      "Limited high-quality dining in the immediate area",
+      "Commute to central LR employment is 20-30 minutes",
+      "Less established neighborhood identity compared to east or north LR"
+    ],
+    "what_draws_people": [
+      "Among the most diverse communities in the metro — strong multicultural character",
+      "Newer construction available at accessible price points",
+      "Otter Creek Park provides significant green space",
+      "Lower prices than comparable sized homes in north or west LR",
+      "Access to growing Southwest LR commercial development"
+    ],
+    "content_that_works": [
+      "Colony West / Otter Creek neighborhood guide",
+      "Southwest Little Rock investment opportunities",
+      "Otter Creek Park: the outdoor gem of southwest LR",
+      "First-time buyer: what $150K–$220K buys in southwest LR",
+      "Diverse communities in Little Rock: southwest LR guide"
+    ],
+    "key_subtopics": [
+      "Otter Creek Park",
+      "Diverse community character",
+      "Affordable entry price points",
+      "Southwest LR development",
+      "Investment rental market"
+    ],
+    "vibe_tags": ["diverse", "affordable", "suburban", "family-friendly", "growing"],
+    "best_for": ["first_time_buyers", "investors", "diverse_community_seekers", "value_buyers"],
+    "typical_weekend": "Saturday at Otter Creek Park with the kids. Grocery run to one of the corridor stores. Might drive to Chenal for dinner if feeling like going out. Sunday is community church and a quiet family day.",
+    "market": {
+      "median_price": 165000,
+      "avg_days_on_market": 28,
+      "price_trend_yoy": "+4.2%",
+      "inventory_level": "moderate",
+      "price_range": "$120K–$290K",
+      "property_types": ["single-family", "ranch", "new-construction"]
+    },
+    "schools": [
+      { "name": "Mabelvale High School", "type": "public", "grades": "9-12", "rating": 5 },
+      { "name": "Otter Creek Elementary", "type": "public", "grades": "K-5", "rating": 5 },
+      { "name": "Southwest Middle School", "type": "public", "grades": "6-8", "rating": 5 }
+    ],
+    "commute": {
+      "to_downtown": "22 min",
+      "to_airport": "25 min",
+      "to_uams": "20 min",
+      "to_major_employers": [
+        { "name": "UAMS / Medical Row", "time": "20 min" },
+        { "name": "Downtown LR", "time": "22 min" },
+        { "name": "Bryant employers", "time": "15 min" },
+        { "name": "Little Rock Airport", "time": "25 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "International cuisine corridor (Geyer Springs Rd)", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Authentic Vietnamese, Marshallese, Hispanic, and other international restaurants serving the diverse southwest LR community" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Local coffee and convenience options", "type": "coffee", "vibe": "casual", "known_for": "Practical neighborhood coffee spots" }
+    ],
+    "parks_outdoor": [
+      { "name": "Otter Creek Park", "type": "park", "best_for": "Large community park with trails, sports fields, and open green space — the neighborhood's primary outdoor asset" },
+      { "name": "Southwest Community Park", "type": "park", "best_for": "Youth sports and community recreation in the colony west area" }
+    ],
+    "landmarks": [
+      { "name": "Otter Creek Park", "description": "The primary recreational asset for southwest Little Rock — a well-maintained community park with broad programming" },
+      { "name": "Geyer Springs Road Corridor", "description": "International food and business corridor reflecting the diverse community — one of the most authentic multicultural eating experiences in Arkansas" }
+    ],
+    "development_notes": "New residential development continuing along the southern Southwest LR corridors; commercial investment improving along Geyer Springs and Mabelvale Pike.",
+    "proximity_to": [
+      { "area": "Bryant", "drive_time": "15 min" },
+      { "area": "Chenal Valley", "drive_time": "15 min" },
+      { "area": "Downtown LR", "drive_time": "22 min" },
+      { "area": "UAMS", "drive_time": "20 min" },
+      { "area": "Little Rock Airport", "drive_time": "25 min" }
+    ]
+  },
+  {
+    "slug": "scott-landmark",
+    "name": "Scott / Landmark",
+    "display_name": "Scott / Landmark",
+    "coordinates": { "lat": 34.7354, "lng": -92.1730 },
+    "audience": "Buyers seeking land and acreage within metro distance, rural character, agricultural heritage, and significantly lower prices — often investors, farmers, or buyers who explicitly want space.",
+    "pain_points": [
+      "Most remote from Little Rock amenities — not for the car-averse",
+      "Limited services, dining, and retail within the community",
+      "Older and more rural housing stock",
+      "Schools are limited options compared to most of the metro"
+    ],
+    "what_draws_people": [
+      "Land and acreage available at very accessible prices",
+      "Rural, agricultural character — horses, chickens, and space are all common",
+      "Historic Scott community with genuine small-town history",
+      "Very low price per acre compared to any other metro-adjacent area",
+      "Privacy, quiet, and genuine escape from suburban density"
+    ],
+    "content_that_works": [
+      "Scott / Landmark area land and acreage buying guide",
+      "Rural living within 30 minutes of Little Rock: is it for you?",
+      "Horse properties and agricultural land near Little Rock",
+      "East Little Rock and Scott: the off-the-beaten-path neighborhood guide",
+      "Land investment near Little Rock: Scott and Landmark area analysis"
+    ],
+    "key_subtopics": [
+      "Acreage and land availability",
+      "Agricultural and equestrian properties",
+      "Historic Scott community",
+      "Rural-suburban transition living",
+      "Price per acre analysis"
+    ],
+    "vibe_tags": ["rural", "agricultural", "historic", "spacious", "affordable"],
+    "best_for": ["land_buyers", "equestrian_buyers", "rural_lifestyle_seekers", "investors"],
+    "typical_weekend": "Saturday morning feeding livestock or working the property. Drive to town for supplies. Sunday is community church — Scott has deep church community roots. Very self-sufficient, very quiet.",
+    "market": {
+      "median_price": 148000,
+      "avg_days_on_market": 45,
+      "price_trend_yoy": "+2.8%",
+      "inventory_level": "high",
+      "price_range": "$80K–$420K",
+      "property_types": ["single-family", "acreage", "land", "manufactured", "farmhouse"]
+    },
+    "schools": [
+      { "name": "J.A. Fair High School (LRSD)", "type": "public", "grades": "9-12", "rating": 4 },
+      { "name": "Landmark Elementary", "type": "public", "grades": "K-5", "rating": 4 }
+    ],
+    "commute": {
+      "to_downtown": "25 min",
+      "to_airport": "20 min",
+      "to_uams": "28 min",
+      "to_major_employers": [
+        { "name": "Little Rock Airport", "time": "20 min" },
+        { "name": "Downtown LR", "time": "25 min" },
+        { "name": "UAMS", "time": "28 min" },
+        { "name": "Jacksonville / LRAFB", "time": "30 min" }
+      ]
+    },
+    "top_restaurants": [
+      { "name": "Rural local spots", "type": "restaurant", "vibe": "casual", "price_range": "$", "known_for": "Very limited local dining — most residents drive to LR or Jacksonville for food" }
+    ],
+    "top_bars_coffee": [
+      { "name": "Drive to LR", "type": "coffee", "vibe": "casual", "known_for": "No meaningful coffee scene locally — 25 min to the nearest specialty option" }
+    ],
+    "parks_outdoor": [
+      { "name": "Private land / acreage", "type": "park", "best_for": "The outdoor experience here is your own land — hunting, fishing, horses, or farming" },
+      { "name": "Bayou Meto Wildlife Management Area", "type": "water", "best_for": "Waterfowl hunting and wildlife observation in one of Arkansas's premier duck hunting areas" }
+    ],
+    "landmarks": [
+      { "name": "Historic Scott Community", "description": "One of the oldest communities in Pulaski County, with roots in the antebellum era and a strong local history" },
+      { "name": "Bayou Meto", "description": "Historic bayou and wildlife area adjacent to Scott, a legendary duck hunting destination and natural landmark" }
+    ],
+    "development_notes": "Very slow development pace by design; some rural residential subdivision activity, but the area's character remains predominantly rural and agricultural.",
+    "proximity_to": [
+      { "area": "Little Rock Airport", "drive_time": "20 min" },
+      { "area": "Downtown LR", "drive_time": "25 min" },
+      { "area": "Jacksonville", "drive_time": "30 min" },
+      { "area": "Lonoke", "drive_time": "25 min" },
+      { "area": "Cabot", "drive_time": "35 min" }
+    ]
+  }
+]

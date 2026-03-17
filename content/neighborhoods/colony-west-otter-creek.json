@@ -1,0 +1,68 @@
+{
+  "slug": "colony-west-otter-creek",
+  "name": "colony-west-otter-creek",
+  "display_name": "Colony West / Otter Creek",
+  "seo": {
+    "title": "Colony West & Otter Creek Neighborhood Guide — Little Rock, AR | Metro Little Rock",
+    "description": "Colony West and Otter Creek are affordable southwest Little Rock neighborhoods offering diverse, established communities with good amenities and some of the best price-per-square-foot in the city.",
+    "canonical": "/neighborhoods/colony-west-otter-creek",
+    "og_image": "/images/neighborhoods/colony-west-otter-creek.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/colony-west-otter-creek.jpg",
+    "alt": "Established suburban homes in the Colony West and Otter Creek area of southwest Little Rock, AR"
+  },
+  "hero_stats": {
+    "median_price": "$185,000",
+    "avg_days_on_market": 28,
+    "price_trend": "+4.8% YoY",
+    "walkability_score": 26
+  },
+  "intro": "Colony West and Otter Creek are adjacent southwest Little Rock neighborhoods that together form one of the metro's most diverse and value-oriented communities. Built primarily in the 1970s–1990s, these neighborhoods offer established tree-lined streets, good school access, and some of the best space-for-dollar ratios anywhere in the city — making them a consistent landing spot for first-time buyers and growing families who want to stay inside the Little Rock city limits.",
+  "real_estate_overview": "The Colony West/Otter Creek housing market offers strong value. The stock is primarily 1970s–1990s brick ranches and traditional homes on generous lots — buyers routinely get 1,600–2,400 sq ft homes in the $160,000–$230,000 range. The neighborhood has been a target for investor renovation activity, and a growing cohort of updated, move-in-ready homes in the $210,000–$280,000 range reflect this trend. Turnover is moderate and days on market are slightly longer than the metro average, reflecting the neighborhood's position as a value buy rather than a competitive hot market. For first-time buyers using FHA or conventional loans with limited down payment, this is one of the best entry points in the city.",
+  "schools_section": {
+    "overview": "Colony West and Otter Creek are within the Little Rock School District. The area is served by several elementary and middle school options, with access to the district's magnet school network providing educational flexibility for motivated families.",
+    "highlights": [
+      { "name": "Otter Creek Elementary", "note": "Neighborhood K-5 school serving the Otter Creek community." },
+      { "name": "Baker Elementary", "note": "Well-regarded elementary in the Colony West area with consistent performance." },
+      { "name": "Hall High School", "note": "The comprehensive high school serving southwest Little Rock, with improving academic programming and a strong athletics tradition." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Colony West/Otter Creek has a quiet, residential lifestyle. The neighborhoods are primarily single-family homes with active block associations in some areas. The commercial corridor on Geyer Springs Road handles daily needs. For broader entertainment and dining, Bryant is 15 minutes south or West LR is 15 minutes north.",
+    "dining": "Geyer Springs Road and Colonel Glenn Road have a functional range of casual and fast-casual options. Nothing destination-worthy within the neighborhood, but everyday dining needs are covered.",
+    "outdoor": "Otter Creek Park is a neighborhood gem — a city park with walking trails, a small lake, and picnic facilities that gives residents meaningful outdoor access. The larger Two Rivers Park system is 20 minutes northwest.",
+    "culture": "The neighborhood's cultural scene is community-focused: churches, neighborhood associations, and city parks events. For arts and nightlife, residents travel to SoMa, The Heights, or downtown.",
+    "family": "Colony West/Otter Creek is a practical family neighborhood. The affordability allows families to buy more space than they'd get closer in, and the established neighborhood character — mature trees, quiet streets — provides a stable environment for children."
+  },
+  "commute_section": {
+    "overview": "Southwest Little Rock has good access to I-30 and I-430, making commutes manageable in most directions. The I-30/I-430 interchange is the primary freeway hub for these neighborhoods.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "20 min", "notes": "I-30 N or surface streets up Geyer Springs/I-630." },
+      { "destination": "Bryant / Saline County", "time": "15 min", "notes": "I-30 S — very fast south connection." },
+      { "destination": "West Little Rock / Baptist Health", "time": "20 min", "notes": "I-430 N to Chenal Pkwy." },
+      { "destination": "UAMS Medical Corridor", "time": "22 min", "notes": "I-430 N to I-630 W." },
+      { "destination": "LIT Airport", "time": "25 min", "notes": "I-30 N to I-440 E." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["First-time buyers", "FHA/conventional buyers", "Value-focused families", "Investors"],
+    "typical_buyer": "A first-time buyer with a $180,000–$220,000 budget who wants to own within Little Rock city limits, get a full-sized yard and 3-bedroom home, and have reasonable access to the broader metro.",
+    "budget_range": "$145,000 – $290,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Colony West / Otter Creek safe?",
+      "answer": "The neighborhood has a mixed safety profile. The established interior blocks of Colony West and Otter Creek are generally safe residential streets. Proximity to some commercial corridors introduces more variability. Research specific street blocks using the city's crime mapping tool, and take the time to visit at different hours before purchasing."
+    },
+    {
+      "question": "Is this area appreciating?",
+      "answer": "Yes — at about 4.8% annually, Colony West/Otter Creek is appreciating in line with the broader metro's value-tier neighborhoods. First-time buyer demand is structural and consistent. The neighborhood benefits from its position as one of the last affordable intown options as prices in The Heights, SoMa, and NLR continue to rise."
+    }
+  ],
+  "related": [
+    { "title": "Bryant", "slug": "bryant", "type": "neighborhood" },
+    { "title": "West Little Rock", "slug": "west-little-rock", "type": "neighborhood" },
+    { "title": "Midtown", "slug": "midtown", "type": "neighborhood" }
+  ]
+}

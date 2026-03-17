@@ -1,0 +1,49 @@
+{
+  "slug": "coffee-the-heights",
+  "title": "Best Coffee & Cafés in the Heights",
+  "category": "coffee",
+  "area": "the-heights",
+  "seo": {
+    "title": "Best Coffee & Cafés in the Heights — Little Rock | Metro Little Rock",
+    "description": "The Heights neighborhood's best coffee shops and cafés — from Yellow Rocket Bread's artisan bakery counter to the independent spots that make Kavanaugh Boulevard worth walking.",
+    "canonical": "/best-of/coffee/the-heights"
+  },
+  "intro": "The Heights has developed one of Little Rock's strongest café cultures — walkable, neighborhood-rooted, and increasingly serious about coffee craft. Here's where to find the best cup in the area.",
+  "items": [
+    {
+      "rank": 1,
+      "place_slug": "yellow-rocket-bread",
+      "name": "Yellow Rocket Bread",
+      "one_liner": "The Heights' artisan bakery isn't primarily a coffee shop, but the espresso program and the pastry case together make it the area's best morning stop.",
+      "why_its_here": "Yellow Rocket Bread leads this list because the combination of well-sourced espresso and genuinely excellent pastries is hard to beat for a Heights morning. The locally roasted coffee is served alongside a pastry case that operates at a different level than most café-bakery hybrids. The space is small; the throughput on weekend mornings is high; get there early or resign yourself to waiting. Both outcomes deliver.",
+      "best_for": "Morning pastries, solo work, quiet weekday café, weekend breakfast"
+    }
+  ],
+  "honorable_mentions": [
+    {
+      "name": "Heights Coffee (multiple locations)",
+      "note": "The neighborhood mini-chain with the fastest throughput on the Kavanaugh corridor — good for a reliable espresso when you're in motion."
+    },
+    {
+      "name": "Park Avenue Coffee",
+      "note": "A comfortable space for remote work with a solid drip and espresso program and more seating than Yellow Rocket offers."
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Breakfast in Little Rock",
+      "slug": "breakfast/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "The Heights Neighborhood Guide",
+      "slug": "the-heights",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Heights Porch Fest",
+      "slug": "heights-porch-fest-may-2026",
+      "type": "event"
+    }
+  ]
+}

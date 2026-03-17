@@ -1,0 +1,62 @@
+{
+  "slug": "flying-saucer-little-rock",
+  "name": "Flying Saucer Draught Emporium",
+  "seo": {
+    "title": "Flying Saucer — Craft Beer Bar in Downtown Little Rock | Metro Little Rock",
+    "description": "Flying Saucer in the River Market District is downtown Little Rock's craft beer anchor — 200+ taps, a wide pub menu, and the weekly Tuesday trivia night that's become a local institution.",
+    "canonical": "/places/flying-saucer-little-rock"
+  },
+  "type": "bar",
+  "cuisine_tags": [
+    "craft beer",
+    "pub food",
+    "trivia",
+    "River Market"
+  ],
+  "neighborhood_slug": "downtown",
+  "address": "323 President Clinton Ave, Little Rock, AR 72201",
+  "coordinates": {
+    "lat": 34.7462,
+    "lng": -92.2704
+  },
+  "phone": "(501) 372-8032",
+  "website": "https://beerknurd.com/stores/little-rock",
+  "hours": {
+    "Monday": "11:00 AM – 11:00 PM",
+    "Tuesday": "11:00 AM – 11:00 PM",
+    "Wednesday": "11:00 AM – 11:00 PM",
+    "Thursday": "11:00 AM – 12:00 AM",
+    "Friday": "11:00 AM – 1:00 AM",
+    "Saturday": "11:00 AM – 1:00 AM",
+    "Sunday": "11:00 AM – 10:00 PM"
+  },
+  "price_range": "$$",
+  "vibe": "casual",
+  "description": "Flying Saucer is the River Market District's most reliable gathering place — a sprawling bar and restaurant with 200+ draft taps, a menu of pub food that's more ambitious than it needs to be, and a Saturday afternoon atmosphere that makes it easy to lose track of the afternoon. The UFO Club saucer-collection program has been a fixture since the chain opened its Little Rock location, and the regular crowd of saucer collectors and beer-curious locals gives it a character you don't find at chain bars. Tuesday trivia night is a genuine local institution. The outdoor seating faces onto Clinton Avenue, which is prime people-watching territory.",
+  "must_try_items": [
+    "Whatever's new on the rotating taps (the beer list is the point)",
+    "Saucer burger",
+    "Soft pretzel with beer cheese",
+    "Tuesday trivia (not food, but worth planning around)"
+  ],
+  "good_for": [
+    "drinks",
+    "lunch",
+    "dinner",
+    "groups",
+    "outdoor_seating"
+  ],
+  "featured": false,
+  "related": [
+    {
+      "title": "Downtown Little Rock Neighborhood Guide",
+      "slug": "downtown",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Flying Saucer Trivia Night",
+      "slug": "flying-saucer-trivia-night-april-2026",
+      "type": "event"
+    }
+  ]
+}

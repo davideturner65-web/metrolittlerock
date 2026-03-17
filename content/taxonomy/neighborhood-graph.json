@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "the-heights",
+    "adjacent_to": ["cammack-village", "midtown", "riverdale", "west-little-rock"],
+    "similar_to": ["cammack-village", "riverdale", "midtown"],
+    "contrast_to": ["chenal-valley", "colony-west-otter-creek", "scott-landmark"],
+    "feeder_from": ["midtown", "soma", "riverdale"],
+    "feeder_to": ["chenal-valley", "west-little-rock", "hot-springs-village"]
+  },
+  {
+    "slug": "west-little-rock",
+    "adjacent_to": ["chenal-valley", "pleasant-valley", "the-heights", "midtown"],
+    "similar_to": ["chenal-valley", "pleasant-valley"],
+    "contrast_to": ["scott-landmark", "colony-west-otter-creek", "north-little-rock"],
+    "feeder_from": ["the-heights", "midtown", "pleasant-valley"],
+    "feeder_to": ["chenal-valley", "conway", "maumelle"]
+  },
+  {
+    "slug": "downtown",
+    "adjacent_to": ["soma", "riverdale", "north-little-rock"],
+    "similar_to": ["soma", "riverdale"],
+    "contrast_to": ["chenal-valley", "cabot", "conway"],
+    "feeder_from": ["soma", "midtown", "north-little-rock"],
+    "feeder_to": ["the-heights", "soma", "riverdale"]
+  },
+  {
+    "slug": "maumelle",
+    "adjacent_to": ["north-little-rock", "conway"],
+    "similar_to": ["conway", "sherwood", "cabot"],
+    "contrast_to": ["downtown", "soma", "scott-landmark"],
+    "feeder_from": ["north-little-rock", "conway", "west-little-rock"],
+    "feeder_to": ["conway", "chenal-valley"]
+  },
+  {
+    "slug": "cammack-village",
+    "adjacent_to": ["the-heights", "midtown", "west-little-rock"],
+    "similar_to": ["the-heights", "riverdale", "midtown"],
+    "contrast_to": ["chenal-valley", "colony-west-otter-creek", "cabot"],
+    "feeder_from": ["soma", "midtown", "riverdale"],
+    "feeder_to": ["the-heights", "west-little-rock"]
+  },
+  {
+    "slug": "north-little-rock",
+    "adjacent_to": ["downtown", "maumelle", "sherwood"],
+    "similar_to": ["sherwood", "jacksonville"],
+    "contrast_to": ["chenal-valley", "pleasant-valley", "hot-springs-village"],
+    "feeder_from": ["downtown", "jacksonville", "sherwood"],
+    "feeder_to": ["maumelle", "sherwood", "cabot"]
+  },
+  {
+    "slug": "conway",
+    "adjacent_to": ["maumelle"],
+    "similar_to": ["maumelle", "cabot", "bryant"],
+    "contrast_to": ["downtown", "soma", "the-heights"],
+    "feeder_from": ["maumelle", "north-little-rock", "west-little-rock"],
+    "feeder_to": ["maumelle"]
+  },
+  {
+    "slug": "chenal-valley",
+    "adjacent_to": ["west-little-rock", "pleasant-valley", "colony-west-otter-creek"],
+    "similar_to": ["pleasant-valley", "west-little-rock"],
+    "contrast_to": ["downtown", "soma", "scott-landmark"],
+    "feeder_from": ["west-little-rock", "pleasant-valley", "the-heights", "midtown"],
+    "feeder_to": ["conway", "hot-springs-village"]
+  },
+  {
+    "slug": "pleasant-valley",
+    "adjacent_to": ["chenal-valley", "west-little-rock"],
+    "similar_to": ["chenal-valley", "west-little-rock"],
+    "contrast_to": ["colony-west-otter-creek", "scott-landmark", "north-little-rock"],
+    "feeder_from": ["the-heights", "midtown", "west-little-rock"],
+    "feeder_to": ["chenal-valley"]
+  },
+  {
+    "slug": "sherwood",
+    "adjacent_to": ["north-little-rock", "jacksonville"],
+    "similar_to": ["jacksonville", "north-little-rock", "cabot"],
+    "contrast_to": ["chenal-valley", "the-heights", "hot-springs-village"],
+    "feeder_from": ["north-little-rock", "jacksonville"],
+    "feeder_to": ["cabot", "jacksonville"]
+  },
+  {
+    "slug": "jacksonville",
+    "adjacent_to": ["sherwood", "cabot", "north-little-rock"],
+    "similar_to": ["sherwood", "cabot"],
+    "contrast_to": ["chenal-valley", "the-heights", "downtown"],
+    "feeder_from": ["north-little-rock", "sherwood"],
+    "feeder_to": ["cabot", "sherwood"]
+  },
+  {
+    "slug": "cabot",
+    "adjacent_to": ["jacksonville", "sherwood"],
+    "similar_to": ["jacksonville", "conway", "bryant"],
+    "contrast_to": ["downtown", "soma", "the-heights"],
+    "feeder_from": ["jacksonville", "sherwood", "north-little-rock"],
+    "feeder_to": ["conway"]
+  },
+  {
+    "slug": "bryant",
+    "adjacent_to": ["benton"],
+    "similar_to": ["benton", "conway", "cabot"],
+    "contrast_to": ["downtown", "soma", "the-heights"],
+    "feeder_from": ["benton", "colony-west-otter-creek", "west-little-rock"],
+    "feeder_to": ["benton", "chenal-valley"]
+  },
+  {
+    "slug": "benton",
+    "adjacent_to": ["bryant", "hot-springs-village"],
+    "similar_to": ["bryant", "conway"],
+    "contrast_to": ["downtown", "soma", "the-heights"],
+    "feeder_from": ["bryant", "colony-west-otter-creek"],
+    "feeder_to": ["bryant", "hot-springs-village"]
+  },
+  {
+    "slug": "hot-springs-village",
+    "adjacent_to": ["benton"],
+    "similar_to": ["benton"],
+    "contrast_to": ["downtown", "soma", "scott-landmark"],
+    "feeder_from": ["the-heights", "chenal-valley", "pleasant-valley", "west-little-rock"],
+    "feeder_to": ["benton"]
+  },
+  {
+    "slug": "soma",
+    "adjacent_to": ["downtown", "midtown", "riverdale"],
+    "similar_to": ["midtown", "downtown", "riverdale"],
+    "contrast_to": ["chenal-valley", "cabot", "colony-west-otter-creek"],
+    "feeder_from": ["midtown", "riverdale", "downtown"],
+    "feeder_to": ["the-heights", "cammack-village", "midtown"]
+  },
+  {
+    "slug": "riverdale",
+    "adjacent_to": ["the-heights", "downtown", "soma"],
+    "similar_to": ["the-heights", "midtown", "soma"],
+    "contrast_to": ["chenal-valley", "colony-west-otter-creek", "scott-landmark"],
+    "feeder_from": ["soma", "downtown", "midtown"],
+    "feeder_to": ["the-heights", "cammack-village"]
+  },
+  {
+    "slug": "midtown",
+    "adjacent_to": ["the-heights", "soma", "cammack-village", "west-little-rock"],
+    "similar_to": ["the-heights", "soma", "riverdale"],
+    "contrast_to": ["chenal-valley", "colony-west-otter-creek", "cabot"],
+    "feeder_from": ["soma", "downtown", "riverdale"],
+    "feeder_to": ["the-heights", "cammack-village", "west-little-rock"]
+  },
+  {
+    "slug": "colony-west-otter-creek",
+    "adjacent_to": ["chenal-valley", "bryant"],
+    "similar_to": ["scott-landmark", "north-little-rock"],
+    "contrast_to": ["chenal-valley", "the-heights", "pleasant-valley"],
+    "feeder_from": ["scott-landmark", "downtown", "north-little-rock"],
+    "feeder_to": ["bryant", "chenal-valley"]
+  },
+  {
+    "slug": "scott-landmark",
+    "adjacent_to": ["colony-west-otter-creek"],
+    "similar_to": ["colony-west-otter-creek", "jacksonville", "north-little-rock"],
+    "contrast_to": ["chenal-valley", "the-heights", "hot-springs-village"],
+    "feeder_from": ["downtown", "north-little-rock"],
+    "feeder_to": ["colony-west-otter-creek", "jacksonville"]
+  }
+]

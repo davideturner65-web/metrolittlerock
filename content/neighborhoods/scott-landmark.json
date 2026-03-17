@@ -1,0 +1,72 @@
+{
+  "slug": "scott-landmark",
+  "name": "scott-landmark",
+  "display_name": "Scott / Landmark",
+  "seo": {
+    "title": "Scott & Landmark Area Guide — Pulaski County, AR | Metro Little Rock",
+    "description": "Scott and Landmark are eastern Pulaski County communities offering rural residential living, acreage properties, and horse-friendly land within 30 minutes of downtown Little Rock.",
+    "canonical": "/neighborhoods/scott-landmark",
+    "og_image": "/images/neighborhoods/scott-landmark.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/scott-landmark.jpg",
+    "alt": "Rural acreage properties and horse farms in Scott and Landmark, eastern Pulaski County, AR"
+  },
+  "hero_stats": {
+    "median_price": "$295,000",
+    "avg_days_on_market": 42,
+    "price_trend": "+4.2% YoY",
+    "walkability_score": 4
+  },
+  "intro": "Scott and Landmark are unincorporated communities in eastern Pulaski County that offer a distinctly different lifestyle from the rest of the metro — acreage properties, horse farms, rural quiet, and a slower pace that's still only 25–35 minutes from downtown Little Rock via I-40. For buyers who want to escape the subdivision and get genuine land — a half-acre minimum, up to 10+ acres — without leaving the metro area, Scott and Landmark are the primary options in Pulaski County.",
+  "real_estate_overview": "The Scott/Landmark real estate market is defined by land. Properties here are valued differently than in suburban subdivisions — lot size and acreage are primary variables. A modest 1,500 sq ft home on 2+ acres runs $220,000–$320,000. A well-maintained 3-4 bedroom farmhouse with a barn on 5–10 acres can run $380,000–$550,000. Newer construction on acreage lots in gated rural subdivisions (Landmark, Pin Oak, and similar communities) offers modern homes on 1–3 acre lots from $320,000–$450,000. Days on market are longer than in suburban areas because the buyer pool is more specific. Horse properties and agricultural land attract a specialized buyer who may wait months for the right property.",
+  "schools_section": {
+    "overview": "Scott and Landmark fall within the Jacksonville/North Pulaski School District (J/NP SD), which separated from PCSSD in 2017. The rural communities in this area have historically been served by the smaller campuses on the eastern edge of the district.",
+    "highlights": [
+      { "name": "Scott Elementary School", "note": "Small K-6 neighborhood school serving the rural Scott community; small class sizes." },
+      { "name": "Jacksonville High School", "note": "The J/NP district's primary high school, accessible to Scott/Landmark students." },
+      { "name": "Cabot School District (border area)", "note": "Some easternmost Scott/Landmark properties are close to the Lonoke County line; Cabot SD may be an option for some addresses — verify." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Scott and Landmark offer the Arkansas rural lifestyle within commuting distance of a major city — a relatively rare combination. The pace is slower, neighbors are spread farther apart, and daily life involves a bit more driving, but the trade-off is space, quiet, and a connection to the land that no suburban subdivision can match.",
+    "dining": "No neighborhood dining exists. Jacksonville (15 min west) handles most restaurant and grocery needs. Cabot (15 min northeast) is an alternative. For destination dining, North Little Rock and downtown are 30 minutes.",
+    "outdoor": "The natural environment is the main attraction. Bayou Meto Wildlife Management Area is nearby for hunters and nature lovers. The Arkansas River corridor and Cache River access are within reasonable driving distance. Properties with acreage provide their own private outdoor space — gardens, riding trails, ponds.",
+    "culture": "Rural Arkansas culture: church, community events, county fairs, and an agricultural community with deep roots. The Lonoke County Fair and nearby Toltec Mounds Archeological State Park (one of the most significant prehistoric Native American sites in Arkansas) add historical and community interest.",
+    "family": "Rural living with school-age children requires more driving and more intentionality. For families with horses, livestock, or who want their kids to have genuine outdoor acreage to roam, Scott/Landmark is ideal. The school options require more research and may require supplementing with private school or extracurricular activities in Jacksonville or Cabot."
+  },
+  "commute_section": {
+    "overview": "Scott and Landmark's eastern Pulaski County location means I-40 access to the west. Commutes to Little Rock are 30–40 minutes most of the time. This is the defining trade-off for rural living in this community.",
+    "key_routes": [
+      { "destination": "Jacksonville", "time": "15 min", "notes": "I-40 W or Hwy 161; closest substantial town for services." },
+      { "destination": "Cabot", "time": "15 min", "notes": "I-40 E or county roads; easy east connection." },
+      { "destination": "North Little Rock", "time": "30 min", "notes": "I-40 W to I-30; consistent." },
+      { "destination": "Downtown Little Rock", "time": "35 min", "notes": "I-40 W to I-30 S; light traffic on I-40 east section." },
+      { "destination": "LIT Airport", "time": "30 min", "notes": "I-40 W to I-440; manageable." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Equestrian buyers", "Rural lifestyle seekers", "Acreage buyers", "Hobby farmers", "Remote workers"],
+    "typical_buyer": "A buyer — often a couple in their 40s–50s — who wants genuine rural property (horses, large garden, space) within commuting distance of Little Rock, and is willing to trade urban amenities for space, quiet, and a connection to the land.",
+    "budget_range": "$220,000 – $600,000+"
+  },
+  "faqs": [
+    {
+      "question": "Can I keep horses on property in the Scott/Landmark area?",
+      "answer": "Yes — this is one of the primary reasons buyers choose the Scott/Landmark area. Properties outside incorporated city limits are generally zoned agricultural and permit horses and livestock with no minimum lot size imposed by a HOA (unless you're in a deed-restricted rural subdivision). Always verify specific county zoning for any property."
+    },
+    {
+      "question": "What utilities are available in Scott/Landmark?",
+      "answer": "Most properties in the Scott/Landmark area are on well and septic rather than public water and sewer. This is standard for rural Arkansas and reduces monthly utility costs, but well and septic systems require inspection and periodic maintenance. Verify utility connections for any specific property — some areas along major roads have public water available."
+    },
+    {
+      "question": "Is the Scott area prone to flooding?",
+      "answer": "Eastern Pulaski County has areas within and near floodplains associated with Bayou Meto and nearby waterways. Flood zone verification is important — some of the most affordable acreage properties are priced lower specifically because of flood zone status. Always obtain an elevation certificate and review FEMA flood maps before purchase."
+    }
+  ],
+  "related": [
+    { "title": "Jacksonville", "slug": "jacksonville", "type": "neighborhood" },
+    { "title": "Cabot", "slug": "cabot", "type": "neighborhood" },
+    { "title": "Hot Springs Village", "slug": "hot-springs-village", "type": "neighborhood" }
+  ]
+}

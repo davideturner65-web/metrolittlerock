@@ -1,0 +1,24 @@
+{
+  "slug": "rock-lit-literary-festival-oct-2026",
+  "event_name": "Rock Lit: Little Rock Literary Festival",
+  "seo": {
+    "title": "Rock Lit: Little Rock Literary Festival 2026 | Metro Little Rock Events",
+    "description": "Rock Lit is Little Rock's annual literary festival — two days of author readings, panel discussions, book signings, and conversations at venues across The Heights and downtown.",
+    "canonical": "/events/rock-lit-literary-festival-oct-2026"
+  },
+  "date_start": "2026-10-17",
+  "date_end": "2026-10-18",
+  "time": "10:00 AM – 8:00 PM",
+  "venue_name": "Multiple Venues (Heights & Downtown)",
+  "venue_address": "Kavanaugh Blvd / Downtown, Little Rock, AR 72205",
+  "venue_coordinates": { "lat": 34.7520, "lng": -92.3310 },
+  "neighborhood_slug": "the-heights",
+  "category": "arts",
+  "price_range": "free",
+  "ticket_url": "https://rocklitfest.com",
+  "description": "Rock Lit is the Little Rock metro's signature literary event — a two-day festival spread across venues in The Heights and downtown that brings nationally known authors alongside Arkansas writers for readings, panels, workshops, and signings. WordsWorth Books (the Heights indie bookshop) and the Clinton Presidential Center typically anchor the programming. Most events are free; the evening keynote readings require tickets that go quickly. The Saturday afternoon author signing in the Heights draws a long, cheerful line that is more social event than queue.",
+  "highlight": true,
+  "image": { "src": "/images/events/rock-lit-festival.jpg", "alt": "Author reading at Rock Lit: Little Rock Literary Festival" },
+  "tags": ["literary festival", "books", "authors", "The Heights", "arts", "annual"],
+  "recurring": { "pattern": "annual" }
+}

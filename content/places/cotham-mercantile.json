@@ -1,0 +1,62 @@
+{
+  "slug": "cotham-mercantile",
+  "name": "Cotham's Mercantile",
+  "seo": {
+    "title": "Cotham's Mercantile — Historic Restaurant in Scott AR | Metro Little Rock",
+    "description": "Cotham's Mercantile is a 1917 general store turned legendary restaurant in Scott, Arkansas — home of the Hubcap Burger and one of central Arkansas's most distinctive dining experiences.",
+    "canonical": "/places/cotham-mercantile"
+  },
+  "type": "restaurant",
+  "cuisine_tags": [
+    "burgers",
+    "American",
+    "historic",
+    "lunch",
+    "Southern"
+  ],
+  "neighborhood_slug": "scott-landmark",
+  "address": "5301 AR-161, Scott, AR 72142",
+  "coordinates": {
+    "lat": 34.6848,
+    "lng": -92.0917
+  },
+  "phone": "(501) 961-9284",
+  "website": "https://cothams.com",
+  "hours": {
+    "Tuesday": "11:00 AM – 2:00 PM",
+    "Wednesday": "11:00 AM – 2:00 PM",
+    "Thursday": "11:00 AM – 2:00 PM",
+    "Friday": "11:00 AM – 2:00 PM",
+    "Saturday": "11:00 AM – 2:00 PM"
+  },
+  "price_range": "$$",
+  "vibe": "casual",
+  "description": "Cotham's Mercantile has operated out of a 1917 general store building in the small town of Scott since it was converted into a restaurant decades ago — and the Hubcap Burger it's famous for is so named because it genuinely approaches hubcap dimensions. The patty is hand-formed, the bun is overwhelmed, and the whole enterprise is unapologetically old-school in the best possible sense. The dining room still looks like a working mercantile: pressed tin ceiling, old shelving units, mismatched chairs, walls lined with memorabilia. Lunch only, Tuesday through Saturday. It requires a 20-minute drive from downtown Little Rock and is worth every mile. The line on Fridays can be long; go on a Tuesday if you want to arrive and be seated.",
+  "must_try_items": [
+    "Hubcap Burger (get the full size, not the half)",
+    "Onion rings",
+    "Sweet tea",
+    "Fried catfish (Friday special)"
+  ],
+  "good_for": [
+    "lunch",
+    "groups"
+  ],
+  "image": {
+    "src": "/images/places/cothams-mercantile.jpg",
+    "alt": "The historic Cotham's Mercantile building in Scott, Arkansas"
+  },
+  "featured": true,
+  "related": [
+    {
+      "title": "Scott & Landmark Neighborhood Guide",
+      "slug": "scott-landmark",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Burgers in Metro Little Rock",
+      "slug": "burgers/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

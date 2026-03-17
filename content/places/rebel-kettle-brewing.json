@@ -1,0 +1,59 @@
+{
+  "slug": "rebel-kettle-brewing",
+  "name": "Rebel Kettle Brewing",
+  "seo": {
+    "title": "Rebel Kettle Brewing — Craft Brewery in SoMa Little Rock | Metro Little Rock",
+    "description": "Rebel Kettle Brewing is SoMa's neighborhood brewery — a laid-back taproom with experimental small-batch beers, a dog-friendly patio, and a genuine neighborhood-first ethos on South Main.",
+    "canonical": "/places/rebel-kettle-brewing"
+  },
+  "type": "brewery",
+  "cuisine_tags": [
+    "craft beer",
+    "small-batch",
+    "experimental",
+    "taproom"
+  ],
+  "neighborhood_slug": "soma",
+  "address": "822 E 6th St, Little Rock, AR 72202",
+  "coordinates": {
+    "lat": 34.7352,
+    "lng": -92.2773
+  },
+  "phone": "(501) 374-2901",
+  "website": "https://rebelkettlebrewing.com",
+  "hours": {
+    "Wednesday": "3:00 PM – 10:00 PM",
+    "Thursday": "3:00 PM – 10:00 PM",
+    "Friday": "2:00 PM – 11:00 PM",
+    "Saturday": "12:00 PM – 11:00 PM",
+    "Sunday": "12:00 PM – 8:00 PM"
+  },
+  "price_range": "$",
+  "vibe": "dive",
+  "description": "Rebel Kettle is the smaller, scrappier counterpart to Lost Forty in the South Main ecosystem — a taproom that leans experimental, with small-batch releases that range from classic styles to genuinely unusual adjunct beers that don't show up anywhere else. The vibe is neighborhood bar more than destination brewery: regulars who walk over, dogs on the patio, board games on the shelf, and a staff that knows what's on the bar well enough to talk through all of it. No kitchen, but they welcome outside food and maintain relationships with nearby restaurants. The monthly Saturday tap takeovers and themed release events have developed a following.",
+  "must_try_items": [
+    "Current small-batch experimental release (ask the bartender)",
+    "Hellhound IPA",
+    "Seasonal sour",
+    "Nitro stout when available"
+  ],
+  "good_for": [
+    "drinks",
+    "outdoor_seating",
+    "groups",
+    "solo"
+  ],
+  "featured": false,
+  "related": [
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Lost Forty Brewing",
+      "slug": "lost-forty-brewing",
+      "type": "place"
+    }
+  ]
+}

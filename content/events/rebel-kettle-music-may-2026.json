@@ -1,0 +1,21 @@
+{
+  "slug": "rebel-kettle-music-may-2026",
+  "event_name": "Live Music at Rebel Kettle Brewing",
+  "seo": {
+    "title": "Live Music at Rebel Kettle Brewing — May 2026 | Metro Little Rock Events",
+    "description": "Free live music Saturday evenings at Rebel Kettle Brewing in Little Rock's SoMa District. Local acts, craft beer, and the best patio in the neighborhood.",
+    "canonical": "/events/rebel-kettle-music-may-2026"
+  },
+  "date_start": "2026-05-02",
+  "time": "6:00 PM – 9:00 PM",
+  "venue_name": "Rebel Kettle Brewing",
+  "venue_address": "822 E 6th St, Little Rock, AR 72202",
+  "venue_coordinates": { "lat": 34.7374, "lng": -92.2763 },
+  "neighborhood_slug": "soma",
+  "category": "music",
+  "price_range": "free",
+  "description": "Rebel Kettle Brewing hosts free live music on their patio most Saturday evenings, creating one of the most relaxed live music experiences in the metro. The backyard patio fills with a mix of SoMa residents, cyclists coming off the River Trail, and people who discovered the place and keep coming back. The beer program is serious — Rebel Kettle has been one of Little Rock's most acclaimed craft breweries since opening — and the no-cover policy means anyone can walk in and stay for the set. Local and regional acts span Americana, blues, jazz, and folk.",
+  "highlight": false,
+  "tags": ["live music", "craft beer", "SoMa", "free event", "patio", "brewery"],
+  "recurring": { "pattern": "monthly", "day_of_week": "Saturday" }
+}

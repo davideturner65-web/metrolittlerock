@@ -1,0 +1,73 @@
+{
+  "slug": "bryant",
+  "name": "bryant",
+  "display_name": "Bryant",
+  "seo": {
+    "title": "Bryant AR Neighborhood Guide | Metro Little Rock",
+    "description": "Bryant is one of the fastest-growing cities in Arkansas — a Saline County suburb south of Little Rock with excellent schools, affordable new construction, and a thriving family community.",
+    "canonical": "/neighborhoods/bryant",
+    "og_image": "/images/neighborhoods/bryant.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/bryant.jpg",
+    "alt": "New family neighborhoods and schools in Bryant, AR"
+  },
+  "hero_stats": {
+    "median_price": "$255,000",
+    "avg_days_on_market": 15,
+    "price_trend": "+7.8% YoY",
+    "walkability_score": 19
+  },
+  "intro": "Bryant has been one of the fastest-growing cities in Arkansas for a decade running, and it shows no signs of slowing. Positioned in Saline County just 15 miles south of downtown Little Rock via I-30, it combines the state's most watched school district, abundant affordable new construction, and a community infrastructure — parks, churches, sports leagues — that has been built to serve families first. It's the metro's south-side answer to what Conway is doing to the north.",
+  "real_estate_overview": "Bryant's real estate market is defined by volume and velocity. New construction dominates: dozens of active subdivisions at any given time from entry-level ($200,000–$260,000 range, 3/2 on small lots) to move-up executive homes ($350,000–$500,000 on larger lots with HOA amenities). Rausch Coleman, Adams Homes, Lindsey & Associates, and regional custom builders all maintain active presence. Older housing stock in established neighborhoods near downtown Bryant runs $175,000–$260,000. The market is extremely competitive — well-priced homes routinely go under contract in under a week during spring and fall.",
+  "schools_section": {
+    "overview": "Bryant School District has become one of the most-watched public school districts in Arkansas, consistently ranking in the top tier on state accountability metrics. The district's growth mirrors the city's population explosion.",
+    "highlights": [
+      { "name": "Bryant High School", "note": "Large, modern facility with an excellent AP program, nationally recognized band, and strong athletics across all sports." },
+      { "name": "Bryant Middle School", "note": "Well-resourced 7-8 campus with strong STEM and arts programming." },
+      { "name": "Collegeville Elementary", "note": "High-performing K-6 in the northern Bryant area with strong parent engagement." },
+      { "name": "Hill Farm Elementary", "note": "Newer campus serving the southern growth areas; strong initial performance metrics." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Bryant's lifestyle is suburban family-first. The city has invested heavily in parks and recreation, the youth sports complex infrastructure is excellent, and the church community is active and inclusive. For restaurant variety or entertainment beyond the basics, residents drive 15–20 minutes north to Little Rock.",
+    "dining": "Bryant's dining scene has grown with the population. Hurricane Wings, Tacos 4 Life, and several local burger joints join a solid slate of chains. The Benton/Bryant Hwy 5 corridor has the most restaurant concentration. For destination dining, Little Rock is 20 minutes.",
+    "outdoor": "Hurricane Lake and Saline River are nearby recreational draws. The Bryant trail system has expanded with each new development phase. The city-run parks system has splash pads, athletic fields, and playgrounds throughout.",
+    "culture": "Bryant is community-focused: school events, church activities, and city-run festivals drive the social calendar. The proximity to Little Rock means residents who want arts, theater, or nightlife have it within 20 minutes.",
+    "family": "Bryant is purpose-built for families. The school district is the primary draw, but the supporting infrastructure — sports leagues, safe neighborhoods, abundant parks, family-oriented retail — makes the full package compelling."
+  },
+  "commute_section": {
+    "overview": "Bryant's I-30 access makes the Little Rock commute efficient by Arkansas standards. Downtown LR is 20–25 minutes on a normal day. The south side employers — College of the Ouachitas, medical facilities in Benton — are even closer.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "22 min", "notes": "I-30 N; direct and fast outside of peak hours." },
+      { "destination": "UAMS / West LR", "time": "30 min", "notes": "I-30 N to I-630 W; plan for 40 min at peak." },
+      { "destination": "Benton", "time": "12 min", "notes": "Hwy 5 S or I-30 S; quick neighboring city hop." },
+      { "destination": "LIT Airport", "time": "30 min", "notes": "I-30 N to I-440 E." },
+      { "destination": "Hot Springs", "time": "45 min", "notes": "I-30 S to US-70 W; easy day trip connection." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Move-up families", "First-time buyers", "School-focused relocators", "New construction buyers"],
+    "typical_buyer": "A growing family — often with one child and planning for more — who has researched school districts and discovered Bryant, is comfortable with suburban car-dependent living, and wants maximum square footage in a new home at an affordable price.",
+    "budget_range": "$190,000 – $480,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Bryant in Saline County?",
+      "answer": "Yes — Bryant is in Saline County, not Pulaski County. This means different county property taxes (Saline County has slightly lower rates), a completely separate school district from LRSD/PCSSD, and Saline County government and courts."
+    },
+    {
+      "question": "How does Bryant compare to Benton?",
+      "answer": "Bryant and Benton are neighboring Saline County cities. Bryant is newer, faster-growing, and has somewhat higher home prices with more active new construction. Benton is more established, slightly more affordable, has a distinct downtown area, and shares the same general school quality level. Both are excellent family choices."
+    },
+    {
+      "question": "What's the commute from Bryant to downtown Little Rock?",
+      "answer": "Under normal conditions, I-30 north gets you downtown in 20–25 minutes. Morning rush hour (7:30–8:30 AM) on I-30 can push this to 35–40 minutes. Many Bryant residents time their commute around the peak window or work hybrid/remote schedules."
+    }
+  ],
+  "related": [
+    { "title": "Benton", "slug": "benton", "type": "neighborhood" },
+    { "title": "West Little Rock", "slug": "west-little-rock", "type": "neighborhood" },
+    { "title": "Colony West / Otter Creek", "slug": "colony-west-otter-creek", "type": "neighborhood" }
+  ]
+}

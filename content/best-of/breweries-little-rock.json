@@ -1,0 +1,61 @@
+{
+  "slug": "breweries-little-rock",
+  "title": "Best Craft Breweries in Metro Little Rock",
+  "category": "breweries",
+  "area": "little-rock",
+  "seo": {
+    "title": "Best Craft Breweries in Metro Little Rock 2026 | Metro Little Rock",
+    "description": "Metro Little Rock's craft brewery scene has matured into one of the South's most interesting — here are the taprooms worth knowing, from SoMa's flagship to Conway's neighborhood brewery.",
+    "canonical": "/best-of/breweries/little-rock"
+  },
+  "intro": "Little Rock's craft beer scene grew up fast. In a decade, the metro went from very few local options to a collection of taprooms that rival mid-size cities twice its size. Here's how they rank.",
+  "items": [
+    {
+      "rank": 1,
+      "place_slug": "lost-forty-brewing",
+      "name": "Lost Forty Brewing",
+      "one_liner": "The metro's flagship — a 22,000 square foot destination taproom that set the standard for what Little Rock's craft scene could become.",
+      "why_its_here": "Lost Forty is the brewery that proved Little Rock could support a serious craft operation at scale. The production facility, rotating tap list, live music stage, and full kitchen in SoMa created a model that attracted serious beer tourism and local pride in equal measure. The flagship beers are solid year-round; the limited releases and seasonal taps reward regular visits. The outdoor lawn on a warm evening is one of the better places to spend time in the metro.",
+      "best_for": "Groups, first visits, live music evenings, out-of-town guests"
+    },
+    {
+      "rank": 2,
+      "place_slug": "rebel-kettle-brewing",
+      "name": "Rebel Kettle Brewing",
+      "one_liner": "SoMa's neighborhood brewery — smaller, more experimental, and the place serious beer drinkers go when they've explored Lost Forty.",
+      "why_its_here": "Rebel Kettle occupies a different niche than Lost Forty — less destination, more neighborhood gathering place, and more willing to take experimental chances on small-batch releases that don't always work but often produce something genuinely interesting. The taproom vibe is relaxed in the way that only smaller operations can achieve: regulars who walk over, dogs on the patio, bartenders who know the beer well enough to talk through all of it. If you want to find what Little Rock's beer community drinks among itself, start here.",
+      "best_for": "Beer enthusiasts, experimental releases, neighborhood regulars, dog owners"
+    },
+    {
+      "rank": 3,
+      "place_slug": "bear-state-brewing",
+      "name": "Bear State Brewing",
+      "one_liner": "Conway's community craft brewery — a taproom that does exactly what a city of Conway's size needs it to do.",
+      "why_its_here": "Bear State earns its place on this list not for flash but for being what its community needs — a welcoming, well-run taproom with consistent beer, a family-friendly atmosphere, and the kind of local identity that comes from being genuinely embedded in its neighborhood. The Conway location means it draws a different crowd than the Little Rock breweries, and the rotating food truck presence on weekends is better organized than most comparable operations.",
+      "best_for": "Conway residents, family outings, weekend afternoons"
+    }
+  ],
+  "honorable_mentions": [
+    {
+      "name": "Stone's Throw Brewing",
+      "note": "A downtown Little Rock staple known for its Belgian-inspired styles and one of the more intimate taproom atmospheres in the city."
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Dinner Restaurants in Little Rock",
+      "slug": "dinner/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Lost Forty Live Music",
+      "slug": "lost-forty-live-music-april-2026",
+      "type": "event"
+    }
+  ]
+}

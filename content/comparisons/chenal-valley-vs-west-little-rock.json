@@ -1,0 +1,76 @@
+{
+  "slug": "chenal-valley-vs-west-little-rock",
+  "neighborhood_a": "chenal-valley",
+  "neighborhood_b": "west-little-rock",
+  "seo": {
+    "title": "Chenal Valley vs West Little Rock: Neighborhood Comparison | Metro Little Rock",
+    "description": "Chenal Valley vs West Little Rock — comparing these adjacent west Little Rock submarkets on price, schools, amenities, and lifestyle to help you choose the right fit.",
+    "canonical": "/compare/chenal-valley-vs-west-little-rock"
+  },
+  "intro": "Chenal Valley and West Little Rock are adjacent but distinctly different suburban experiences. Chenal is a master-planned community with an HOA, golf course, and premium price point. West Little Rock is looser, more varied, and often better value. Here's how they compare.",
+  "metrics": [
+    {
+      "category": "Median Home Price",
+      "a_value": "$450K–$1.2M+",
+      "b_value": "$280K–$600K",
+      "winner": "b",
+      "notes": "West Little Rock offers comparable access to amenities at significantly lower price points."
+    },
+    {
+      "category": "HOA",
+      "a_value": "Yes — $150–$400/month",
+      "b_value": "Varies — often none or minimal",
+      "winner": "b",
+      "notes": "Chenal Valley HOA maintains the common areas and enforces standards but adds ongoing cost."
+    },
+    {
+      "category": "School Quality",
+      "a_value": "Chenal Elementary (excellent)",
+      "b_value": "PCSSD — varies by school",
+      "winner": "a",
+      "notes": "Chenal Valley feeds into some of PCSSD's strongest schools. West Little Rock assignments vary widely by exact address."
+    },
+    {
+      "category": "New Construction",
+      "a_value": "Active — ongoing development",
+      "b_value": "Mix of new and 20+ year old stock",
+      "winner": "a",
+      "notes": "Chenal Valley has more new construction options, especially in the $450K–$650K range."
+    },
+    {
+      "category": "Amenities Access",
+      "a_value": "Golf, swim clubs, trails (HOA)",
+      "b_value": "Corridor retail, restaurants, Trader Joe's",
+      "winner": "tie",
+      "notes": "Different amenity profiles — Chenal is more curated; West LR has more commercial variety."
+    },
+    {
+      "category": "Commute to Downtown",
+      "a_value": "25–35 minutes",
+      "b_value": "15–25 minutes",
+      "winner": "b",
+      "notes": "West Little Rock has a distance and traffic advantage over Chenal Valley for downtown commutes."
+    },
+    {
+      "category": "Neighborhood Feel",
+      "a_value": "Polished, planned, consistent",
+      "b_value": "Mixed, more organic, less uniform",
+      "winner": "tie",
+      "notes": "Strong preference either way — some buyers love the Chenal uniformity, others find it sterile."
+    },
+    {
+      "category": "Investment Stability",
+      "a_value": "Very stable — premium market",
+      "b_value": "Stable — broader buyer pool",
+      "winner": "tie",
+      "notes": "Both are historically stable. Chenal has higher highs in good markets; West LR has a larger buyer pool."
+    }
+  ],
+  "summary": "Chenal Valley is for buyers who want the full suburban package — master-planned, HOA-maintained, strong specific schools, and premium construction — and can afford the premium it commands. West Little Rock is for buyers who want the suburban west side without the HOA overhead, at lower price points, with faster downtown access. Both are excellent — the right choice depends on budget and how much you value planned community amenities vs flexibility.",
+  "related": [
+    { "title": "Chenal Valley Neighborhood Guide", "slug": "chenal-valley", "type": "neighborhood" },
+    { "title": "West Little Rock Neighborhood Guide", "slug": "west-little-rock", "type": "neighborhood" },
+    { "title": "Chenal Valley Market Report", "slug": "chenal-valley-q1-2026", "type": "market" },
+    { "title": "Best Neighborhoods for Families", "slug": "best-neighborhoods-for-families", "type": "guide" }
+  ]
+}

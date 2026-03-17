@@ -1,0 +1,46 @@
+{
+  "slug": "soma-mixed-use-development-2026",
+  "title": "New Mixed-Use Development Approved for South Main Corridor",
+  "seo": {
+    "title": "New Mixed-Use Development Approved for South Main Corridor | Metro Little Rock News",
+    "description": "Little Rock's planning commission approved a mixed-use development for the South Main corridor that will add 80 residential units and 12,000 square feet of ground-floor retail.",
+    "canonical": "/news/soma-mixed-use-development-2026"
+  },
+  "date_published": "2026-02-18",
+  "category": "development",
+  "neighborhood_slugs": [
+    "soma"
+  ],
+  "summary": "Little Rock's planning commission has approved a five-story mixed-use development for a parking lot site on South Main Street that will add 80 residential units and 12,000 square feet of ground-floor retail and restaurant space to the South Main Creative Corridor.",
+  "body_sections": [
+    {
+      "body": "The project, developed by a Little Rock-based firm, received planning commission approval on a 6-1 vote in February. The site at 1602 Main Street — currently a surface parking lot — will accommodate a five-story building with 80 apartment units (mix of studios, one-bedroom, and two-bedroom), 12,000 square feet of street-level commercial space, and structured parking accessible from the alley."
+    },
+    {
+      "heading": "Design and Timeline",
+      "body": "The building's ground-floor design preserves the pedestrian character of South Main with continuous retail frontage, pull-through entries, and outdoor seating areas designed to activate the sidewalk. Construction is expected to begin in summer 2026 with an 18-month build timeline targeting completion in late 2027. The developer has indicated interest in targeting food and beverage tenants for the ground floor, which would add to the existing dining density on the corridor."
+    },
+    {
+      "heading": "Context",
+      "body": "South Main has seen sustained investment over the past decade — Lost Forty Brewing, South on Main, Root Café, and Rebel Kettle have anchored the corridor's development — but residential density has lagged commercial development. The new project adds to a small number of residential buildings constructed since 2018 and represents continued confidence in the corridor's long-term trajectory."
+    }
+  ],
+  "impact_note": "More ground-floor retail and 80 new residential units on South Main directly increases the neighborhood's walkability and daytime-to-evening population — both of which strengthen the case for the existing businesses and make the corridor more attractive to future tenants.",
+  "related": [
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Lost Forty Brewing",
+      "slug": "lost-forty-brewing",
+      "type": "place"
+    },
+    {
+      "title": "South on Main",
+      "slug": "south-on-main",
+      "type": "place"
+    }
+  ]
+}

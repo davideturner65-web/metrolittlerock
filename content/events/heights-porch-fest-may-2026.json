@@ -1,0 +1,22 @@
+{
+  "slug": "heights-porch-fest-may-2026",
+  "event_name": "Heights Porch Fest",
+  "seo": {
+    "title": "Heights Porch Fest 2026 — Little Rock | Metro Little Rock Events",
+    "description": "Heights Porch Fest fills the Kavanaugh Boulevard neighborhood with live music performed from front porches and yards across The Heights neighborhood.",
+    "canonical": "/events/heights-porch-fest-may-2026"
+  },
+  "date_start": "2026-05-16",
+  "time": "1:00 PM – 7:00 PM",
+  "venue_name": "The Heights Neighborhood (Kavanaugh Corridor)",
+  "venue_address": "Kavanaugh Blvd, Little Rock, AR 72205",
+  "venue_coordinates": { "lat": 34.7520, "lng": -92.3310 },
+  "neighborhood_slug": "the-heights",
+  "category": "music",
+  "price_range": "free",
+  "description": "Heights Porch Fest is exactly what it sounds like — a neighborhood-wide music festival where local musicians perform from the front porches, driveways, and yards of homes along and near Kavanaugh Boulevard. With 15–20 simultaneous performance spots scattered across the neighborhood, attendees map their own route through the afternoon, discovering everything from bluegrass to indie pop to jazz floating out of residential streets. It's one of Little Rock's most beloved community events and a perfect expression of the Heights' character: spontaneous, local, and genuinely fun. Bring comfortable shoes and plan to walk.",
+  "highlight": true,
+  "image": { "src": "/images/events/heights-porch-fest.jpg", "alt": "Musicians performing on a front porch during Heights Porch Fest in Little Rock" },
+  "tags": ["porch fest", "free event", "Heights", "neighborhood music", "community"],
+  "recurring": { "pattern": "annual" }
+}

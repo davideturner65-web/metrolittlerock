@@ -1,0 +1,24 @@
+{
+  "slug": "lr-film-festival-may-2026",
+  "event_name": "Little Rock Film Festival — Opening Night",
+  "seo": {
+    "title": "Little Rock Film Festival Opening Night 2026 | Metro Little Rock Events",
+    "description": "The Little Rock Film Festival opens with a spotlight screening and filmmaker Q&A at downtown venues. Five days of independent cinema in the metro's best arts spaces.",
+    "canonical": "/events/lr-film-festival-may-2026"
+  },
+  "date_start": "2026-05-14",
+  "date_end": "2026-05-18",
+  "time": "7:00 PM (Opening Night)",
+  "venue_name": "Arkansas Repertory Theatre",
+  "venue_address": "601 Main St, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7432, "lng": -92.2835 },
+  "neighborhood_slug": "downtown",
+  "category": "arts",
+  "price_range": "$$",
+  "ticket_url": "https://lrfilmfest.com",
+  "description": "The Little Rock Film Festival is a five-day celebration of independent cinema that has grown steadily in national reputation since its founding. Opening Night brings the spotlight feature — a narrative or documentary that sets the tone for the week — followed by a filmmaker Q&A and an opening party. Festival screenings run across the Rep, The Ron Robinson Theater, and satellite venues through the week. The festival prioritizes Arkansas filmmakers and stories about the South, but always includes a strong slate of national and international independents. Single screening tickets available; all-access passes are the best value for serious film fans.",
+  "highlight": true,
+  "image": { "src": "/images/events/lr-film-festival.jpg", "alt": "Audience at the Little Rock Film Festival Opening Night" },
+  "tags": ["film festival", "independent film", "cinema", "downtown", "arts"],
+  "recurring": { "pattern": "annual" }
+}

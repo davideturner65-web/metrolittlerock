@@ -1,0 +1,68 @@
+{
+  "slug": "midtown",
+  "name": "midtown",
+  "display_name": "Midtown",
+  "seo": {
+    "title": "Midtown Little Rock Neighborhood Guide | Metro Little Rock",
+    "description": "Midtown Little Rock is the corridor between downtown and The Heights — diverse, affordable, evolving, and well-positioned at the center of the city's employment and entertainment core.",
+    "canonical": "/neighborhoods/midtown",
+    "og_image": "/images/neighborhoods/midtown.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/midtown.jpg",
+    "alt": "Diverse urban streetscape in Midtown Little Rock, AR along Markham Street"
+  },
+  "hero_stats": {
+    "median_price": "$210,000",
+    "avg_days_on_market": 30,
+    "price_trend": "+5.2% YoY",
+    "walkability_score": 52
+  },
+  "intro": "Midtown is the urban spine running between downtown Little Rock and The Heights — a broad, diverse area centered on the Markham Street and Kavanaugh corridors that includes some of the city's most interesting older residential stock, its strongest urban walkability outside of the River Market, and prices that remain well below what the adjacent Heights commands. It's heterogeneous and sometimes overlooked, but its centrality is unmatched.",
+  "real_estate_overview": "Midtown's real estate market is characterized by diversity: Victorian-era mansions in the Quapaw Quarter National Register Historic District, modest 1950s bungalows on interior blocks, and mid-rise apartment buildings and condos along commercial corridors. The Quapaw Quarter draws restoration buyers willing to take on historic renovation projects in the $250,000–$600,000 range. Standard bungalows run $165,000–$280,000. The neighborhood has seen consistent renovation activity for a decade, and pockets of it (particularly the blocks near 5th and Scott Streets) feel increasingly like SoMa's trajectory. Overall the market is steady rather than explosive.",
+  "schools_section": {
+    "overview": "Midtown spans multiple school attendance zones within the Little Rock School District, with some addresses feeding into the Pulaski Heights cluster and others into the Central High zone. Location within Midtown meaningfully affects school options.",
+    "highlights": [
+      { "name": "Forest Heights STEM Academy", "note": "K-8 STEM-focused magnet school accessible from Midtown addresses; strong academic programming." },
+      { "name": "Little Rock Central High School", "note": "The IB World School that is the flagship of the LRSD, directly accessible from Midtown." },
+      { "name": "Booker Arts Magnet School", "note": "K-8 arts magnet offering an alternative to neighborhood schools for creative families." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Midtown is Little Rock's most central neighborhood — you're 10 minutes from almost everything the metro offers. The lifestyle is urban and varied: the Markham Street corridor has independent businesses, the Quapaw Quarter has shaded sidewalks and architectural interest, and downtown's entertainment scene is a short drive or bike ride east.",
+    "dining": "Midtown has its own restaurant cluster: Samantha's Tap Room, Vino's Pizzeria (one of LR's oldest and most beloved spots), and a rotating collection of independent restaurants on and near Capitol Avenue and Markham. The Heights is close enough that Kavanaugh restaurants feel like extended neighborhood options.",
+    "outdoor": "Murray Park and Rebsamen Park are a short drive west along the river. The city's bicycle infrastructure is best developed through Midtown, with dedicated lanes on several key streets. War Memorial Park, a large green space with a stadium, tennis complex, and zoo, sits in the heart of Midtown.",
+    "culture": "War Memorial Stadium and the Arkansas State Fairgrounds anchor Midtown's culture calendar. The Arkansas Arts Center (major renovation underway) is at the northeast corner. Vino's and a cluster of live music venues near UAMS give Midtown an independent music scene.",
+    "family": "Midtown is more mixed than The Heights for families — some blocks are great, others less so. The magnet school system (Forest Heights STEM, Booker Arts) is a meaningful asset for parents willing to navigate the application process. War Memorial Park's zoo is a weekday destination."
+  },
+  "commute_section": {
+    "overview": "Midtown's central location delivers the metro's best commute flexibility. Essentially any destination in the metro is accessible in under 25 minutes from a Midtown address.",
+    "key_routes": [
+      { "destination": "UAMS Medical Corridor", "time": "8 min", "notes": "Markham St W — a near-direct shot." },
+      { "destination": "Downtown Little Rock", "time": "8 min", "notes": "Markham or Capitol Ave E." },
+      { "destination": "The Heights (Kavanaugh)", "time": "8 min", "notes": "Quick north on any connecting street." },
+      { "destination": "West Little Rock", "time": "18 min", "notes": "Markham to I-630 W." },
+      { "destination": "North Little Rock", "time": "15 min", "notes": "Cross the Broadway Bridge; easy." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Young professionals", "UAMS residents / physicians", "Historic renovation buyers", "Urban lifestyle seekers"],
+    "typical_buyer": "A UAMS resident physician or other healthcare professional who wants to live close to work without paying Heights prices, or a buyer interested in the Quapaw Quarter's historic renovation opportunities.",
+    "budget_range": "$160,000 – $500,000"
+  },
+  "faqs": [
+    {
+      "question": "What is the Quapaw Quarter?",
+      "answer": "The Quapaw Quarter is a National Register Historic District in central Little Rock encompassing roughly 9 square miles of 19th and early 20th-century residential and commercial architecture. It's the largest urban historic district in Arkansas and includes some of the city's most significant Victorian-era mansions. Buying in the Quapaw Quarter may make you eligible for historic tax credits on renovation work."
+    },
+    {
+      "question": "How does Midtown compare to SoMa?",
+      "answer": "SoMa (South Main) is a specific corridor within/adjacent to Midtown with a more concentrated and fashionable restaurant/bar scene. Midtown is a broader, more heterogeneous area. SoMa is hotter right now in terms of appreciation and buzz; Midtown is more varied and has pockets of much greater affordability."
+    }
+  ],
+  "related": [
+    { "title": "The Heights", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "SoMa District", "slug": "soma", "type": "neighborhood" },
+    { "title": "Downtown Little Rock", "slug": "downtown", "type": "neighborhood" }
+  ]
+}

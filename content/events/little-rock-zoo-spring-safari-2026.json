@@ -1,0 +1,23 @@
+{
+  "slug": "little-rock-zoo-spring-safari-2026",
+  "event_name": "Little Rock Zoo Spring Safari Weekend",
+  "seo": {
+    "title": "Little Rock Zoo Spring Safari Weekend 2026 | Metro Little Rock Events",
+    "description": "The Little Rock Zoo's Spring Safari Weekend features special keeper talks, animal encounter stations, and spring-themed activities for families.",
+    "canonical": "/events/little-rock-zoo-spring-safari-2026"
+  },
+  "date_start": "2026-05-02",
+  "date_end": "2026-05-03",
+  "time": "9:00 AM – 5:00 PM",
+  "venue_name": "Little Rock Zoo",
+  "venue_address": "1 Zoo Dr, Little Rock, AR 72205",
+  "venue_coordinates": { "lat": 34.7428, "lng": -92.3452 },
+  "neighborhood_slug": "midtown",
+  "category": "family",
+  "price_range": "$",
+  "ticket_url": "https://littlerockzoo.com",
+  "description": "The Little Rock Zoo's Spring Safari Weekend turns regular zoo admission into a full event experience with behind-the-scenes keeper talks at the African savanna exhibits, live animal encounter stations on the main plaza, and a special safari-themed crafts tent for younger visitors. The zoo is at its best in May — mild weather, active animals, and long daylight hours. Zoo membership covers both days and makes the most sense for families who visit more than twice a year. The butterfly garden typically opens for the season this weekend.",
+  "highlight": false,
+  "tags": ["zoo", "family", "kids", "animals", "spring", "Midtown"],
+  "recurring": { "pattern": "annual" }
+}

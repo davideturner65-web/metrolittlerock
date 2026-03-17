@@ -1,0 +1,21 @@
+{
+  "slug": "flying-saucer-trivia-night-april-2026",
+  "event_name": "Flying Saucer Trivia Night",
+  "seo": {
+    "title": "Flying Saucer Trivia Night — April 2026 | Metro Little Rock Events",
+    "description": "Test your knowledge at weekly trivia night at Flying Saucer in the River Market District. Draft beer, 200+ taps, and competitive trivia every Tuesday in downtown Little Rock.",
+    "canonical": "/events/flying-saucer-trivia-night-april-2026"
+  },
+  "date_start": "2026-04-07",
+  "time": "7:00 PM – 9:30 PM",
+  "venue_name": "Flying Saucer Draught Emporium",
+  "venue_address": "323 President Clinton Ave, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7462, "lng": -92.2704 },
+  "neighborhood_slug": "downtown",
+  "category": "nightlife",
+  "price_range": "$",
+  "description": "Flying Saucer's Tuesday trivia night is a downtown Little Rock institution — a weekly event that draws regulars, regulars who brought friends, and visitors who wandered in and stayed. The format is standard pub trivia: six rounds of ten questions across categories that vary week to week (current events, pop culture, history, local knowledge), with prizes for the top teams and running scores on whiteboards. The Saucer's selection of 200+ draft beers means you'll find something worth ordering while you debate whether that answer is actually correct. Teams of up to six; arrive by 6:30 to claim a table. No cover charge; drink minimum implied by common decency. The April edition is a good entry point — new seasonal taps are usually flowing and the patio is just starting to be viable weather-wise.",
+  "highlight": false,
+  "tags": ["trivia", "pub trivia", "Flying Saucer", "River Market", "nightlife", "weekly"],
+  "recurring": { "pattern": "weekly", "day_of_week": "Tuesday" }
+}

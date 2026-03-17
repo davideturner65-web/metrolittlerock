@@ -1,0 +1,71 @@
+{
+  "slug": "fall-food-guide-little-rock-2026",
+  "title": "Fall Food Guide: Little Rock's Best Autumn Dining",
+  "seo": {
+    "title": "Fall Food Guide: Little Rock's Best Autumn Dining 2026 | Metro Little Rock",
+    "description": "Little Rock's fall dining guide — seasonal menus, harvest produce, the Restaurant Week deals worth booking, and the food events that make October and November the metro's best dining months.",
+    "canonical": "/eat-drink/fall-food-guide-little-rock-2026"
+  },
+  "hero_image": {
+    "src": "/images/eat-drink/fall-food-hero.jpg",
+    "alt": "Fall dining in Little Rock with autumn foliage"
+  },
+  "season": "fall",
+  "intro": "Fall is arguably the best season for dining in Little Rock — temperatures drop enough to make outdoor eating comfortable again after a hot summer, Arkansas Restaurant Week brings deal-hunting to the city's best tables, and the harvest season pushes seasonal ingredients into menus that have been waiting for them.",
+  "sections": [
+    {
+      "heading": "Little Rock Restaurant Week: September's Best Value",
+      "body": "Little Rock Restaurant Week runs in mid-September and offers prix-fixe lunch and dinner menus at many of the metro's best restaurants — typically $15 lunch and $35 dinner options at places that otherwise don't do fixed-price service. It's the most accessible way to try the city's higher-end restaurants at a reduced commitment. Reservations fill quickly; book as soon as the participating restaurant list drops in August.",
+      "places": [
+        {
+          "name": "South on Main",
+          "slug": "south-on-main",
+          "note": "South on Main's Restaurant Week menus are among the most thoughtfully composed — they typically use the prix-fixe format to feature dishes that aren't on the regular menu."
+        },
+        {
+          "name": "Cache Restaurant",
+          "slug": "cache-restaurant",
+          "note": "Cache's Restaurant Week dinner is one of the best value access points to the river-view upscale dining experience that normally runs significantly higher."
+        }
+      ]
+    },
+    {
+      "heading": "Harvest Menus and Fall Ingredients",
+      "body": "The fall produce calendar in Arkansas brings sweet potatoes, butternut squash, Arkansas black apples, and late-season peppers into kitchens that have been waiting since spring. Root Café's fall menu shifts most dramatically of any Little Rock restaurant, and South on Main's seasonal menu updates around this time reliably introduce some of the kitchen's best work of the year.",
+      "places": [
+        {
+          "name": "Root Café",
+          "slug": "root-cafe",
+          "note": "The fall breakfast and lunch menu is built around what's arriving from Arkansas farms — sweet potato preparations, apple dishes, and grain bowls that make the most of the harvest season."
+        }
+      ]
+    },
+    {
+      "heading": "Arkansas Food & Wine Festival",
+      "body": "The Arkansas Food and Wine Festival at Riverfront Park in early October brings together the metro's best chefs alongside regional wineries, craft breweries, and food artisans for a single-day event that functions as a highlight reel of central Arkansas's food and beverage culture. Ticketed, but worth it for the access it provides to restaurants that don't normally do event service.",
+      "places": [
+        {
+          "name": "Arkansas Food & Wine Festival",
+          "note": "Early October at Riverfront Park — tickets typically sell out in the week before the event. Worth buying in advance."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Dinner Restaurants in Little Rock",
+      "slug": "dinner/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "Little Rock Restaurant Week",
+      "slug": "lr-restaurant-week-sept-2026",
+      "type": "event"
+    },
+    {
+      "title": "Arkansas Food & Wine Festival",
+      "slug": "arkansas-food-wine-festival-oct-2026",
+      "type": "event"
+    }
+  ]
+}

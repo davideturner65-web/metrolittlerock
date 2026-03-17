@@ -1,0 +1,22 @@
+{
+  "slug": "arkansas-symphony-spring-gala-2026",
+  "event_name": "Arkansas Symphony Orchestra: Spring Gala Concert",
+  "seo": {
+    "title": "Arkansas Symphony Orchestra Spring Gala 2026 | Metro Little Rock Events",
+    "description": "The Arkansas Symphony Orchestra's Spring Gala at Robinson Center Performance Hall — an evening of orchestral excellence in downtown Little Rock.",
+    "canonical": "/events/arkansas-symphony-spring-gala-2026"
+  },
+  "date_start": "2026-04-25",
+  "time": "7:00 PM",
+  "venue_name": "Robinson Center Performance Hall",
+  "venue_address": "426 W Markham St, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7465, "lng": -92.2845 },
+  "neighborhood_slug": "downtown",
+  "category": "music",
+  "price_range": "$$$",
+  "ticket_url": "https://arkansassymphony.org",
+  "description": "The Arkansas Symphony Orchestra presents its annual Spring Gala at Robinson Center Performance Hall, one of the finest concert halls in the mid-South. This season's program features a sweeping program of late Romantic orchestral works conducted by Music Director Geoffrey Robson. The Spring Gala is the ASO's marquee fundraising evening, combining world-class performance with a pre-concert reception for patrons. Formal attire is suggested but not required. The ASO regularly draws nationally recognized guest soloists for this event.",
+  "highlight": false,
+  "tags": ["classical music", "ASO", "Robinson Center", "downtown", "formal", "orchestra"],
+  "recurring": { "pattern": "annual" }
+}

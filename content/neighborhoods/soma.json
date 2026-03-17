@@ -1,0 +1,76 @@
+{
+  "slug": "soma",
+  "name": "soma",
+  "display_name": "SoMa District",
+  "seo": {
+    "title": "SoMa District Neighborhood Guide — Little Rock, AR | Metro Little Rock",
+    "description": "SoMa (South Main) is Little Rock's trendiest emerging neighborhood — chef-driven restaurants, artist studios, Victorian homes, and a walkable Main Street corridor coming into its own.",
+    "canonical": "/neighborhoods/soma",
+    "og_image": "/images/neighborhoods/soma.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/soma.jpg",
+    "alt": "South Main Street corridor in the SoMa District of Little Rock, AR"
+  },
+  "hero_stats": {
+    "median_price": "$285,000",
+    "avg_days_on_market": 22,
+    "price_trend": "+8.4% YoY",
+    "walkability_score": 65
+  },
+  "intro": "SoMa — South Main — is Little Rock's most exciting emerging neighborhood. Stretching along South Main Street south of I-630, it blends restored Victorian homes, converted commercial spaces, and a chef-driven restaurant and bar scene that has made it the go-to destination for locals in the know. Prices are rising fast as buyers figure out what residents already know: this is the city's most interesting square mile of real estate.",
+  "real_estate_overview": "SoMa's housing stock is primarily late Victorian and early 20th-century single-family homes — a mix of Queen Annes, foursquares, and Craftsman cottages — that were undervalued for decades and are now actively being restored. The renovation wave started around 2012 and accelerated sharply after 2018. Entry-level unrenovated homes still exist in the $180,000–$250,000 range, but fully restored properties have crossed $400,000 and climbing. The neighborhood also has an emerging condo and small multifamily market in converted commercial buildings along Main Street. Investors and owner-renovators compete aggressively for well-located properties, and days on market for move-in-ready homes averages under 20 days.",
+  "schools_section": {
+    "overview": "SoMa is within the Little Rock School District. The area benefits from proximity to several of the district's magnet schools, which are accessible by application regardless of address.",
+    "highlights": [
+      { "name": "Booker Arts Magnet School", "note": "A K-8 arts-focused magnet within the LRSD that attracts SoMa families seeking a creative educational environment." },
+      { "name": "Little Rock Central High School", "note": "15-minute drive; the district's flagship IB World School." },
+      { "name": "LISA Academy", "note": "STEM-focused charter school option that serves the area with strong STEM curriculum." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "SoMa's lifestyle is defined by Main Street. On a Saturday afternoon, the street hums with people moving between coffee shops, galleries, and brunch spots. The neighborhood has a creative, independent energy — murals on every other wall, front-porch culture, community gardens — that draws artists, chefs, and young professionals who want authenticity over polish.",
+    "dining": "South Main is the best restaurant street in Little Rock for adventurous eaters. The Root Restaurant & Bar, South on Main, Raduno Brick Oven & Barroom, Petit & Keet, and Rebel Kettle Brewing anchor a dining scene that punches well above the city's size. New concepts continue to open at a remarkable pace.",
+    "outdoor": "Riverfront Park and the River Trail are a 10-minute bike ride north. Forest Park, a small neighborhood park, serves the residential blocks. The Arkansas River corridor is the primary outdoor draw for SoMa residents.",
+    "culture": "SoMa is Little Rock's arts neighborhood. The Arkansas Arts Center's new building is adjacent, CALS (Central Arkansas Library System) headquarters is nearby, and rotating gallery pop-ups, First Friday art walks, and the SoMa Trolley Night give the neighborhood a monthly cultural rhythm.",
+    "family": "SoMa attracts young couples who become families. Stroller density has risen markedly in recent years. The main family-life challenge is the limited walkable playground infrastructure and the school options requiring more active engagement to navigate."
+  },
+  "commute_section": {
+    "overview": "SoMa's location just south of I-630 means it has quick access to the freeway system in all directions. Downtown is a 5-minute drive or 15-minute walk/bike. UAMS is 8 minutes west. It's one of the best-located intown neighborhoods for commuters.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "5 min", "notes": "Straight up Main Street; easily bikeable." },
+      { "destination": "UAMS Medical Corridor", "time": "8 min", "notes": "Quick hop on I-630 W." },
+      { "destination": "The Heights", "time": "10 min", "notes": "Via Markham St W — cross-neighborhood connection." },
+      { "destination": "Chenal Valley", "time": "25 min", "notes": "I-630 W to I-430 S." },
+      { "destination": "LIT Airport", "time": "18 min", "notes": "I-630 E to I-40 E." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Young professionals", "Creative class", "Investors / renovators", "Urban lifestyle seekers"],
+    "typical_buyer": "A 28–38-year-old professional — often in healthcare, design, food & beverage, or tech — who wants a walkable urban neighborhood with character, is comfortable taking on some renovation risk, and sees the long-term value in an emerging market.",
+    "budget_range": "$180,000 – $450,000"
+  },
+  "faqs": [
+    {
+      "question": "Is SoMa a good investment right now?",
+      "answer": "SoMa has been the best-appreciating intown neighborhood in Little Rock over the past five years at +8.4% annually. The continued Main Street development, proximity to downtown, and still-affordable entry points make it a strong candidate for continued appreciation. As with any emerging neighborhood, there's more variability — block-by-block quality differences matter."
+    },
+    {
+      "question": "Is SoMa safe?",
+      "answer": "SoMa has improved substantially in safety over the past decade as investment and density increased. The Main Street commercial corridor is active and well-lit most evenings. Residential blocks a few streets east or west of Main can still be mixed — walking at night with awareness is standard advice for any intown neighborhood."
+    },
+    {
+      "question": "What is the parking situation in SoMa?",
+      "answer": "Most single-family homes have off-street parking. Street parking on and near Main Street can be limited on busy Friday and Saturday nights. For residents, the parking situation is far less constraining than it would be in a comparably dense urban neighborhood in a larger city."
+    },
+    {
+      "question": "How does SoMa compare to The Heights?",
+      "answer": "The Heights is more established, more expensive, and more walkable to everyday amenities (grocery, coffee). SoMa is edgier, cheaper at entry, appreciating faster, and has the better restaurant scene right now. Many buyers choose SoMa for value and energy, The Heights for stability and daily convenience."
+    }
+  ],
+  "related": [
+    { "title": "Downtown Little Rock", "slug": "downtown", "type": "neighborhood" },
+    { "title": "The Heights", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "Midtown", "slug": "midtown", "type": "neighborhood" }
+  ]
+}

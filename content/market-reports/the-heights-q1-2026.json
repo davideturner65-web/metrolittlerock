@@ -1,0 +1,46 @@
+{
+  "slug": "the-heights-q1-2026",
+  "neighborhood_slug": "the-heights",
+  "neighborhood_name": "The Heights",
+  "seo": {
+    "title": "The Heights Real Estate Market Report Q1 2026 | Metro Little Rock",
+    "description": "Current real estate market data for The Heights neighborhood in Little Rock — median prices, days on market, inventory, and what it means for buyers and sellers in Q1 2026.",
+    "canonical": "/market-reports/the-heights-q1-2026"
+  },
+  "report_date": "2026-03-01",
+  "summary": "The Heights remains one of the tightest markets in the Little Rock metro. Low inventory and persistent demand from buyers who specifically target this neighborhood are keeping prices elevated and days-on-market short. Well-priced homes continue to see multiple offers.",
+  "stats": {
+    "median_price": 425000,
+    "median_price_change_yoy": "+6.2%",
+    "avg_days_on_market": 14,
+    "dom_change_yoy": "-3 days",
+    "active_listings": 18,
+    "sold_last_30_days": 11,
+    "price_per_sqft": 218,
+    "list_to_sale_ratio": "101.4%"
+  },
+  "price_trend_data": [
+    { "month": "Apr '25", "median_price": 388000 },
+    { "month": "May '25", "median_price": 402000 },
+    { "month": "Jun '25", "median_price": 415000 },
+    { "month": "Jul '25", "median_price": 408000 },
+    { "month": "Aug '25", "median_price": 411000 },
+    { "month": "Sep '25", "median_price": 418000 },
+    { "month": "Oct '25", "median_price": 421000 },
+    { "month": "Nov '25", "median_price": 416000 },
+    { "month": "Dec '25", "median_price": 419000 },
+    { "month": "Jan '26", "median_price": 422000 },
+    { "month": "Feb '26", "median_price": 428000 },
+    { "month": "Mar '26", "median_price": 425000 }
+  ],
+  "inventory_analysis": "Inventory in The Heights is critically low at just 18 active listings — representing under 6 weeks of supply at the current absorption rate. New listings are immediately absorbed. The neighborhood's finite housing stock and high barriers to entry create a structurally constrained supply situation.",
+  "buyer_insights": "Buyers targeting The Heights need to be pre-approved and ready to move fast. Waiving inspection contingencies is increasingly common for competitive offers, though we advise against it — negotiate a short inspection period instead. Budget 2–5% above list price for desirable properties. Work with a local agent who has established relationships in the neighborhood.",
+  "seller_insights": "It's a strong seller's market. Well-priced, well-presented homes are achieving list price or above with multiple offers in the first week. Overpricing still backfires — the market knows this neighborhood intimately. Professional photography and staging are non-negotiable at these price points. Spring (March–May) remains the strongest listing window.",
+  "forecast": "The Heights is expected to maintain its premium pricing through 2026, supported by persistent demand, limited inventory, and the neighborhood's unique lifestyle appeal. Price growth may moderate from the 6%+ YoY pace as affordability becomes a constraint, but significant softening is unlikely given the structural supply deficit.",
+  "related": [
+    { "title": "The Heights Neighborhood Guide", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "Heights vs SoMa Comparison", "slug": "heights-vs-soma", "type": "comparison" },
+    { "title": "Seller Consultation", "slug": "seller-consultation", "type": "service" },
+    { "title": "Buyer Consultation", "slug": "buyer-consultation", "type": "service" }
+  ]
+}

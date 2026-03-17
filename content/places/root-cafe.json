@@ -1,0 +1,65 @@
+{
+  "slug": "root-cafe",
+  "name": "Root Café",
+  "seo": {
+    "title": "Root Café — Farm-to-Table Breakfast & Lunch in SoMa Little Rock | Metro Little Rock",
+    "description": "Root Café is South Main's breakfast and lunch anchor — a farm-to-table café that sources from Arkansas farms and runs a community-first dining room beloved by the neighborhood.",
+    "canonical": "/places/root-cafe"
+  },
+  "type": "restaurant",
+  "cuisine_tags": [
+    "breakfast",
+    "lunch",
+    "farm-to-table",
+    "Arkansas grown",
+    "vegetarian-friendly"
+  ],
+  "neighborhood_slug": "soma",
+  "address": "1500 Main St, Little Rock, AR 72202",
+  "coordinates": {
+    "lat": 34.7349,
+    "lng": -92.2842
+  },
+  "phone": "(501) 414-0423",
+  "website": "https://therootcafe.com",
+  "hours": {
+    "Tuesday": "7:00 AM – 2:00 PM",
+    "Wednesday": "7:00 AM – 2:00 PM",
+    "Thursday": "7:00 AM – 2:00 PM",
+    "Friday": "7:00 AM – 2:00 PM",
+    "Saturday": "8:00 AM – 2:00 PM",
+    "Sunday": "8:00 AM – 2:00 PM"
+  },
+  "price_range": "$$",
+  "vibe": "casual",
+  "description": "Root Café anchors the southern end of the South Main Creative Corridor with a menu built around relationships with Arkansas farms. The breakfast and lunch service changes with the season — not as a marketing posture but because that's what's ready. Biscuits, eggs, grain bowls, and sandwiches are all made with the same seriousness about sourcing. The dining room is community-minded in a genuine way: a pay-what-you-can model for customers who need it, a community board full of local events, and staff who know the regulars by name. Saturday and Sunday brunch lines form before the doors open; weekday breakfast is more relaxed and worth the detour if you're nearby.",
+  "must_try_items": [
+    "Biscuits with Arkansas honey butter",
+    "Grain bowl with seasonal vegetables",
+    "Weekend special (varies — ask the chalkboard)",
+    "Locally roasted coffee"
+  ],
+  "good_for": [
+    "brunch",
+    "lunch",
+    "solo",
+    "work_remote"
+  ],
+  "image": {
+    "src": "/images/places/root-cafe.jpg",
+    "alt": "Root Café dining room on South Main in Little Rock"
+  },
+  "featured": true,
+  "related": [
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Breakfast in Little Rock",
+      "slug": "breakfast/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

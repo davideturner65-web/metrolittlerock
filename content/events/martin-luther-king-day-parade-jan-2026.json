@@ -1,0 +1,21 @@
+{
+  "slug": "martin-luther-king-day-parade-jan-2026",
+  "event_name": "Little Rock Martin Luther King Jr. Day Parade & Celebration",
+  "seo": {
+    "title": "Little Rock MLK Day Parade & Celebration — January 2026 | Metro Little Rock Events",
+    "description": "Little Rock's annual Martin Luther King Jr. Day Parade marches through downtown with community organizations, schools, and civic groups. Free ceremony and celebration follow.",
+    "canonical": "/events/martin-luther-king-day-parade-jan-2026"
+  },
+  "date_start": "2026-01-19",
+  "time": "10:00 AM (Parade Start)",
+  "venue_name": "Downtown Little Rock",
+  "venue_address": "Markham St, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7465, "lng": -92.2896 },
+  "neighborhood_slug": "downtown",
+  "category": "community",
+  "price_range": "free",
+  "description": "Little Rock's MLK Day Parade is one of the metro's most meaningful civic events — a march through downtown that draws community organizations, churches, school groups, elected officials, and civic clubs alongside marching bands and performance groups from across the metro. The parade route runs along Markham Street through the heart of downtown, with a post-parade ceremony and celebration program. Little Rock's civil rights history gives the day particular resonance — the city was the site of the 1957 Central High School desegregation crisis, and the Central High Museum and Visitor Center is a mile from the parade route. Many attendees make a day of it, combining the parade with a visit to the Central High site or the Mosaic Templars Cultural Center. All events are free and open to the public.",
+  "highlight": false,
+  "tags": ["MLK Day", "parade", "community", "downtown", "civil rights", "free"],
+  "recurring": { "pattern": "annual" }
+}

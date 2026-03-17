@@ -1,0 +1,72 @@
+{
+  "slug": "north-little-rock",
+  "name": "north-little-rock",
+  "display_name": "North Little Rock",
+  "seo": {
+    "title": "North Little Rock Neighborhood Guide | Metro Little Rock",
+    "description": "North Little Rock offers the metro's best value — affordable homes, the Argenta Arts District, river access, and a revitalizing urban core just across the bridge from downtown.",
+    "canonical": "/neighborhoods/north-little-rock",
+    "og_image": "/images/neighborhoods/north-little-rock.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/north-little-rock.jpg",
+    "alt": "Argenta Arts District in North Little Rock, AR with Arkansas River in background"
+  },
+  "hero_stats": {
+    "median_price": "$195,000",
+    "avg_days_on_market": 28,
+    "price_trend": "+6.9% YoY",
+    "walkability_score": 42
+  },
+  "intro": "North Little Rock sits on the north bank of the Arkansas River, connected to downtown by the Broadway and Junction bridges. Its Argenta Arts District has emerged as one of central Arkansas's most surprising creative hubs — with live music venues, galleries, a thriving brewery scene, and a farmers market that rivals anything in the metro. For buyers willing to cross the river, NLR offers the best price-per-square-foot in any metro-area neighborhood with walkable amenities.",
+  "real_estate_overview": "North Little Rock spans a wide range of housing types and price points. The Argenta neighborhood (near the arts district) has early 20th-century bungalows and commercial-conversion lofts starting around $150,000 for unrenovated properties, with renovated homes reaching $300,000+. The suburban neighborhoods in NLR proper — Rose City, Indian Hills, Lakewood — offer solid 1960s–1990s housing stock in the $150,000–$280,000 range. Park Hill is NLR's most coveted address: a mature tree-lined neighborhood with Craftsman-era homes commanding $250,000–$450,000. The overall market is appreciating faster than the Little Rock average as buyers discover the value.",
+  "schools_section": {
+    "overview": "North Little Rock School District is a separate district from LRSD. The district has invested in new facilities and programming in recent years, with the high school serving as a community anchor.",
+    "highlights": [
+      { "name": "North Little Rock High School", "note": "Large comprehensive high school with strong athletics; new construction in recent years has modernized facilities." },
+      { "name": "Amboy Elementary", "note": "Well-regarded K-5 in the Park Hill area, popular with neighborhood families." },
+      { "name": "Crestwood Elementary", "note": "Strong performance track record in the eastern NLR neighborhoods." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "NLR's lifestyle is split between its urban Argenta core and its quieter residential neighborhoods. Argenta is walkable, active, and increasingly hip. Park Hill and the river-adjacent neighborhoods are peaceful, mature, and community-oriented. The Big Dam Bridge and Emerald Park bring world-class outdoor recreation to the doorstep.",
+    "dining": "Argenta is punching above its weight on food. Flyway Brewing, Boscos Brewing Company, and Local Lime anchor the craft beverage scene. Main Street Argenta's restaurants include The Fold Botanas & Bar, Maxine's Tap Room, and several rotating new concepts. The scene is younger and cheaper than The Heights, but nearly as interesting.",
+    "outdoor": "The Arkansas River Trail runs through NLR with access to the Big Dam Bridge — the longest pedestrian/bicycle bridge in the U.S. Emerald Park on the river is a gem: 102 acres of trails, disc golf, and picnic areas. Willow Beach Marina gives NLR residents easy river recreation access.",
+    "culture": "Argenta is the arts district. ArtSpace, the Argenta Community Theater, and multiple galleries cluster in a walkable four-block stretch. The Argenta Farmers Market (Saturday mornings, April–October) is one of the metro's best. NLR has a stronger live music culture than any neighborhood on the south bank outside of downtown.",
+    "family": "NLR's residential neighborhoods are solid for families. Park Hill in particular is a deeply community-oriented area with good schools, walkable parks, and neighborhood events. Argenta is more young-professional than family-focused but is stroller-friendly on weekend mornings."
+  },
+  "commute_section": {
+    "overview": "The river crossing is the main commute variable for NLR residents. The Broadway Bridge (I-30) and McKinley Bridge give quick access to downtown and I-630. Traffic on the bridges during rush hour can add 10–15 minutes in each direction.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "10 min", "notes": "Broadway Bridge direct; can be slow at 7:30–8:30 AM." },
+      { "destination": "UAMS Medical Corridor", "time": "20 min", "notes": "Cross river, then I-630 W." },
+      { "destination": "West Little Rock", "time": "25 min", "notes": "I-30 S to I-630 W." },
+      { "destination": "Sherwood / Cabot", "time": "15–25 min", "notes": "I-40 E or Highway 107 — easy suburban commute." },
+      { "destination": "LIT Airport", "time": "15 min", "notes": "I-40 E to I-440; among the shortest airport commutes in the metro." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["First-time buyers", "Young professionals", "Investors", "Value-focused buyers", "Creative class"],
+    "typical_buyer": "A first-time buyer or investor attracted by the best price-per-square-foot in the metro with walkable amenities, or a creative professional drawn to the Argenta arts community and willing to trade some commute convenience for neighborhood character.",
+    "budget_range": "$140,000 – $350,000"
+  },
+  "faqs": [
+    {
+      "question": "Is North Little Rock safe?",
+      "answer": "NLR has both low-crime and higher-crime areas. Argenta and Park Hill are generally safe and actively managed. Some neighborhoods in Rose City and the I-40 corridor have higher crime rates. Research specific blocks carefully and visit at different times of day before purchasing."
+    },
+    {
+      "question": "What's the Argenta Arts District exactly?",
+      "answer": "Argenta is a walkable historic district centered on Main Street in NLR, about five blocks north of the Broadway Bridge. It has concentrated bars, restaurants, galleries, a community theater, and the Argenta Farmers Market. It's the social hub of NLR and one of the most walkable areas in the metro."
+    },
+    {
+      "question": "How does NLR compare to Little Rock for property taxes?",
+      "answer": "Both cities are in Pulaski County, so the county tax rate is the same. NLR has its own city millage rate, which is slightly different from Little Rock's. The net difference is minimal — a few dollars per month on a $200,000 home."
+    }
+  ],
+  "related": [
+    { "title": "Downtown Little Rock", "slug": "downtown", "type": "neighborhood" },
+    { "title": "Sherwood", "slug": "sherwood", "type": "neighborhood" },
+    { "title": "The Heights", "slug": "the-heights", "type": "neighborhood" }
+  ]
+}

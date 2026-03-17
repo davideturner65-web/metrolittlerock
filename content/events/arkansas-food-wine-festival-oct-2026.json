@@ -1,0 +1,22 @@
+{
+  "slug": "arkansas-food-wine-festival-oct-2026",
+  "event_name": "Arkansas Food & Wine Festival",
+  "seo": {
+    "title": "Arkansas Food & Wine Festival 2026 — Little Rock | Metro Little Rock Events",
+    "description": "The Arkansas Food & Wine Festival celebrates the state's culinary talent with tastings, chef demos, and a walk-around grand tasting at Riverfront Park.",
+    "canonical": "/events/arkansas-food-wine-festival-oct-2026"
+  },
+  "date_start": "2026-10-03",
+  "time": "6:00 PM – 10:00 PM",
+  "venue_name": "Riverfront Park",
+  "venue_address": "Riverfront Dr, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7492, "lng": -92.2748 },
+  "neighborhood_slug": "downtown",
+  "category": "food",
+  "price_range": "$$",
+  "ticket_url": "https://arfoodandwine.com",
+  "description": "The Arkansas Food & Wine Festival is the metro's premier upscale food event — a walk-around tasting evening where Arkansas's best chefs, winemakers, and craft producers set up stations across Riverfront Park for a three-hour grand tasting. Ticket holders graze through the evening, moving from a James Beard-nominated chef's bite to an Arkansas winery pour to a local distillery cocktail. The outdoor setting on the Arkansas River on a cool October evening makes the atmosphere as good as the food. Tickets sell out annually — buy in August to be safe.",
+  "highlight": false,
+  "tags": ["wine", "food festival", "upscale", "chef event", "Riverfront Park"],
+  "recurring": { "pattern": "annual" }
+}

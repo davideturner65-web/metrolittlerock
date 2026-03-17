@@ -1,0 +1,93 @@
+{
+  "slug": "best-neighborhoods-for-families",
+  "title": "Best Neighborhoods for Families in Little Rock Metro",
+  "seo": {
+    "title": "Best Neighborhoods for Families in Little Rock 2026 | Metro Little Rock",
+    "description": "The honest guide to family-friendly neighborhoods in the Little Rock metro — schools, safety, parks, and price ranges. Based on data and local knowledge, not sponsored rankings.",
+    "canonical": "/guides/best-neighborhoods-for-families"
+  },
+  "hero_image": { "src": "", "alt": "Family-friendly neighborhood park in Little Rock Arkansas" },
+  "intro": "Choosing a neighborhood as a family means weighing schools, safety, proximity to parks, and whether the neighborhood actually has other families in it. This guide covers the best family-friendly areas in the metro honestly — including the tradeoffs each one involves.",
+  "sections": [
+    {
+      "id": "bryant",
+      "heading": "#1 Bryant — Top Schools, Great Value",
+      "body": "Bryant consistently ranks as one of the top school districts in Arkansas. Bryant High School, Bryant Middle School, and the elementary schools all receive high state ratings. The community is suburban, safe, and growing. Home prices run $185K–$420K with good value for the school quality. The main tradeoff is distance — about 20–25 minutes south of downtown Little Rock. Bryant is a complete community with its own restaurants, parks, and amenities.",
+      "checklist": [
+        "Check Bryant School District ratings at dese.ade.arkansas.gov",
+        "Visit Saline County parks system — well-maintained with youth sports leagues",
+        "Factor in I-30 commute times during morning rush (20–35 min to downtown)",
+        "Look at new construction in the $250K–$380K range for Bryant"
+      ]
+    },
+    {
+      "id": "chenal-valley",
+      "heading": "#2 Chenal Valley — Suburban Premium",
+      "body": "Chenal Valley is Little Rock's master-planned community — wide streets, HOA maintenance, golf course, swim clubs, and newer construction. It feeds into the Pulaski County Special School District, which includes highly regarded Chenal Elementary and Robinson Middle/High schools. Prices run $400K–$1.2M+ and HOA fees apply. This is the destination for families prioritizing space, safety, and a polished suburban environment.",
+      "checklist": [
+        "Confirm specific school assignments by address — Chenal Valley feeds multiple schools",
+        "Get HOA documents and budget before making an offer",
+        "Visit Rebsamen Park and Allsopp Park — families drive here from Chenal regularly",
+        "Budget for HOA fees ($100–$400/month depending on the development)"
+      ]
+    },
+    {
+      "id": "the-heights",
+      "heading": "#3 The Heights — Walkable with Character",
+      "body": "The Heights is the most walkable neighborhood in Little Rock and has one of the strongest neighborhood identities. Families love the tree-lined streets, proximity to Kavanaugh Boulevard restaurants, and the Saturday farmers market. It feeds into Pulaski Heights Elementary (strong), Pulaski Heights Middle, and Hall High School (mixed reputation). Home prices run $285K–$750K and inventory is tight. Best for families who value walkability and neighborhood life over suburban amenity.",
+      "checklist": [
+        "Walk Kavanaugh Boulevard on a Saturday morning to feel the neighborhood",
+        "Look up Pulaski Heights Elementary — it's one of the strongest in LRSD",
+        "Ask neighbors about Hall High School — opinions vary significantly",
+        "Competition for homes is real here — be prepared to move quickly"
+      ]
+    },
+    {
+      "id": "conway",
+      "heading": "#4 Conway — College Town with Great Schools",
+      "body": "Conway (30 minutes north on I-40) has grown dramatically and is now its own substantial city. The Conway School District is highly regarded. Three universities (UCA, Hendrix, and Central Baptist) give the city a different energy than suburban Little Rock. Prices are lower than most Little Rock neighborhoods ($185K–$400K), and the city has invested heavily in trails, parks, and amenities. Best for families who want small-city feel with strong schools.",
+      "checklist": [
+        "Drive I-40 at rush hour — Conway to Little Rock can run 40–50 minutes in traffic",
+        "Explore the Cadron Settlement Park and Rockwater trail system",
+        "Conway School District serves the city — check specific school assignments",
+        "Look at newer developments in west Conway for the best school assignments"
+      ]
+    },
+    {
+      "id": "maumelle",
+      "heading": "#5 Maumelle — Quiet and Underrated",
+      "body": "Maumelle is a planned community 15 minutes northwest of downtown, surrounded by Pinnacle Mountain State Park and the Arkansas River. It's quieter than most suburbs, with a strong sense of community and active HOAs. It feeds into the Pulaski County Special School District with Maumelle Middle and Mills High School. Prices are $220K–$450K with good value. Best for families who want outdoor access, lower traffic, and a genuine community feel.",
+      "checklist": [
+        "Visit Pinnacle Mountain State Park — it's essentially in the neighborhood's backyard",
+        "Maumelle Lake and river access are significant lifestyle advantages",
+        "Mills High School has a mixed reputation — research specific programs",
+        "Maumelle HOA is active — get the rules and fee structure before buying"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which Little Rock area has the best public schools overall?",
+      "answer": "Bryant School District is consistently ranked highest in the metro. Conway School District and Cabot School District are also strong. Within Little Rock proper, schools vary significantly — Pulaski Heights Elementary and some PCSSD schools are excellent, while others struggle. Always look up individual school ratings, not just district averages."
+    },
+    {
+      "question": "Is Little Rock safe for families?",
+      "answer": "Safety varies significantly by neighborhood. Chenal Valley, Bryant, Maumelle, Conway, and The Heights all have crime rates comparable to safe suburbs anywhere. Certain parts of central Little Rock and specific corridors have higher crime. The answer is very much neighborhood-specific — research the specific streets you're considering."
+    },
+    {
+      "question": "What's the best neighborhood for families who want to walk everywhere?",
+      "answer": "The Heights is the clear answer if walkability is your top priority. Kavanaugh Boulevard has restaurants, coffee, a pharmacy, and the Saturday farmers market all within walking distance. Hillcrest is a close second. Both neighborhoods have trade-offs around school options compared to Bryant or Chenal Valley."
+    },
+    {
+      "question": "Are there good youth sports leagues in Little Rock?",
+      "answer": "Yes — Little Rock Parks and Recreation, Chenal Athletic Association, and various city leagues run year-round youth sports programs. Conway and Bryant both have strong youth athletics programs. YMCA of Arkansas has several metro locations with youth programming. Soccer in particular has a strong presence through AYSO Arkansas."
+    }
+  ],
+  "related": [
+    { "title": "Moving to Little Rock Guide", "slug": "moving-to-little-rock", "type": "guide" },
+    { "title": "Chenal Valley Neighborhood Guide", "slug": "chenal-valley", "type": "neighborhood" },
+    { "title": "The Heights Neighborhood Guide", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "Conway Neighborhood Guide", "slug": "conway", "type": "neighborhood" },
+    { "title": "Bryant Neighborhood Guide", "slug": "bryant", "type": "neighborhood" }
+  ]
+}

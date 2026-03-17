@@ -1,0 +1,68 @@
+{
+  "slug": "jacksonville",
+  "name": "jacksonville",
+  "display_name": "Jacksonville",
+  "seo": {
+    "title": "Jacksonville AR Neighborhood Guide | Metro Little Rock",
+    "description": "Jacksonville is an affordable east metro city anchored by Little Rock Air Force Base — military-friendly, family-oriented, and offering some of the lowest home prices in Pulaski County.",
+    "canonical": "/neighborhoods/jacksonville",
+    "og_image": "/images/neighborhoods/jacksonville.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/jacksonville.jpg",
+    "alt": "Family-friendly neighborhoods in Jacksonville, AR near Little Rock AFB"
+  },
+  "hero_stats": {
+    "median_price": "$165,000",
+    "avg_days_on_market": 26,
+    "price_trend": "+5.1% YoY",
+    "walkability_score": 20
+  },
+  "intro": "Jacksonville is a city of about 29,000 residents in eastern Pulaski County, defined largely by its relationship with Little Rock Air Force Base. The AFB brings a steady population of active-duty military families, creates a strong rental market, and gives the community a distinct culture of transient but tight-knit families. For buyers, Jacksonville offers the lowest home prices in Pulaski County with easy I-40 access east or west.",
+  "real_estate_overview": "Jacksonville's housing market is driven by the military community and first-time buyers. The stock is predominantly 1960s–1990s construction — brick ranches, split-levels, and small colonials — at prices that feel remarkably affordable. The $140,000–$210,000 range covers a solid 3-bedroom home in most neighborhoods. VA loan activity is high here; Jacksonville has one of the highest VA loan utilization rates in the metro. The rental market is exceptionally strong due to military families needing short-term housing. Investors active in Jacksonville focus on cash flow rather than appreciation.",
+  "schools_section": {
+    "overview": "Jacksonville is served by the Jacksonville/North Pulaski School District, which split from PCSSD in 2017. The newer district has invested in facilities and is still developing its academic identity.",
+    "highlights": [
+      { "name": "Jacksonville High School", "note": "Flagship of the J/NP district; strong athletics and improving academic programming post-split." },
+      { "name": "Pinewood Elementary", "note": "Well-regarded elementary in the northeastern Jacksonville neighborhoods." },
+      { "name": "LRAFB DOD Dependents Schools", "note": "On-base schools serve active-duty families and consistently perform at high levels." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Jacksonville has a practical, community-focused lifestyle. The military base community creates a transient-but-tight culture where neighbors connect quickly. Commercial activity centers on Main Street and Highway 161, with functional retail and dining options.",
+    "dining": "Jacksonville's dining scene is functional: BBQ joints, Mexican restaurants, and family diners anchor the local options. For destination dining, Sherwood and NLR are 20 minutes west.",
+    "outdoor": "Camp Robinson State Military Reservation borders the city and provides limited recreational access. Lake Conway is 20 minutes northwest and is the primary destination for boating and fishing. Local parks serve the family sports leagues.",
+    "culture": "The AFB hosts community events including air shows that draw thousands. Jacksonville's community center runs programming, and the city has an active Veterans' community. Arts and culture access requires a trip to Little Rock or NLR.",
+    "family": "Jacksonville is genuinely family-friendly, shaped by the military community culture. Children grow up alongside peers from across the country, sports leagues are well-organized, and the base creates an unusual degree of community cohesion for a city its size."
+  },
+  "commute_section": {
+    "overview": "Jacksonville's location on I-40 makes commutes manageable in all directions. Little Rock AFB is within the city, so military personnel often live 5-10 minutes from work. For civilian commuters to Little Rock, 25-35 minutes is typical.",
+    "key_routes": [
+      { "destination": "Little Rock AFB", "time": "5 min", "notes": "Within Jacksonville city limits — minimal commute for base workers." },
+      { "destination": "North Little Rock", "time": "20 min", "notes": "I-40 W; quick suburban connection." },
+      { "destination": "Downtown Little Rock", "time": "30 min", "notes": "I-40 W to I-30; consistent time." },
+      { "destination": "Cabot", "time": "15 min", "notes": "I-40 E; easy and fast." },
+      { "destination": "LIT Airport", "time": "25 min", "notes": "I-40 W to I-440." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Military families (VA loans)", "First-time buyers", "Investors (rental cash flow)", "Value-focused buyers"],
+    "typical_buyer": "An active-duty or veteran military family using a VA loan to buy their first home, or a cash-flow-focused investor targeting the military rental market at the lowest entry prices in Pulaski County.",
+    "budget_range": "$120,000 – $250,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Jacksonville a good place to buy with a VA loan?",
+      "answer": "Yes — Jacksonville is one of the best markets in central Arkansas for VA loan buyers. Prices are well below the VA conforming loan limits, sellers are experienced with VA transactions, and the military community means appraisers are familiar with the local market. VA financing is very common here."
+    },
+    {
+      "question": "Is Jacksonville safe near the Air Force Base?",
+      "answer": "The neighborhoods immediately surrounding LRAFB tend to be well-maintained and safe. As with any city of this size, quality varies by neighborhood. Areas closest to the base and the better-established subdivisions on the north side of town have the best safety profile."
+    }
+  ],
+  "related": [
+    { "title": "Sherwood", "slug": "sherwood", "type": "neighborhood" },
+    { "title": "Cabot", "slug": "cabot", "type": "neighborhood" },
+    { "title": "North Little Rock", "slug": "north-little-rock", "type": "neighborhood" }
+  ]
+}

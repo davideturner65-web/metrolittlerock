@@ -1,0 +1,85 @@
+{
+  "slug": "spring-dining-little-rock-2026",
+  "title": "Spring Dining in Little Rock: Where to Eat When the Patios Open",
+  "seo": {
+    "title": "Spring Dining in Little Rock 2026 — Best Patios & Seasonal Menus | Metro Little Rock",
+    "description": "Little Rock's best spring dining — outdoor patios that come alive in April and May, seasonal menus that make the most of Arkansas spring produce, and the food events worth planning around.",
+    "canonical": "/eat-drink/spring-dining-little-rock-2026"
+  },
+  "hero_image": {
+    "src": "/images/eat-drink/spring-dining-hero.jpg",
+    "alt": "Outdoor dining patio in Little Rock in spring"
+  },
+  "season": "spring",
+  "intro": "Spring arrives in central Arkansas fast and welcome — and the city's dining scene responds accordingly. Patios that spent the winter empty fill up with regulars, seasonal menus start featuring the first Arkansas strawberries and spring greens, and the stretch from April through early June is arguably the metro's best time to eat and drink outdoors.",
+  "sections": [
+    {
+      "heading": "The Best Patios to Claim When It Warms Up",
+      "body": "Little Rock's patio season runs roughly April through October, with the sweet spot in spring when the temperatures are reasonable and the enthusiasm for being outside again is at its peak. The South Main and downtown corridors have the highest density of outdoor seating worth seeking out — but the Heights and Argenta both have their own patio scenes that become neighborhood rituals.",
+      "places": [
+        {
+          "name": "South on Main",
+          "slug": "south-on-main",
+          "note": "The SoMa patio is one of Little Rock's best — shaded, facing the street, and with a cocktail program worth the trip on its own."
+        },
+        {
+          "name": "Local Lime",
+          "slug": "local-lime",
+          "note": "The Kavanaugh Boulevard covered patio fills early on spring evenings — arrive by 6 PM if you want a table without waiting."
+        },
+        {
+          "name": "Lost Forty Brewing",
+          "slug": "lost-forty-brewing",
+          "note": "The outdoor lawn at Lost Forty is one of the metro's better warm-weather gathering places, particularly when there's live music on the outdoor stage."
+        }
+      ]
+    },
+    {
+      "heading": "Seasonal Menus and Spring Ingredients",
+      "body": "A few Little Rock restaurants take spring seriously enough to change their menus when the produce warrants it. The first Arkansas strawberries arrive in late April and show up at farm-to-table spots quickly. Spring greens, snap peas, and morels follow through May. Root Café and South on Main are the two operations most reliably built around this calendar.",
+      "places": [
+        {
+          "name": "Root Café",
+          "slug": "root-cafe",
+          "note": "The breakfast and lunch menu changes with what's coming out of Arkansas farms — spring visits are worth it specifically because the early-season ingredients are at their best."
+        },
+        {
+          "name": "Yellow Rocket Bread",
+          "slug": "yellow-rocket-bread",
+          "note": "Spring brings strawberry and rhubarb pastries to the case, usually in late April and May."
+        }
+      ]
+    },
+    {
+      "heading": "Food Events Worth Planning Around",
+      "body": "Spring is also Little Rock's busiest season for food events — farmers markets reopening, food festivals, and the Greek Food Festival that reliably draws lines from across the metro. The River Market Farmers Market opens in early April and is the cleanest signal that the food season has officially started.",
+      "places": [
+        {
+          "name": "River Market Farmers Market",
+          "note": "Saturday mornings from April through October — local produce, Arkansas food products, and the neighborhood social scene that builds up around it."
+        },
+        {
+          "name": "Little Rock Greek Food Festival",
+          "note": "The Annunciation Greek Orthodox Church festival in May is one of the metro's most beloved food events — plan for a line, bring cash, and budget time to stay."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Dinner Restaurants in Little Rock",
+      "slug": "dinner/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "Little Rock Greek Food Festival",
+      "slug": "little-rock-greek-food-festival-2026",
+      "type": "event"
+    },
+    {
+      "title": "River Market Farmers Market",
+      "slug": "river-market-farmers-market-opening-2026",
+      "type": "event"
+    }
+  ]
+}

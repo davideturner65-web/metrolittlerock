@@ -1,0 +1,92 @@
+{
+  "slug": "outdoor-guide-little-rock-2026",
+  "title": "The Outdoor Person's Guide to Metro Little Rock",
+  "seo": {
+    "title": "Outdoor Activities in Metro Little Rock 2026 — Trails, Parks & River | Metro Little Rock",
+    "description": "Little Rock's outdoor scene is one of the metro's best-kept secrets — the Arkansas River Trail, Pinnacle Mountain State Park, Two Rivers Park, and a cycling infrastructure that rivals cities three times its size.",
+    "canonical": "/local/outdoor-guide-little-rock-2026"
+  },
+  "hero_image": {
+    "src": "/images/local/outdoor-guide-hero.jpg",
+    "alt": "Arkansas River Trail with Big Dam Bridge in the background"
+  },
+  "category": "outdoor",
+  "intro": "Little Rock punches well above its weight for outdoor recreation — a 17-mile paved river trail system, a state park with technical rock scrambles 10 minutes from downtown, two river parks with genuine green space, and a cycling infrastructure that has been quietly getting excellent. Here's everything worth knowing.",
+  "sections": [
+    {
+      "id": "arkansas-river-trail",
+      "heading": "The Arkansas River Trail",
+      "body": "The Arkansas River Trail is 17 miles of paved trail along both banks of the Arkansas River — connecting downtown Little Rock to Two Rivers Park and Maumelle on the north bank, and running from downtown through the Heights and west along the south bank. It's the metro's most-used outdoor infrastructure and the backbone of the cycling culture that's developed around events like the Big Dam Bridge 100. The Big Dam Bridge itself — the longest pedestrian and cycling bridge over a dam in the U.S. — is worth the trip on its own. Parking at Two Rivers Park or at Rebsamen Park provides good access points.",
+      "places": [
+        {
+          "name": "Big Dam Bridge",
+          "address": "Murray Lock and Dam, Little Rock, AR 72223",
+          "note": "The bridge spans the Murray Lock and Dam with views of the river in both directions — at sunset it's one of the metro's best vantage points. Park at Two Rivers Park on the north end or Rebsamen Park on the south."
+        },
+        {
+          "name": "Two Rivers Park",
+          "address": "Two Rivers Park Rd, Little Rock, AR 72223",
+          "note": "800 acres at the confluence of the Arkansas and Little Maumelle rivers — trails, open meadows, and river access in a setting that feels remote despite being 20 minutes from downtown."
+        }
+      ]
+    },
+    {
+      "id": "pinnacle-mountain",
+      "heading": "Pinnacle Mountain State Park",
+      "body": "Pinnacle Mountain State Park is the metro's most distinctive outdoor destination — a 2,356-acre park anchored by the 1,011-foot peak that gives central Arkansas its most recognizable skyline feature. The East Summit Trail is a technical scramble (hands required on the upper section) that rewards with 360-degree views of the river corridor and the Ouachita foothills. The West Summit Trail is longer and more gradual; the Base Trail loop works for families with strollers. The visitor center has trail maps and the staff knows current conditions.",
+      "places": [
+        {
+          "name": "Pinnacle Mountain State Park",
+          "address": "11901 Pinnacle Valley Rd, Roland, AR 72135",
+          "note": "Open daily. The East Summit trailhead is 15 minutes west of I-430. Weekend mornings fill the parking lot; arrive before 9 AM or after 2 PM to avoid the crowd."
+        }
+      ]
+    },
+    {
+      "id": "cycling",
+      "heading": "Cycling Infrastructure",
+      "body": "The metro's cycling infrastructure has developed substantially in the last decade — the river trail system, the dedicated lanes on Capitol Avenue and other downtown streets, and the annual Big Dam Bridge 100 event that has formalized a culture around recreational cycling. Lost Forty and Rebel Kettle are both within easy riding distance of the trail system from downtown. Bike rental is available near the river trail.",
+      "places": [
+        {
+          "name": "Big Dam Bridge 100",
+          "note": "The annual cycling event in late September draws 3,000+ riders — the 100-mile route is a genuine challenge; the 30-mile option is accessible to recreational cyclists who want the event experience.",
+          "link": "/events/big-dam-bridge-100-cycling-sept-2026"
+        }
+      ]
+    },
+    {
+      "id": "parks",
+      "heading": "City Parks Worth Knowing",
+      "body": "Beyond the river trail system, Little Rock's park network includes Riverfront Park (downtown, events and river access), Boyle Park (west Little Rock, 432 acres of wooded trails), and Allsopp Park (Heights-adjacent, wooded walking trails in a neighborhood setting). Murray Park on the north bank has disc golf, riverside picnic areas, and one of the trail system's better access points.",
+      "places": [
+        {
+          "name": "Boyle Park",
+          "address": "5301 Boyle Park Rd, Little Rock, AR 72204",
+          "note": "432 acres in west Little Rock with 8 miles of wooded trails — more technical than the river trail and significantly less crowded on weekends."
+        },
+        {
+          "name": "Allsopp Park",
+          "address": "Panther Creek Ln, Little Rock, AR 72205",
+          "note": "A neighborhood park in the Heights area with wooded creek trails that's been a quiet local favorite for decades."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "title": "Pinnacle Mountain Spring Hike Event",
+      "slug": "pinnacle-mountain-spring-hike-2026",
+      "type": "event"
+    },
+    {
+      "title": "Big Dam Bridge 100 Cycling",
+      "slug": "big-dam-bridge-100-cycling-sept-2026",
+      "type": "event"
+    },
+    {
+      "title": "Maumelle Neighborhood Guide",
+      "slug": "maumelle",
+      "type": "neighborhood"
+    }
+  ]
+}

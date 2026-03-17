@@ -1,0 +1,58 @@
+{
+  "slug": "seller-consultation",
+  "title": "Free Seller Consultation — List Your Little Rock Home",
+  "seo": {
+    "title": "Free Seller Consultation | List Your Little Rock Home | Metro Little Rock",
+    "description": "Get a free home valuation and seller consultation for Little Rock metro properties. Understand current market conditions, pricing strategy, and what it takes to sell at top dollar.",
+    "canonical": "/services/seller-consultation"
+  },
+  "hero_image": { "src": "", "alt": "Home for sale sign in Little Rock neighborhood" },
+  "intro": "The Little Rock market rewards sellers who price correctly and present well — and punishes those who don't. A free seller consultation gives you a clear picture of what your home is actually worth, how the current market is behaving in your specific neighborhood, and what you can do (and not do) to maximize your net proceeds.",
+  "sections": [
+    {
+      "heading": "Comparative Market Analysis",
+      "body": "We'll pull recent sales data for comparable homes in your neighborhood and give you an honest assessment of market value — not an inflated number designed to win your listing. You need to know the real number to make good decisions, and that's what we'll provide. The analysis covers price per square foot, days-on-market trends, and the gap between list price and sale price in your area."
+    },
+    {
+      "heading": "Pricing Strategy",
+      "body": "Overpricing is the single biggest mistake sellers make in this market. Homes that sit attract low offers and eventually sell for less than they would have at the right price from day one. We'll discuss where to price relative to market value, whether a strategic underpricing approach makes sense in your neighborhood, and how to read early market signals to know if an adjustment is needed."
+    },
+    {
+      "heading": "Preparation & Presentation",
+      "body": "Presentation matters more in the Little Rock market than sellers often expect. We'll walk through your home and identify the highest-ROI improvements — typically cleaning, decluttering, minor paint and landscaping — versus the renovations that rarely pay back at resale. Professional photography is standard for all listings. We'll also discuss staging strategies for your price point and neighborhood."
+    },
+    {
+      "heading": "Timeline & Process",
+      "body": "We'll cover the full timeline from listing day to closing — showings, offers, inspection negotiation, appraisal, and the Arkansas attorney closing process. For sellers, understanding the inspection period is especially important: it's the most negotiated phase of any transaction and preparation reduces the leverage buyers have. We'll explain what's standard, what to expect, and how to navigate it."
+    }
+  ],
+  "cta": {
+    "heading": "Find Out What Your Home Is Worth",
+    "body": "Schedule a free seller consultation and get a professional market analysis for your Little Rock area property.",
+    "button_text": "Schedule a Consultation"
+  },
+  "faqs": [
+    {
+      "question": "When is the best time to sell in Little Rock?",
+      "answer": "Spring (March–May) typically brings the most buyer activity and the strongest prices in the Little Rock metro. But good homes in desirable neighborhoods sell in any season. If your home is priced right and presented well, the month matters less than you might think. We'll give you specific data for your neighborhood and price range."
+    },
+    {
+      "question": "How long does it take to sell?",
+      "answer": "In The Heights, Chenal Valley, and other high-demand neighborhoods, well-priced homes often go under contract in 5–15 days. In slower areas or for overpriced listings, 60–90 days is common. Statewide average was 32 days in early 2026. We'll give you current data specific to your neighborhood and price point."
+    },
+    {
+      "question": "What renovations add the most value before selling?",
+      "answer": "Fresh paint (neutral, light colors), professional cleaning, landscaping curb appeal, and kitchen/bath updates that modernize without over-customizing consistently return the most. Major renovations — full kitchen remodels, additions — rarely return dollar-for-dollar in the Little Rock market. We'll walk through your specific home and give you honest guidance."
+    },
+    {
+      "question": "How do you handle multiple offers?",
+      "answer": "We'll discuss strategies for creating competition — pricing, timing, and offer deadline structures — and walk you through how to evaluate offers beyond just price. Cash vs. financed, inspection contingency terms, and closing timeline all affect the real value of an offer. We've navigated many multiple-offer situations and know how to get you the best net outcome."
+    }
+  ],
+  "related": [
+    { "title": "Buyer Consultation", "slug": "buyer-consultation", "type": "service" },
+    { "title": "The Heights Market Report", "slug": "the-heights-q1-2026", "type": "market" },
+    { "title": "Chenal Valley Market Report", "slug": "chenal-valley-q1-2026", "type": "market" },
+    { "title": "Moving to Little Rock Guide", "slug": "moving-to-little-rock", "type": "guide" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "arkansas-arts-center-summer-exhibit-2026",
+  "event_name": "Arkansas Arts Center: New Summer Exhibition Opening",
+  "seo": {
+    "title": "Arkansas Arts Center Summer Exhibition Opening 2026 | Metro Little Rock Events",
+    "description": "The Arkansas Arts Center opens its summer exhibition program in the newly expanded facility at MacArthur Park. Free opening reception and tours.",
+    "canonical": "/events/arkansas-arts-center-summer-exhibit-2026"
+  },
+  "date_start": "2026-06-06",
+  "time": "6:00 PM – 9:00 PM",
+  "venue_name": "Arkansas Arts Center",
+  "venue_address": "501 E 9th St, Little Rock, AR 72202",
+  "venue_coordinates": { "lat": 34.7401, "lng": -92.2798 },
+  "neighborhood_slug": "midtown",
+  "category": "arts",
+  "price_range": "free",
+  "description": "The Arkansas Arts Center opens its summer exhibition season with a public opening reception at the newly expanded museum in MacArthur Park. The AAC — the state's principal visual arts museum — has undergone a major expansion and renovation, and the summer opening showcases the full scope of the new facility and collection. Opening night includes curator-led tours, live musical performance in the atrium, and complimentary light refreshments. The summer program typically features both works from the permanent collection and a major traveling exhibition. General admission is free at the AAC.",
+  "highlight": false,
+  "tags": ["museum", "visual arts", "opening reception", "Midtown", "free", "AAC"],
+  "recurring": { "pattern": "annual" }
+}

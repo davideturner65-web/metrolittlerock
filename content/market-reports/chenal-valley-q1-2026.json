@@ -1,0 +1,46 @@
+{
+  "slug": "chenal-valley-q1-2026",
+  "neighborhood_slug": "chenal-valley",
+  "neighborhood_name": "Chenal Valley",
+  "seo": {
+    "title": "Chenal Valley Real Estate Market Report Q1 2026 | Metro Little Rock",
+    "description": "Chenal Valley real estate market data for Q1 2026 — median prices, inventory levels, days on market, and analysis for buyers and sellers in Little Rock's premier master-planned community.",
+    "canonical": "/market-reports/chenal-valley-q1-2026"
+  },
+  "report_date": "2026-03-01",
+  "summary": "Chenal Valley is experiencing stable, healthy market conditions with strong demand at the $400K–$700K range and somewhat softer conditions above $800K. New construction continues to add inventory, providing more options for buyers than The Heights or Hillcrest.",
+  "stats": {
+    "median_price": 530000,
+    "median_price_change_yoy": "+4.1%",
+    "avg_days_on_market": 28,
+    "dom_change_yoy": "+4 days",
+    "active_listings": 42,
+    "sold_last_30_days": 19,
+    "price_per_sqft": 185,
+    "list_to_sale_ratio": "98.2%"
+  },
+  "price_trend_data": [
+    { "month": "Apr '25", "median_price": 498000 },
+    { "month": "May '25", "median_price": 512000 },
+    { "month": "Jun '25", "median_price": 524000 },
+    { "month": "Jul '25", "median_price": 521000 },
+    { "month": "Aug '25", "median_price": 518000 },
+    { "month": "Sep '25", "median_price": 525000 },
+    { "month": "Oct '25", "median_price": 522000 },
+    { "month": "Nov '25", "median_price": 516000 },
+    { "month": "Dec '25", "median_price": 519000 },
+    { "month": "Jan '26", "median_price": 527000 },
+    { "month": "Feb '26", "median_price": 532000 },
+    { "month": "Mar '26", "median_price": 530000 }
+  ],
+  "inventory_analysis": "Chenal Valley has more balanced inventory than urban Little Rock neighborhoods, with 42 active listings representing approximately 8 weeks of supply. New construction continues to add to available inventory, particularly in the $450K–$650K segment. The luxury tier above $900K has seen slower absorption.",
+  "buyer_insights": "Buyers have more negotiating room in Chenal Valley than in The Heights or Hillcrest — particularly for resale homes in the $500K–$700K range. New construction offers builder incentives that savvy buyers can negotiate. Review HOA documents carefully; dues and restrictions vary significantly between sub-communities within Chenal Valley.",
+  "seller_insights": "Pricing at or slightly below recent comparable sales is the most effective strategy in the current Chenal market. Homes priced above market take 60+ days and sell for less than they would have at the right price initially. Presentation and staging matter at these price points — buyers expect move-in ready condition at $500K+.",
+  "forecast": "Chenal Valley is expected to continue modest appreciation of 3–5% through 2026, supported by strong school quality and continued new household formation. The upper price tier ($800K+) may face headwinds from interest rate sensitivity. Mid-range resale homes ($400K–$600K) should remain active.",
+  "related": [
+    { "title": "Chenal Valley Neighborhood Guide", "slug": "chenal-valley", "type": "neighborhood" },
+    { "title": "Chenal Valley vs West Little Rock", "slug": "chenal-valley-vs-west-little-rock", "type": "comparison" },
+    { "title": "Best Neighborhoods for Families", "slug": "best-neighborhoods-for-families", "type": "guide" },
+    { "title": "Seller Consultation", "slug": "seller-consultation", "type": "service" }
+  ]
+}

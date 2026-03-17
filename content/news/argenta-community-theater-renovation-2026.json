@@ -1,0 +1,46 @@
+{
+  "slug": "argenta-community-theater-renovation-2026",
+  "title": "Argenta Community Theater Announces $1.2M Renovation",
+  "seo": {
+    "title": "Argenta Community Theater Announces $1.2M Renovation | Metro Little Rock News",
+    "description": "The Argenta Community Theater in North Little Rock's arts district has announced a $1.2 million renovation that will expand the lobby, improve acoustic systems, and add a black box performance space.",
+    "canonical": "/news/argenta-community-theater-renovation-2026"
+  },
+  "date_published": "2026-03-10",
+  "category": "renovation",
+  "neighborhood_slugs": [
+    "north-little-rock"
+  ],
+  "summary": "The Argenta Community Theater has announced a $1.2 million capital renovation campaign that will expand the lobby, upgrade acoustic and lighting systems, and add a 75-seat black box performance space — the theater's first physical expansion since opening in the Argenta Arts District.",
+  "body_sections": [
+    {
+      "body": "The Argenta Community Theater, which has operated as the anchor performance venue of the Argenta Arts District since 2008, announced the renovation campaign at a donor event in March. The project was fully funded through a combination of a $750,000 NEA grant, major donor gifts, and a community fundraising campaign that surpassed its $200,000 goal in six weeks."
+    },
+    {
+      "heading": "What's Changing",
+      "body": "The renovation includes a lobby expansion that roughly doubles the pre-show gathering space, replacement of the main house acoustic systems with professional-grade equipment, LED theatrical lighting upgrades throughout, and construction of a 75-seat black box performance space adjacent to the main house. The black box will allow the theater to run simultaneous productions and host studio-scale performances, workshops, and readings that are currently constrained by the main stage's scale requirements."
+    },
+    {
+      "heading": "Timeline",
+      "body": "Construction is scheduled to begin in August 2026 during the theater's traditional summer dark period, with the main house renovation completing in time for the fall 2026 season opener and the black box space expected to open in spring 2027. The 2026-2027 season has been designed around the renovation schedule, with the fall opener timed as a celebration of the completed main house work."
+    }
+  ],
+  "impact_note": "For the Argenta Arts District, the Argenta Community Theater's renovation strengthens the neighborhood's position as the metro's most complete arts district — a performance venue that matches the scale and quality of the gallery and dining infrastructure already in place.",
+  "related": [
+    {
+      "title": "North Little Rock Neighborhood Guide",
+      "slug": "north-little-rock",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Argenta Block Party",
+      "slug": "argenta-block-party-oct-2026",
+      "type": "event"
+    },
+    {
+      "title": "Argenta Gallery Hop",
+      "slug": "argenta-gallery-hop-may-2026",
+      "type": "event"
+    }
+  ]
+}

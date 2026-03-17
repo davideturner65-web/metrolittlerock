@@ -1,0 +1,23 @@
+{
+  "slug": "little-rock-greek-food-festival-2026",
+  "event_name": "Little Rock Greek Food Festival",
+  "seo": {
+    "title": "Little Rock Greek Food Festival 2026 | Metro Little Rock Events",
+    "description": "The Little Rock Greek Food Festival returns with authentic Greek cuisine, pastries, live music, and dancing at the Annunciation Greek Orthodox Church.",
+    "canonical": "/events/little-rock-greek-food-festival-2026"
+  },
+  "date_start": "2026-05-08",
+  "date_end": "2026-05-10",
+  "time": "11:00 AM – 9:00 PM",
+  "venue_name": "Annunciation Greek Orthodox Church",
+  "venue_address": "1100 Napa Valley Dr, Little Rock, AR 72211",
+  "venue_coordinates": { "lat": 34.7412, "lng": -92.3954 },
+  "neighborhood_slug": "west-little-rock",
+  "category": "food",
+  "price_range": "free",
+  "description": "The Little Rock Greek Food Festival is one of the metro's most anticipated annual food events — three days of authentic Greek cuisine prepared by the Annunciation Greek Orthodox Church community. The festival serves thousands of plates of spanakopita, moussaka, gyros, loukoumades, and baklava, all made from scratch using family recipes. Live traditional Greek music and folk dancing performances run throughout each day. The entire event is free to attend — you pay only for what you eat, and you will want to eat a lot. Come early on Saturday for the best selection and shorter lines.",
+  "highlight": true,
+  "image": { "src": "/images/events/greek-food-festival.jpg", "alt": "Plates of Greek food at the Little Rock Greek Food Festival" },
+  "tags": ["Greek food", "food festival", "cultural event", "family-friendly", "annual"],
+  "recurring": { "pattern": "annual" }
+}

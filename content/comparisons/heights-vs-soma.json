@@ -1,0 +1,84 @@
+{
+  "slug": "heights-vs-soma",
+  "neighborhood_a": "the-heights",
+  "neighborhood_b": "soma",
+  "seo": {
+    "title": "The Heights vs SoMa District: Little Rock Neighborhood Comparison | Metro Little Rock",
+    "description": "Comparing The Heights and SoMa (South Main) in Little Rock — home prices, restaurants, walkability, vibe, and which neighborhood fits your lifestyle.",
+    "canonical": "/compare/heights-vs-soma"
+  },
+  "intro": "Both are Little Rock's most buzzed-about urban neighborhoods — but they attract completely different buyers. The Heights is established, expensive, and food-forward. SoMa is emerging, more affordable, and arts-forward. Here's the honest comparison.",
+  "metrics": [
+    {
+      "category": "Median Home Price",
+      "a_value": "$380K–$750K",
+      "b_value": "$200K–$420K",
+      "winner": "b",
+      "notes": "SoMa offers significantly more value per dollar for buyers willing to embrace a neighborhood still in transition."
+    },
+    {
+      "category": "Walkability",
+      "a_value": "High — Kavanaugh Blvd corridor",
+      "b_value": "Moderate — South Main has gaps",
+      "winner": "a",
+      "notes": "The Heights has a true walkable corridor with restaurants, coffee, pharmacy, and Saturday farmers market."
+    },
+    {
+      "category": "Restaurant Scene",
+      "a_value": "Excellent — dense, established",
+      "b_value": "Good — South on Main anchors it",
+      "winner": "a",
+      "notes": "The Heights has more total options; SoMa has South on Main, which is the best restaurant in either neighborhood."
+    },
+    {
+      "category": "Bars & Nightlife",
+      "a_value": "Moderate — more dinner scene",
+      "b_value": "Strong — breweries, bar scene",
+      "winner": "b",
+      "notes": "Lost Forty Brewing and the SoMa bar scene give it an edge for younger buyers who prioritize nightlife."
+    },
+    {
+      "category": "Arts & Culture",
+      "a_value": "Low — mostly residential",
+      "b_value": "High — galleries, music venues",
+      "winner": "b",
+      "notes": "SoMa is Little Rock's arts district. The Heights has character but not an arts scene."
+    },
+    {
+      "category": "Home Character",
+      "a_value": "1920s–1950s bungalows, craftsmans",
+      "b_value": "Converted warehouses, shotguns, new builds",
+      "winner": "tie",
+      "notes": "Both have distinctive architectural character — different eras and styles, equally appealing."
+    },
+    {
+      "category": "Safety",
+      "a_value": "Very safe — established neighborhood",
+      "b_value": "Improving — transition still visible",
+      "winner": "a",
+      "notes": "The Heights is fully stabilized. SoMa is actively gentrifying — safer than 5 years ago but still patchy."
+    },
+    {
+      "category": "Schools",
+      "a_value": "Pulaski Heights Elementary (strong)",
+      "b_value": "LRSD — mixed options",
+      "winner": "a",
+      "notes": "The Heights has a clear school advantage with Pulaski Heights Elementary being one of LRSD's best."
+    },
+    {
+      "category": "Investment Upside",
+      "a_value": "Low — fully appreciated",
+      "b_value": "High — still appreciating",
+      "winner": "b",
+      "notes": "SoMa buyers are likely still in the early-to-mid phases of a long gentrification curve."
+    }
+  ],
+  "summary": "Choose The Heights if you want an established, walkable neighborhood with proven restaurant access, strong elementary schools, and don't mind paying a premium for stability. Choose SoMa if you want more house for your money, a genuine arts and brewery culture, and are comfortable with a neighborhood still in active transition. Both are great urban neighborhoods — they serve different buyer profiles.",
+  "related": [
+    { "title": "The Heights Neighborhood Guide", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "SoMa District Neighborhood Guide", "slug": "soma", "type": "neighborhood" },
+    { "title": "Best Restaurants in Little Rock", "slug": "dinner-little-rock", "type": "best-of" },
+    { "title": "Best Breweries in Little Rock", "slug": "breweries-little-rock", "type": "best-of" },
+    { "title": "Neighborhood Quiz", "slug": "neighborhood-quiz", "type": "local" }
+  ]
+}

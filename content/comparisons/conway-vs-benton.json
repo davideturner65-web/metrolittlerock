@@ -1,0 +1,76 @@
+{
+  "slug": "conway-vs-benton",
+  "neighborhood_a": "conway",
+  "neighborhood_b": "benton",
+  "seo": {
+    "title": "Conway vs Benton: Which Little Rock Suburb Is Right for You? | Metro Little Rock",
+    "description": "Conway vs Benton — comparing these popular Little Rock metro suburbs on schools, price, lifestyle, commute, and growth to help you decide where to plant roots.",
+    "canonical": "/compare/conway-vs-benton"
+  },
+  "intro": "Conway and Benton are the two most popular suburbs outside Little Rock proper — Conway to the north on I-40, Benton to the southwest on I-30. Both have strong schools, growing amenities, and value home prices. But they have very different personalities.",
+  "metrics": [
+    {
+      "category": "Median Home Price",
+      "a_value": "$210K–$400K",
+      "b_value": "$185K–$380K",
+      "winner": "b",
+      "notes": "Benton offers slightly better value on a per-square-foot basis in most price ranges."
+    },
+    {
+      "category": "School Quality",
+      "a_value": "Conway SD — highly rated",
+      "b_value": "Saline County — Bryant area schools",
+      "winner": "tie",
+      "notes": "Both school systems are strong. Conway has more school choice within the district due to city size."
+    },
+    {
+      "category": "Commute to Downtown LR",
+      "a_value": "30–50 min (I-40 north)",
+      "b_value": "20–30 min (I-30 south)",
+      "winner": "b",
+      "notes": "Benton is closer and I-30 typically has less congestion than I-40 north of the river."
+    },
+    {
+      "category": "City Character",
+      "a_value": "College town — UCA, Hendrix, CBU",
+      "b_value": "Traditional small city — Saline County seat",
+      "winner": "tie",
+      "notes": "Conway has a university-town energy and more dining/entertainment options. Benton is quieter and more traditional."
+    },
+    {
+      "category": "Restaurant & Dining",
+      "a_value": "Good — college town variety",
+      "b_value": "Limited — chain-heavy, improving",
+      "winner": "a",
+      "notes": "Conway has meaningfully more independent restaurants and dining options due to university population."
+    },
+    {
+      "category": "Growth & Development",
+      "a_value": "Fast — major employer base",
+      "b_value": "Steady — benefits from Bryant spillover",
+      "winner": "a",
+      "notes": "Conway has its own economic engine. Benton's growth is more closely tied to Little Rock and Bryant."
+    },
+    {
+      "category": "Trails & Outdoor Access",
+      "a_value": "Excellent — Cadron Trail, Rockwater",
+      "b_value": "Good — Benton Trails, Saline River",
+      "winner": "a",
+      "notes": "Conway's trail system is more developed and better connected."
+    },
+    {
+      "category": "New Construction Options",
+      "a_value": "Strong — multiple developments",
+      "b_value": "Good — active building",
+      "winner": "tie",
+      "notes": "Both have active homebuilding. Conway has more variety at different price points."
+    }
+  ],
+  "summary": "Choose Conway if you want a city with its own identity, more restaurant and entertainment options, a university-town energy, and don't mind the longer drive on I-40. Choose Benton if you want a shorter commute to Little Rock, a quieter traditional town feel, slightly lower home prices, and proximity to the Saline County lifestyle. Both are excellent choices — the commute direction often determines which makes more sense for your specific employer location.",
+  "related": [
+    { "title": "Conway Neighborhood Guide", "slug": "conway", "type": "neighborhood" },
+    { "title": "Benton Neighborhood Guide", "slug": "benton", "type": "neighborhood" },
+    { "title": "Bryant Neighborhood Guide", "slug": "bryant", "type": "neighborhood" },
+    { "title": "Best Neighborhoods for Families", "slug": "best-neighborhoods-for-families", "type": "guide" }
+  ]
+}

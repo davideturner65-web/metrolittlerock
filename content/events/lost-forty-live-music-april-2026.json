@@ -1,0 +1,22 @@
+{
+  "slug": "lost-forty-live-music-april-2026",
+  "event_name": "Lost Forty Live Music Night",
+  "seo": {
+    "title": "Lost Forty Live Music Night — April 2026 | Metro Little Rock Events",
+    "description": "Live music at Lost Forty Brewing in Little Rock's SoMa District. Local and regional acts every month in the taproom and beer garden.",
+    "canonical": "/events/lost-forty-live-music-april-2026"
+  },
+  "date_start": "2026-04-18",
+  "time": "7:00 PM – 11:00 PM",
+  "venue_name": "Lost Forty Brewing",
+  "venue_address": "501 Byrd St, Little Rock, AR 72202",
+  "venue_coordinates": { "lat": 34.7358, "lng": -92.2837 },
+  "neighborhood_slug": "soma",
+  "category": "music",
+  "price_range": "$",
+  "description": "Lost Forty Brewing hosts live music in their sprawling taproom and beer garden on the third Saturday of each month. April's lineup features a mix of local Americana and indie rock acts against the backdrop of some of Arkansas's best craft beer. The beer garden opens at 5 PM for early arrivals — grab a table before the headliner hits at 7. This is a come-as-you-are neighborhood event that draws a cross-section of the SoMa community: young professionals, regulars, and anyone who spotted the A-frame sign on the way to South Main.",
+  "highlight": true,
+  "image": { "src": "/images/events/lost-forty-live-music.jpg", "alt": "Live music at Lost Forty Brewing taproom, Little Rock" },
+  "tags": ["live music", "craft beer", "SoMa", "local acts", "beer garden"],
+  "recurring": { "pattern": "monthly", "day_of_week": "Saturday" }
+}

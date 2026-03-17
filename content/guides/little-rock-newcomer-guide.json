@@ -1,0 +1,93 @@
+{
+  "slug": "little-rock-newcomer-guide",
+  "title": "Newcomer's Guide to Little Rock",
+  "seo": {
+    "title": "Newcomer's Guide to Little Rock 2026 — Culture, Food, What Locals Know | Metro Little Rock",
+    "description": "The Little Rock cheat sheet for new residents — where to eat, what to do, how the city actually works, and what locals know that you won't find in a tourist guide.",
+    "canonical": "/guides/little-rock-newcomer-guide"
+  },
+  "hero_image": { "src": "", "alt": "Little Rock Arkansas River waterfront and downtown skyline" },
+  "intro": "Little Rock has a learning curve. Not because it's complicated — because the good stuff isn't obvious. This guide is written for people who just moved here and want to get past the tourist layer quickly and start living like a local.",
+  "sections": [
+    {
+      "id": "getting-oriented",
+      "heading": "Getting Oriented",
+      "body": "Little Rock sits on the south bank of the Arkansas River. North Little Rock is across the bridge — technically a separate city, but locals treat the two as one metro. The main east-west corridor is Cantrell Road (AR-10) through the Heights and Hillcrest. Chenal Parkway runs through the western suburbs. I-430 is the western bypass. Downtown is compact and walkable; everywhere else requires a car. The River Trail is a 15-mile loop on both sides of the river and is how many residents relate to the city geographically.",
+      "checklist": [
+        "Download the Google Maps offline map for the metro — useful for unfamiliar neighborhoods",
+        "Learn the difference between Heights/Hillcrest — adjacent but distinct personalities",
+        "Find your nearest grocery store: Kroger, Walmart, and Natural Grocers are the main chains",
+        "Download the River Trail app — best resource for the 15-mile riverside trail system"
+      ]
+    },
+    {
+      "id": "food-and-drink",
+      "heading": "Food & Drink: Where to Start",
+      "body": "The Heights and SoMa are the strongest restaurant corridors. South on Main is the anchor of Little Rock's fine dining scene. Lost Forty Brewing and Rebel Kettle are the standout craft breweries. Root Cafe (organic, local sourcing) is a neighborhood institution. Cotham's Mercantile in Scott is a 45-minute drive for a hamburger that's worth every mile. Flying Saucer on Cantrell has an absurd beer list and is the best bar for a first date.",
+      "checklist": [
+        "Book South on Main for your first nice dinner — reserve ahead on weekends",
+        "Visit Root Cafe on a Saturday morning for the farmers market vibe",
+        "Try Lassis Inn for catfish — it's been there since 1905 and still excellent",
+        "Make the Cotham's Mercantile drive at least once in your first 6 months"
+      ]
+    },
+    {
+      "id": "outdoor-life",
+      "heading": "Outdoor Life",
+      "body": "Little Rock has more outdoor access than most comparably sized cities. Pinnacle Mountain State Park (15 minutes from downtown) has trail systems from easy to strenuous. The River Trail is flat, paved, and great for cycling, running, or walking. Lake Maumelle is the city's water source and has some of the best bass fishing in the state. Maumelle Regional Park has mountain biking trails. The Arkansas River itself has a growing water recreation community.",
+      "checklist": [
+        "Get to Pinnacle Mountain State Park within your first month — the view from the summit is worth it",
+        "Rent or buy a bike and do the River Trail before summer heat sets in",
+        "Look up Otter Creek Trail System in southwest Little Rock for mountain biking",
+        "Check Arkansas State Parks at arkansasstateparks.com for day trip destinations"
+      ]
+    },
+    {
+      "id": "arts-culture",
+      "heading": "Arts & Culture",
+      "body": "The Arkansas Arts Center (now rebranding as Arkansas Museum of Fine Arts) reopened in 2023 after a major renovation and is world-class. The Arkansas Repertory Theatre is one of the state's premier performing arts companies. Stickyz Rock 'N' Roll Chicken Shack books solid national touring acts. The Argenta neighborhood in North Little Rock has a concentrated arts scene — galleries, live music venues, and the Argenta Community Theater.",
+      "checklist": [
+        "Visit Arkansas Museum of Fine Arts in MacArthur Park — free general admission",
+        "Check Stickyz and Rev Room calendars for upcoming shows",
+        "Walk the Argenta arts district on a First Friday — monthly evening art walk",
+        "Look up the Arkansas Symphony Orchestra season — world-class performances"
+      ]
+    },
+    {
+      "id": "practical-info",
+      "heading": "Practical Information",
+      "body": "Arkansas requires vehicle registration within 30 days of establishing residency. Your car will need an emissions inspection if it's 1996 or newer and registered in Pulaski County. The DMV (Office of Driver Services) can be slow — make an appointment online. Little Rock Water Works or Central Arkansas Water handles your water service depending on address. Entergy Arkansas is the electric utility. Local news: Arkansas Democrat-Gazette (paywalled) and the free Arkansas Times are the main sources.",
+      "checklist": [
+        "Update Arkansas driver's license within 30 days — schedule at dfa.arkansas.gov/offices",
+        "Register vehicle and pay first-year property tax at Pulaski County Revenue Office",
+        "Get an Entergy Arkansas account set up before the first summer heat wave",
+        "Register to vote at vote.ar.gov — you have 30 days before any election",
+        "Save these numbers: non-emergency police (501-371-4620), city services (501-371-4700)"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the best part of Little Rock that most newcomers miss?",
+      "answer": "Cotham's Mercantile in Scott (30 minutes east) for a true Arkansas hamburger experience. The Big Dam Bridge — the longest pedestrian bridge in the US built specifically for that purpose. The Vogel Schwartz Sculpture Garden along the River Trail. And the Argenta Arts District on a First Friday — it punches way above its size."
+    },
+    {
+      "question": "Is there anything like a real downtown neighborhood in Little Rock?",
+      "answer": "Downtown proper has the River Market, the Clinton Presidential Library, and a growing residential population in converted warehouse lofts. It's walkable within its boundaries but compact. SoMa (South Main, about 1 mile south of downtown) has more of a neighborhood feel with galleries, the South on Main restaurant, and Lost Forty Brewing. The Heights is the most complete urban neighborhood if you want shops, restaurants, and residents mixed together."
+    },
+    {
+      "question": "How do people feel about newcomers in Little Rock?",
+      "answer": "Very welcoming — especially compared to cities with stronger local pride cultures. Arkansans are genuinely friendly and most locals are proud when newcomers discover the city's hidden quality. You'll find that people go out of their way to make recommendations and connections. The city has been trying to attract talent for years and it shows in how residents treat new arrivals."
+    },
+    {
+      "question": "What do I need to know about Arkansas culture?",
+      "answer": "The Razorbacks are religion — University of Arkansas athletics unite the state in a way that's hard to overstate. Don't make fun of them, especially to someone in a Razorback shirt. College football season changes the social calendar. Hunting and fishing are significant culture here. The food is legitimately good — southern cooking, barbecue, catfish, and a growing farm-to-table scene. People are direct and friendlier than you expect."
+    }
+  ],
+  "related": [
+    { "title": "Moving to Little Rock Guide", "slug": "moving-to-little-rock", "type": "guide" },
+    { "title": "Outdoor Activities in Little Rock", "slug": "outdoor-guide-little-rock-2026", "type": "local" },
+    { "title": "Best Neighborhoods for Families", "slug": "best-neighborhoods-for-families", "type": "guide" },
+    { "title": "Local Places — Restaurants & Bars", "slug": "places", "type": "place" }
+  ]
+}

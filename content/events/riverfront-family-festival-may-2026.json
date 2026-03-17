@@ -1,0 +1,22 @@
+{
+  "slug": "riverfront-family-festival-may-2026",
+  "event_name": "Riverfront Family Festival",
+  "seo": {
+    "title": "Riverfront Family Festival Memorial Day Weekend 2026 | Metro Little Rock Events",
+    "description": "Memorial Day weekend at Riverfront Park in downtown Little Rock — free family activities, live entertainment, food vendors, and River Trail access.",
+    "canonical": "/events/riverfront-family-festival-may-2026"
+  },
+  "date_start": "2026-05-24",
+  "date_end": "2026-05-25",
+  "time": "10:00 AM – 8:00 PM",
+  "venue_name": "Riverfront Park",
+  "venue_address": "Riverfront Dr, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7492, "lng": -92.2748 },
+  "neighborhood_slug": "downtown",
+  "category": "family",
+  "price_range": "free",
+  "description": "Memorial Day weekend brings the Riverfront Family Festival to Little Rock's best outdoor gathering space — the 33-acre Riverfront Park on the Arkansas River. The free festival fills the riverside green with inflatable play areas, face painting, roving performers, a community stage with live entertainment, and a concentrated cluster of food and beverage vendors. The Junction Bridge pedestrian crossing to North Little Rock is open for families wanting to walk across the river and back. Saturday evening closes with live music at the main stage as the sun sets over the river.",
+  "highlight": false,
+  "tags": ["family festival", "Riverfront Park", "Memorial Day", "free", "downtown", "river"],
+  "recurring": { "pattern": "annual" }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "burgers-little-rock",
+  "title": "Best Burgers in Metro Little Rock",
+  "category": "burgers",
+  "area": "little-rock",
+  "seo": {
+    "title": "Best Burgers in Metro Little Rock 2026 | Metro Little Rock",
+    "description": "The metro's best burgers — from the legendary Cotham's Hubcap to downtown smash burgers and brewery pub fare that holds up to serious comparison.",
+    "canonical": "/best-of/burgers/little-rock"
+  },
+  "intro": "Little Rock's burger landscape is better than it gets credit for — a mix of legendary regional institutions, craft brewery pub programs, and a newer generation of dedicated smash burger operations. Here's the definitive ranking.",
+  "items": [
+    {
+      "rank": 1,
+      "place_slug": "cotham-mercantile",
+      "name": "Cotham's Mercantile",
+      "one_liner": "The Hubcap Burger is one of the most legitimately famous burgers in the South, and the 1917 general store setting makes it an experience as much as a meal.",
+      "why_its_here": "Cotham's Hubcap Burger earns the top position not through novelty but through the kind of institutional excellence that comes from doing one thing, in one place, for decades. The burger is hand-formed and enormous — named for its approximate size relative to an automotive hubcap — and cooked in a way that makes you understand why people drive from Little Rock to Scott on a weekday for lunch. The setting (a 1917 general store that hasn't been over-renovated) adds to the experience in a way that can't be manufactured. Lunch only, Tuesday through Saturday. Go.",
+      "best_for": "The definitive Little Rock burger experience, out-of-town guests, burger pilgrims"
+    },
+    {
+      "rank": 2,
+      "place_slug": "lost-forty-brewing",
+      "name": "Lost Forty Brewing",
+      "one_liner": "The best brewery pub burger in the metro — a smash burger that holds up against dedicated burger operations.",
+      "why_its_here": "Lost Forty's kitchen has taken the brewery pub burger more seriously than most taproom operations bother to, and the result is a smash burger that earns its place in a serious conversation about the metro's best. The double smash with a pour of Rock City Amber is one of the better simple meal combinations you can have in Little Rock. It's not trying to be Cotham's — it's a different thing entirely — but it wins on its own terms.",
+      "best_for": "Burger alongside a pint, SoMa neighborhood lunch or dinner"
+    },
+    {
+      "rank": 3,
+      "place_slug": "flying-saucer-little-rock",
+      "name": "Flying Saucer",
+      "one_liner": "Downtown's most reliable pub burger — nothing revolutionary, everything right, and a beer list that makes it easy to linger.",
+      "why_its_here": "Flying Saucer's burger isn't the most ambitious on this list, but it hits the right notes consistently enough to earn a spot. It's a properly constructed pub burger — good beef-to-bun ratio, appropriately seasoned, cooked to order — in a room with 200+ beers on tap. The combination of reliable food and exceptional beer selection makes it the metro's most useful pub burger destination.",
+      "best_for": "Downtown lunch, pre-event beer and burger, River Market District"
+    }
+  ],
+  "honorable_mentions": [
+    {
+      "name": "Big Orange Burger",
+      "note": "A Little Rock burger institution with multiple locations — the smash burgers are excellent and the milkshake program is among the metro's best."
+    },
+    {
+      "name": "Gusano's",
+      "note": "The Heights pizza-and-burger bar with a Southwestern-inflected menu that produces one of the neighborhood's better green chile burgers."
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Breweries in Little Rock",
+      "slug": "breweries/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "Scott & Landmark Area Guide",
+      "slug": "scott-landmark",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Cotham's Mercantile",
+      "slug": "cotham-mercantile",
+      "type": "place"
+    }
+  ]
+}

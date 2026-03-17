@@ -1,0 +1,58 @@
+{
+  "slug": "buyer-consultation",
+  "title": "Free Buyer Consultation — Little Rock Home Search",
+  "seo": {
+    "title": "Free Buyer Consultation | Little Rock Real Estate | Metro Little Rock",
+    "description": "Start your Little Rock home search with a free buyer consultation. Get neighborhood expertise, current market data, and a clear plan for finding the right home.",
+    "canonical": "/services/buyer-consultation"
+  },
+  "hero_image": { "src": "", "alt": "Real estate buyer consultation in Little Rock" },
+  "intro": "Buying a home in the Little Rock metro is more competitive than it was three years ago — but it's still a market where the right preparation and local knowledge give you a real edge. The buyer consultation is where we get clear on what you need, what you're seeing in the market, and how to position you for success.",
+  "sections": [
+    {
+      "heading": "What We Cover",
+      "body": "In a 45-minute session (phone, video, or in person), we'll review your timeline, budget, and must-haves, walk through current market conditions in your target neighborhoods, explain how the buying process works in Arkansas specifically, and answer every question you have before you start searching in earnest. There's no pressure and no obligation."
+    },
+    {
+      "heading": "Neighborhood Expertise",
+      "body": "This market has neighborhoods that look similar on paper but feel completely different to live in. We'll help you understand the real tradeoffs between The Heights and Hillcrest, why Chenal Valley and west Little Rock attract different buyers, and what the emerging areas like SoMa and Argenta actually look like day-to-day. Buying in the right neighborhood matters as much as buying the right house."
+    },
+    {
+      "heading": "Market Data & Timing",
+      "body": "We track current days-on-market, list-to-sale ratios, and inventory levels by neighborhood so you know exactly what you're walking into. Some areas still see multiple offers above asking price. Others have softened. Knowing the difference between them changes your offer strategy completely — and we'll make sure you know it before you write your first offer."
+    },
+    {
+      "heading": "Offer Strategy",
+      "body": "Arkansas real estate has specific conventions — attorney closings, inspection period negotiations, and financing contingency norms — that differ from other states. We'll walk you through what terms are standard, what you can negotiate, and how to structure an offer that gets accepted without overpaying. First-time buyers especially benefit from knowing this before they're under pressure."
+    }
+  ],
+  "cta": {
+    "heading": "Ready to Start?",
+    "body": "Schedule a free, no-obligation buyer consultation. We'll answer your questions and give you a clear picture of the current Little Rock market.",
+    "button_text": "Schedule a Consultation"
+  },
+  "faqs": [
+    {
+      "question": "Is the consultation really free?",
+      "answer": "Yes — no cost, no obligation. Buyer's agent representation in Arkansas is generally compensated by the seller at closing, so you get expert guidance throughout the process without paying out of pocket."
+    },
+    {
+      "question": "Do I need to be pre-approved before consulting?",
+      "answer": "No — we can discuss the process and timeline before you've started financing. That said, if you're serious about buying in the next 3–6 months, getting pre-approved early gives you a significant advantage when good homes come available."
+    },
+    {
+      "question": "Can you help me find homes before they hit Zillow?",
+      "answer": "Sometimes. We have early access to listings through MLS and local agent networks. For homes in high-demand neighborhoods like The Heights and Chenal Valley, being connected with an agent often means seeing properties a day or two before they appear on public sites — which can make the difference."
+    },
+    {
+      "question": "What if I'm months away from buying?",
+      "answer": "That's fine — actually, it's the ideal time to consult. Starting the conversation early means we can help you target the right neighborhoods, get financially prepared, and watch the market together so you know exactly when and where to move."
+    }
+  ],
+  "related": [
+    { "title": "First-Time Homebuyer Guide", "slug": "first-time-homebuyer-arkansas", "type": "guide" },
+    { "title": "Moving to Little Rock", "slug": "moving-to-little-rock", "type": "guide" },
+    { "title": "Best Neighborhoods for Families", "slug": "best-neighborhoods-for-families", "type": "guide" },
+    { "title": "Seller Consultation", "slug": "seller-consultation", "type": "service" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "maumelle-triathlon-june-2026",
+  "event_name": "Maumelle Sprint Triathlon",
+  "seo": {
+    "title": "Maumelle Sprint Triathlon — June 2026 | Metro Little Rock Events",
+    "description": "Swim, bike, and run through Maumelle's waterfront parks at central Arkansas's premier sprint triathlon. Open water swim in Lake Maumelle, bike along the river corridor, 5K run finish.",
+    "canonical": "/events/maumelle-triathlon-june-2026"
+  },
+  "date_start": "2026-06-14",
+  "time": "6:45 AM (Wave 1 start)",
+  "venue_name": "Maumelle Community Park",
+  "venue_address": "100 Millwood Dr, Maumelle, AR 72113",
+  "venue_coordinates": { "lat": 34.8646, "lng": -92.3870 },
+  "neighborhood_slug": "maumelle",
+  "category": "sports",
+  "price_range": "$",
+  "ticket_url": "https://maumelletriathlon.com",
+  "description": "The Maumelle Sprint Triathlon takes advantage of one of the metro's best natural settings — a 400-meter open water swim in the clear waters near Maumelle Community Park, a 12-mile bike leg along the river corridor and through Maumelle's parkway system, and a 5K run finish through the park grounds. The sprint distance makes it accessible for first-time triathletes while remaining competitive enough to attract experienced multi-sport athletes. Wave starts are organized by age group, keeping congestion manageable through transitions. Transition area opens at 5:30 AM. Volunteers are plentiful and well-organized, and the finish line atmosphere on a June morning in Maumelle is genuinely enjoyable — families, spectators, and finishers in the park with the river behind them. June water temperatures are typically ideal for open water swimming in this stretch of the Arkansas River corridor.",
+  "highlight": false,
+  "tags": ["triathlon", "sprint triathlon", "swim bike run", "Maumelle", "Lake Maumelle", "outdoor"],
+  "recurring": { "pattern": "annual" }
+}

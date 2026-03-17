@@ -1,0 +1,65 @@
+{
+  "slug": "south-on-main",
+  "name": "South on Main",
+  "seo": {
+    "title": "South on Main — Restaurant & Bar in SoMa Little Rock | Metro Little Rock",
+    "description": "South on Main is SoMa's anchor dining destination — thoughtful Southern cuisine, a serious cocktail program, and a room that feels like exactly what Little Rock's creative district deserves.",
+    "canonical": "/places/south-on-main"
+  },
+  "type": "restaurant",
+  "cuisine_tags": [
+    "Southern",
+    "contemporary",
+    "cocktails",
+    "farm-to-table"
+  ],
+  "neighborhood_slug": "soma",
+  "address": "1304 Main St, Little Rock, AR 72202",
+  "coordinates": {
+    "lat": 34.7368,
+    "lng": -92.2839
+  },
+  "phone": "(501) 244-9660",
+  "website": "https://southonmain.com",
+  "hours": {
+    "Tuesday": "5:00 PM – 10:00 PM",
+    "Wednesday": "5:00 PM – 10:00 PM",
+    "Thursday": "5:00 PM – 10:00 PM",
+    "Friday": "5:00 PM – 11:00 PM",
+    "Saturday": "10:30 AM – 2:30 PM, 5:00 PM – 11:00 PM",
+    "Sunday": "10:30 AM – 2:30 PM"
+  },
+  "price_range": "$$$",
+  "vibe": "date_night",
+  "description": "South on Main occupies the ground floor of the South Main Creative Corridor's most recognizable building — a former dry goods store with high ceilings, exposed brick, and a bar that stretches the length of the room. The kitchen takes Arkansas ingredients seriously: Gulf Coast influences, Hill Country smokehouse traditions, and Low Country vegetable preparation all show up on a menu that changes with the season. The cocktail program is one of the metro's best, leaning into Southern spirits and local infusions. Weekend brunch draws a crowd. If you're taking someone to dinner who isn't sure what Little Rock has, this is the answer.",
+  "must_try_items": [
+    "Fried chicken with hot honey and house pickles",
+    "Smoked brisket flat with chimichurri",
+    "Seasonal vegetable plate",
+    "Arkansas honey bourbon old fashioned"
+  ],
+  "good_for": [
+    "dinner",
+    "drinks",
+    "brunch",
+    "date_night",
+    "outdoor_seating"
+  ],
+  "image": {
+    "src": "/images/places/south-on-main.jpg",
+    "alt": "Interior of South on Main restaurant in SoMa Little Rock"
+  },
+  "featured": true,
+  "related": [
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Dinner Spots in Little Rock",
+      "slug": "dinner/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

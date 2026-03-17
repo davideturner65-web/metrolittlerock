@@ -1,0 +1,21 @@
+{
+  "slug": "argenta-farmers-market-opening-2026",
+  "event_name": "Argenta Farmers Market — Season Opener",
+  "seo": {
+    "title": "Argenta Farmers Market Season Opener 2026 | Metro Little Rock Events",
+    "description": "The Argenta Farmers Market opens for 2026 on Main Street in North Little Rock's Argenta Arts District. Local produce, artisan goods, and the best Saturday energy in NLR.",
+    "canonical": "/events/argenta-farmers-market-opening-2026"
+  },
+  "date_start": "2026-04-11",
+  "time": "7:00 AM – 1:00 PM",
+  "venue_name": "Argenta Farmers Market",
+  "venue_address": "6th and Main St, North Little Rock, AR 72114",
+  "venue_coordinates": { "lat": 34.7712, "lng": -92.2668 },
+  "neighborhood_slug": "north-little-rock",
+  "category": "food",
+  "price_range": "free",
+  "description": "The Argenta Farmers Market is one of the metro's best, operating Saturday mornings in the heart of the Argenta Arts District from April through mid-October. The market has a devoted following that includes North Little Rock locals, Heights residents who make the bridge trip for the experience, and regulars from across the metro who prefer Argenta's smaller, curated vendor selection to the River Market's larger crowd. Look for heirloom vegetables, local mushrooms, artisan bread, honey, cut flowers, and handcrafted goods. The Creegan's Irish Pub breakfast crowd and the market crowd naturally mix on the sidewalks, giving Saturday mornings in Argenta a genuinely lively energy.",
+  "highlight": false,
+  "tags": ["farmers market", "Argenta", "NLR", "local produce", "artisan goods"],
+  "recurring": { "pattern": "weekly", "day_of_week": "Saturday" }
+}

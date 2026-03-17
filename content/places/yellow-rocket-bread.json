@@ -1,0 +1,64 @@
+{
+  "slug": "yellow-rocket-bread",
+  "name": "Yellow Rocket Bread",
+  "seo": {
+    "title": "Yellow Rocket Bread — Artisan Bakery & Café in the Heights | Metro Little Rock",
+    "description": "Yellow Rocket Bread is the Heights neighborhood's artisan bakery — naturally leavened sourdoughs, morning pastries, and a café counter that draws lines on weekends.",
+    "canonical": "/places/yellow-rocket-bread"
+  },
+  "type": "bakery",
+  "cuisine_tags": [
+    "sourdough",
+    "pastries",
+    "sandwiches",
+    "coffee",
+    "artisan"
+  ],
+  "neighborhood_slug": "the-heights",
+  "address": "1718 N Grant St, Little Rock, AR 72207",
+  "coordinates": {
+    "lat": 34.7518,
+    "lng": -92.3189
+  },
+  "phone": "(501) 246-9867",
+  "website": "https://yellowrocketbread.com",
+  "hours": {
+    "Tuesday": "7:00 AM – 4:00 PM",
+    "Wednesday": "7:00 AM – 4:00 PM",
+    "Thursday": "7:00 AM – 4:00 PM",
+    "Friday": "7:00 AM – 5:00 PM",
+    "Saturday": "7:00 AM – 5:00 PM",
+    "Sunday": "8:00 AM – 2:00 PM"
+  },
+  "price_range": "$",
+  "vibe": "casual",
+  "description": "Yellow Rocket Bread has become one of the Heights' most-loved neighborhood institutions — a small-batch artisan bakery producing naturally leavened sourdoughs, croissants, morning buns, and a rotating pastry case that empties fast on weekend mornings. The café counter serves coffee alongside open-faced toasts and a compact sandwich menu at lunch. The space is modest: a few tables, a counter with stools, and the smell of bread that's been baking since before most people are awake. Get there early on Saturdays if the sesame sourdough or the cardamom morning bun is on your list — they sell out. The team is serious about craft in the unshowy way of operations that don't need to advertise.",
+  "must_try_items": [
+    "Sesame sourdough loaf",
+    "Cardamom morning bun",
+    "Avocado toast on house bread",
+    "Seasonal fruit galette (weekend only)"
+  ],
+  "good_for": [
+    "brunch",
+    "solo",
+    "work_remote"
+  ],
+  "image": {
+    "src": "/images/places/yellow-rocket-bread.jpg",
+    "alt": "Yellow Rocket Bread pastry case and café counter in the Heights"
+  },
+  "featured": false,
+  "related": [
+    {
+      "title": "The Heights Neighborhood Guide",
+      "slug": "the-heights",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Coffee & Bakeries in the Heights",
+      "slug": "coffee/the-heights",
+      "type": "best-of"
+    }
+  ]
+}

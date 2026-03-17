@@ -1,0 +1,21 @@
+{
+  "slug": "conway-kite-festival-april-2026",
+  "event_name": "Conway Kite & Outdoor Festival",
+  "seo": {
+    "title": "Conway Kite & Outdoor Festival 2026 | Metro Little Rock Events",
+    "description": "The Conway Kite & Outdoor Festival fills a sprawling field with kite flyers, outdoor recreation demos, food vendors, and springtime fun for the whole family.",
+    "canonical": "/events/conway-kite-festival-april-2026"
+  },
+  "date_start": "2026-04-26",
+  "time": "10:00 AM – 5:00 PM",
+  "venue_name": "Conway Athletic Fields",
+  "venue_address": "Dave Ward Dr, Conway, AR 72034",
+  "venue_coordinates": { "lat": 35.0887, "lng": -92.4421 },
+  "neighborhood_slug": "conway",
+  "category": "family",
+  "price_range": "free",
+  "description": "The Conway Kite & Outdoor Festival is a late-April celebration of spring that draws families from across the metro. The main field becomes a canvas of color as hundreds of kites fill the Arkansas sky, while the perimeter hosts outdoor recreation demos (kayaking, cycling, archery), a local vendor market, and food trucks. Kids can participate in kite-making stations throughout the day. The UCA and Hendrix communities add a young-adult energy that makes it distinctly Conway — family-friendly but not overly kiddie. Bring your own kite or buy one from the gear vendors on-site.",
+  "highlight": false,
+  "tags": ["kite festival", "spring", "Conway", "family", "outdoor", "free"],
+  "recurring": { "pattern": "annual" }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "bear-state-brewing",
+  "name": "Bear State Brewing",
+  "seo": {
+    "title": "Bear State Brewing — Craft Brewery in Conway AR | Metro Little Rock",
+    "description": "Bear State Brewing is Conway's neighborhood craft brewery — a welcoming taproom with Arkansas-inspired beers, a family-friendly atmosphere, and the kind of local gathering place every mid-size city needs.",
+    "canonical": "/places/bear-state-brewing"
+  },
+  "type": "brewery",
+  "cuisine_tags": [
+    "craft beer",
+    "Arkansas",
+    "taproom",
+    "family-friendly"
+  ],
+  "neighborhood_slug": "conway",
+  "address": "925 Front St, Conway, AR 72032",
+  "coordinates": {
+    "lat": 35.0881,
+    "lng": -92.4428
+  },
+  "phone": "(501) 328-2337",
+  "website": "https://bearstatebrewing.com",
+  "hours": {
+    "Wednesday": "3:00 PM – 9:00 PM",
+    "Thursday": "3:00 PM – 9:00 PM",
+    "Friday": "2:00 PM – 10:00 PM",
+    "Saturday": "12:00 PM – 10:00 PM",
+    "Sunday": "1:00 PM – 7:00 PM"
+  },
+  "price_range": "$",
+  "vibe": "casual",
+  "description": "Bear State Brewing arrived in Conway's downtown corridor and became the community's craft beer gathering place almost immediately — a taproom that takes its Arkansas-inspired beer names and local identity seriously while keeping the atmosphere genuinely welcoming to families, regulars, and first-timers alike. The beer program spans easy-drinking lagers and wheats alongside more adventurous IPAs and seasonal releases that lean into local ingredients when possible. Food trucks rotate through the parking area on weekends. The taproom is kid-friendly in a way that doesn't diminish the experience for adults, which is harder to achieve than most breweries acknowledge.",
+  "must_try_items": [
+    "Natural State Blonde Ale (approachable, house staple)",
+    "Ouachita IPA",
+    "Seasonal release — ask what's current",
+    "Flight sampler (best way to orient on your first visit)"
+  ],
+  "good_for": [
+    "drinks",
+    "outdoor_seating",
+    "groups",
+    "family"
+  ],
+  "featured": false,
+  "related": [
+    {
+      "title": "Conway Neighborhood Guide",
+      "slug": "conway",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Breweries in Metro Little Rock",
+      "slug": "breweries/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

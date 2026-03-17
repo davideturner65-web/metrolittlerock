@@ -1,0 +1,21 @@
+{
+  "slug": "argenta-block-party-oct-2026",
+  "event_name": "Argenta Block Party",
+  "seo": {
+    "title": "Argenta Block Party — October 2026 | Metro Little Rock Events",
+    "description": "The Argenta Arts District's annual fall block party closes Main Street to traffic for a day of live music, food, local vendors, and community celebration in North Little Rock.",
+    "canonical": "/events/argenta-block-party-oct-2026"
+  },
+  "date_start": "2026-10-24",
+  "time": "12:00 PM – 10:00 PM",
+  "venue_name": "Main Street — Argenta Arts District",
+  "venue_address": "Main St, North Little Rock, AR 72114",
+  "venue_coordinates": { "lat": 34.7712, "lng": -92.2668 },
+  "neighborhood_slug": "north-little-rock",
+  "category": "community",
+  "price_range": "free",
+  "description": "The Argenta Block Party closes Main Street to traffic for a full Saturday of live music across two stages, food trucks and restaurant pop-outs from the neighborhood's dining scene, local vendor booths, family activities, and the general festivity of a neighborhood that genuinely likes itself. The event is Argenta's biggest annual community gathering — the attendance typically spills from Argenta Community Theater on one end to the galleries and bars on the other, with the whole commercial block humming. The afternoon runs family-friendly; the evening skews toward the music and bar scene. October weather in Argenta is usually cooperative — cool enough for a jacket but warm enough for an outdoor afternoon — and the fall light on the historic district makes for a particularly good backdrop.",
+  "highlight": false,
+  "tags": ["block party", "Argenta", "NLR", "live music", "community", "fall", "free"],
+  "recurring": { "pattern": "annual" }
+}

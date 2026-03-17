@@ -1,0 +1,22 @@
+{
+  "slug": "benton-main-street-festival-sept-2026",
+  "event_name": "Benton Main Street Festival",
+  "seo": {
+    "title": "Benton Main Street Festival — September 2026 | Metro Little Rock Events",
+    "description": "Benton's annual Main Street Festival fills the historic downtown with live music, arts and crafts vendors, local food, and community activities in the Saline County seat.",
+    "canonical": "/events/benton-main-street-festival-sept-2026"
+  },
+  "date_start": "2026-09-05",
+  "date_end": "2026-09-06",
+  "time": "9:00 AM – 8:00 PM",
+  "venue_name": "Historic Downtown Benton",
+  "venue_address": "Main St, Benton, AR 72015",
+  "venue_coordinates": { "lat": 34.5648, "lng": -92.5868 },
+  "neighborhood_slug": "benton",
+  "category": "community",
+  "price_range": "free",
+  "description": "The Benton Main Street Festival is the Saline County seat's signature annual community event — two days of arts and crafts vendors, live music across a Main Street stage, local food vendors, kids' activities, and the general festivity of a downtown that takes its festival seriously. The historic downtown streetscape — brick storefronts, the Saline County Courthouse — provides a classic small-city backdrop, and the vendor mix runs from fine art to handmade goods to the kind of festival food that doesn't need to be good for you. The Saturday program is the fuller of the two days; Sunday morning draws a lighter crowd that tends toward the art and craft vendors. Admission is free. The Labor Day weekend timing makes it a natural anchor for the long weekend in the southwest metro corridor.",
+  "highlight": false,
+  "tags": ["festival", "Benton", "Main Street", "arts and crafts", "community", "Labor Day"],
+  "recurring": { "pattern": "annual" }
+}

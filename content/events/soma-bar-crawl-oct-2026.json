@@ -1,0 +1,21 @@
+{
+  "slug": "soma-bar-crawl-oct-2026",
+  "event_name": "SoMa Halloween Bar Crawl",
+  "seo": {
+    "title": "SoMa Halloween Bar Crawl — October 2026 | Metro Little Rock Events",
+    "description": "Costume up for the South Main Halloween Bar Crawl through Little Rock's most eclectic nightlife corridor. Drink specials, costume contest, and the full SoMa scene on Halloween weekend.",
+    "canonical": "/events/soma-bar-crawl-oct-2026"
+  },
+  "date_start": "2026-10-31",
+  "time": "7:00 PM – 2:00 AM",
+  "venue_name": "South Main Creative Corridor",
+  "venue_address": "S Main St, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7368, "lng": -92.2832 },
+  "neighborhood_slug": "soma",
+  "category": "nightlife",
+  "price_range": "$",
+  "description": "The SoMa Halloween Bar Crawl runs the length of South Main on Halloween, with participating bars — Dugan's, Root Cafe's bar program, South on Main, and a rotating cast of neighborhood spots — offering costume-holder drink specials and a stamp card that earns prizes at each stop. SoMa's Halloween is distinctively its own thing: the neighborhood's art-forward, creative-class vibe means the costumes trend ambitious and the bar scene tends toward conversation over volume. A costume contest runs at a designated anchor venue; judges lean toward creativity over production budget. Wristbands are sold at the first participating bar; the crawl is self-paced and you can join at any point in the evening. South Main at Halloween is one of the better nightlife experiences the metro offers.",
+  "highlight": false,
+  "tags": ["Halloween", "bar crawl", "nightlife", "SoMa", "South Main", "costume"],
+  "recurring": { "pattern": "annual" }
+}

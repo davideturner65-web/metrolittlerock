@@ -1,0 +1,54 @@
+{
+  "slug": "weekend-guide-may-9-11-2026",
+  "title": "This Weekend in Little Rock: May 9–11, 2026",
+  "seo": {
+    "title": "This Weekend in Little Rock: May 9–11, 2026 | Metro Little Rock",
+    "description": "Your weekend guide to metro Little Rock: the Argenta Gallery Hop, SoMa Makers Market, and the Greek Food Festival. What to do, where to eat, and what's worth the drive.",
+    "canonical": "/local/weekend-guide-may-9-11-2026"
+  },
+  "date_range": {
+    "start": "2026-05-09",
+    "end": "2026-05-11"
+  },
+  "intro": "A full-service metro weekend: the Argenta Gallery Hop on Thursday evening, the SoMa Makers Market on Saturday morning, the Greek Food Festival running through Sunday, and any number of patios that have decided the weather is finally good enough.",
+  "picks": [
+    {
+      "event_slug": "argenta-gallery-hop-may-2026",
+      "category_label": "Arts & Culture",
+      "editorial_note": "The May Gallery Hop is the best of the year — temperatures cooperate enough for the sidewalks to fill, and the galleries typically open their bigger spring shows for this edition. Start at Nexus for coffee, work your way north on Main."
+    },
+    {
+      "event_slug": "soma-makers-market-may-2026",
+      "category_label": "Markets",
+      "editorial_note": "The SoMa Makers Market on Saturday morning is a good reason to get up early — thirty-plus vendors, the South Main galleries open from the night before, and coffee from the neighborhood cafés. Combine with breakfast at Root Café if you can get there early enough."
+    },
+    {
+      "event_slug": "little-rock-greek-food-festival-2026",
+      "category_label": "Food & Drink",
+      "editorial_note": "The Greek Food Festival runs through Sunday and the lines are longest on Saturday afternoon — go Sunday morning when it's calmer. The spanakopita, the souvlaki, and the baklava are the priorities. Bring cash."
+    }
+  ],
+  "also_happening": [
+    "Heights Porch Fest is next weekend — check the lineup now if you haven't",
+    "Little Rock Film Festival opens May 14 — advance tickets for Opening Night at the Arkansas Rep",
+    "River Market Farmers Market Saturday morning — the first really good strawberries of the season should be there",
+    "Lost Forty outdoor stage: Saturday night music on the patio"
+  ],
+  "related": [
+    {
+      "title": "All Events",
+      "slug": "/events",
+      "type": "guide"
+    },
+    {
+      "title": "Best Breakfast in Little Rock",
+      "slug": "breakfast/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "Spring Dining Guide",
+      "slug": "spring-dining-little-rock-2026",
+      "type": "eat-drink"
+    }
+  ]
+}

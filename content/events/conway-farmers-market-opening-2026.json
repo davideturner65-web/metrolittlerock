@@ -1,0 +1,21 @@
+{
+  "slug": "conway-farmers-market-opening-2026",
+  "event_name": "Conway Farmers Market — Season Opening",
+  "seo": {
+    "title": "Conway Farmers Market Season Opening — April 2026 | Metro Little Rock Events",
+    "description": "The Conway Farmers Market opens for the 2026 season at Courthouse Square. Fresh produce, Arkansas-grown goods, local food vendors, and live music every Saturday through fall.",
+    "canonical": "/events/conway-farmers-market-opening-2026"
+  },
+  "date_start": "2026-04-18",
+  "time": "7:00 AM – 12:00 PM",
+  "venue_name": "Faulkner County Courthouse Square",
+  "venue_address": "801 Locust St, Conway, AR 72032",
+  "venue_coordinates": { "lat": 35.0887, "lng": -92.4423 },
+  "neighborhood_slug": "conway",
+  "category": "markets",
+  "price_range": "free",
+  "description": "The Conway Farmers Market opens its Saturday season at the Faulkner County Courthouse Square in mid-April, when the first strawberries and spring greens are ready and the Courthouse Square — one of the more handsome town squares in central Arkansas — fills with vendors, families, and regulars making their weekly produce run. The market features certified Arkansas farmers, specialty food producers (jams, honey, baked goods, hot sauces), plant and flower vendors, and a rotating cast of prepared food sellers. Live acoustic music runs most Saturdays through the warm season. The opening day draws the season's largest crowd — vendors pull out their best spring inventory and there's a general festivity to the first Saturday of the year. Market runs through mid-October.",
+  "highlight": false,
+  "tags": ["farmers market", "Conway", "produce", "local food", "Saturday market", "spring"],
+  "recurring": { "pattern": "weekly", "day_of_week": "Saturday" }
+}

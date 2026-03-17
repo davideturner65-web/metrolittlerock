@@ -1,0 +1,68 @@
+{
+  "slug": "riverdale",
+  "name": "riverdale",
+  "display_name": "Riverdale",
+  "seo": {
+    "title": "Riverdale Neighborhood Guide — Little Rock, AR | Metro Little Rock",
+    "description": "Riverdale is an affordable intown neighborhood between The Heights and the Arkansas River — great access to trails and downtown at prices well below adjacent neighborhoods.",
+    "canonical": "/neighborhoods/riverdale",
+    "og_image": "/images/neighborhoods/riverdale.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/riverdale.jpg",
+    "alt": "Midcentury homes and river valley views in Riverdale, Little Rock, AR"
+  },
+  "hero_stats": {
+    "median_price": "$255,000",
+    "avg_days_on_market": 26,
+    "price_trend": "+5.8% YoY",
+    "walkability_score": 38
+  },
+  "intro": "Riverdale occupies a sliver of Little Rock between the Arkansas River bottoms and The Heights' western edge — a neighborhood of 1950s ranches, steep wooded lots, and river valley views that has stayed relatively affordable while its neighbors appreciate rapidly. The River Trail runs along its southern boundary, making it a cyclist's and runner's dream address.",
+  "real_estate_overview": "Riverdale's housing stock is predominantly 1950s–1970s construction: modest ranches, split-levels, and a small number of townhomes and condos near Rebsamen Park Road. Lot topography is variable — the bluff lots above the river have exceptional views and sell at a premium, while flatter interior blocks offer more standard suburban homes. Entry prices run $200,000–$260,000 for the majority of the market; bluff-view properties with renovation can reach $400,000+. The neighborhood has historically attracted buyers who want intown proximity and River Trail access at prices meaningfully below The Heights or Cammack Village.",
+  "schools_section": {
+    "overview": "Riverdale is within the Little Rock School District and feeds into the Pulaski Heights cluster, giving residents access to the same schools that make The Heights and Cammack Village attractive.",
+    "highlights": [
+      { "name": "Pulaski Heights Elementary", "note": "The neighborhood K-5 school shared with The Heights and Cammack Village — consistently the most sought-after elementary in the LRSD." },
+      { "name": "Pulaski Heights Middle School", "note": "Continues the Heights cluster through grade 8." },
+      { "name": "Little Rock Central High School", "note": "IB World School serving the Heights cluster's secondary students." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Riverdale's lifestyle is defined by outdoor access. The River Trail runs directly through the neighborhood, Rebsamen Park is steps away, and the Big Dam Bridge is a 10-minute bike ride west. It's less walkable to retail than The Heights, but the outdoor infrastructure is arguably better.",
+    "dining": "Riverdale has minimal in-neighborhood dining. The Heights' Kavanaugh corridor is 5–10 minutes east, and a small cluster of River Road restaurants (including some long-running Little Rock institutions) are nearby.",
+    "outdoor": "This is Riverdale's defining asset. The Arkansas River Trail passes through the neighborhood; Rebsamen Park Golf Course borders the north; Rebsamen Park's athletic fields and river access are walkable. The Big Dam Bridge is a short bike ride west. River kayaking and fishing access is better here than almost anywhere else intown.",
+    "culture": "Riverdale shares The Heights' cultural ecosystem by proximity. The neighborhood itself has little commercial character — it's purely residential — but Heights galleries, bookshops, and events are close.",
+    "family": "Riverdale is family-friendly in the outdoor, trail-access sense. The same school zone as The Heights is a significant draw. The main limitation is the neighborhood's topography — some streets are steep and less suited to young children on bikes than flatter suburban neighborhoods."
+  },
+  "commute_section": {
+    "overview": "Riverdale's location between The Heights and the river gives it solid access to Cantrell Road, which connects directly west to I-430 and east to downtown. Commutes are competitive with The Heights.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "12 min", "notes": "Cantrell Rd E; straightforward without freeway." },
+      { "destination": "The Heights (Kavanaugh)", "time": "8 min", "notes": "Short drive or bikeable for motivated cyclists." },
+      { "destination": "UAMS Medical Corridor", "time": "15 min", "notes": "Cantrell to I-430 S to I-630 W; quick." },
+      { "destination": "West Little Rock", "time": "15 min", "notes": "Cantrell Rd W to Chenal Pkwy." },
+      { "destination": "LIT Airport", "time": "22 min", "notes": "Via I-430 N or I-630 E." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Outdoor lifestyle buyers", "Heights buyers (value)", "Runners/cyclists", "Families (PHES school zone)"],
+    "typical_buyer": "A buyer who wants the same school zone and intown proximity as The Heights but has a budget that maxes out in the $250,000–$300,000 range, and genuinely prioritizes River Trail access and outdoor recreation over walkable retail.",
+    "budget_range": "$195,000 – $400,000"
+  },
+  "faqs": [
+    {
+      "question": "Does Riverdale flood?",
+      "answer": "Some lower-lying lots near Rebsamen Park Road and the river corridor are in or near FEMA flood zones. Elevation certificates and flood insurance requirements vary significantly by lot. Any buyer should verify flood zone status for the specific property before making an offer. Bluff lots above the river are typically outside flood zones."
+    },
+    {
+      "question": "Is Riverdale walkable to The Heights?",
+      "answer": "It depends on your definition. Kavanaugh Boulevard is a 10–15 minute walk from most Riverdale addresses, and some residents make that walk regularly. By car it's 5–8 minutes. By bike via the River Trail and connecting paths it's also manageable. It's not as walkable to commercial amenities as being on Kavanaugh itself, but it's close."
+    }
+  ],
+  "related": [
+    { "title": "The Heights", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "Cammack Village", "slug": "cammack-village", "type": "neighborhood" },
+    { "title": "Midtown", "slug": "midtown", "type": "neighborhood" }
+  ]
+}

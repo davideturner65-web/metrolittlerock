@@ -1,0 +1,65 @@
+{
+  "slug": "dinner-little-rock",
+  "title": "Best Dinner Restaurants in Little Rock",
+  "category": "dinner",
+  "area": "little-rock",
+  "seo": {
+    "title": "Best Dinner Restaurants in Little Rock 2026 | Metro Little Rock",
+    "description": "The best dinner spots in Little Rock — from South Main's creative Southern cuisine to downtown upscale dining and neighborhood fixtures that have earned their reputations.",
+    "canonical": "/best-of/dinner/little-rock"
+  },
+  "intro": "Little Rock's dinner scene is better than the city's national profile suggests — a mix of serious chef-driven restaurants, longstanding neighborhood institutions, and a few places that have earned genuine reputations beyond the metro. Here's where to go.",
+  "items": [
+    {
+      "rank": 1,
+      "place_slug": "south-on-main",
+      "name": "South on Main",
+      "one_liner": "The anchor of the SoMa dining scene and the clearest statement of what Little Rock's restaurant culture has become.",
+      "why_its_here": "South on Main does something that's genuinely hard: it takes Arkansas's food identity seriously — Gulf Coast influences, Hill Country smokehouse traditions, Ozark produce — and executes it at a level that holds up against comparisons to cities twice its size. The room is beautiful, the cocktail program is excellent, and the kitchen changes its menu often enough to reward repeat visits. It's not a special-occasion-only restaurant, but it handles special occasions as well as anything in the metro.",
+      "best_for": "Date night, special occasions, first-time visitors who want to understand Little Rock's food scene"
+    },
+    {
+      "rank": 2,
+      "place_slug": "cache-restaurant",
+      "name": "Cache Restaurant",
+      "one_liner": "Downtown's most reliable upscale option, with a river-view terrace that earns its own reputation.",
+      "why_its_here": "Cache has been doing consistent upscale American dining in the River Market District long enough to have earned the trust of the city's business entertainment circuit without losing its appeal as a destination for celebrations and date nights. The steak program is serious, the wine list is extensive, and the terrace with its Arkansas River views is one of the metro's better places to spend a summer evening. It's the option you reach for when reliability matters.",
+      "best_for": "Business dinners, anniversary celebrations, river-view cocktails"
+    },
+    {
+      "rank": 3,
+      "place_slug": "three-fold-noodles",
+      "name": "Three Fold Noodles + Dumpling Co.",
+      "one_liner": "Hand-pulled noodles and soup dumplings that elevated downtown Little Rock's lunch and dinner options in ways that still feel underappreciated.",
+      "why_its_here": "Three Fold arrived in downtown Little Rock and immediately became one of the most exciting restaurants in the metro — hand-pulled noodles made to order, soup dumplings with proper construction, and a focused menu that prioritizes doing a few things exceptionally well over offering something for everyone. The dan dan mian is a genuine reason to make the trip. The space is compact and the style is unfussy, which only makes the quality more impressive.",
+      "best_for": "Solo diners, noodle enthusiasts, lunch, casual dinner"
+    }
+  ],
+  "honorable_mentions": [
+    {
+      "name": "Lassis Inn",
+      "note": "Technically not dinner in the traditional sense — lunch hours, whole fried catfish, paper plates — but one of the most memorable meals you can have in this city."
+    },
+    {
+      "name": "Duran's Cactus",
+      "note": "The West Little Rock Tex-Mex institution that handles weeknight dinners for half the 72212 zip code with more consistency than most restaurants manage."
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Breweries in Little Rock",
+      "slug": "breweries/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "Best Breakfast in Little Rock",
+      "slug": "breakfast/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    }
+  ]
+}

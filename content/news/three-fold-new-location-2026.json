@@ -1,0 +1,47 @@
+{
+  "slug": "three-fold-new-location-2026",
+  "title": "Three Fold Noodles Opening Second Location in the Heights",
+  "seo": {
+    "title": "Three Fold Noodles Opening Second Location in the Heights | Metro Little Rock News",
+    "description": "Three Fold Noodles + Dumpling Co., Little Rock's most acclaimed noodle shop, is expanding with a second location on Kavanaugh Boulevard in the Heights neighborhood.",
+    "canonical": "/news/three-fold-new-location-2026"
+  },
+  "date_published": "2026-03-05",
+  "category": "opening",
+  "neighborhood_slugs": [
+    "the-heights",
+    "downtown"
+  ],
+  "summary": "Three Fold Noodles + Dumpling Co. — the hand-pulled noodle shop that has been one of downtown Little Rock's most acclaimed restaurants since it opened — is expanding with a second location on Kavanaugh Boulevard, bringing the Heights neighborhood its first dedicated noodle operation.",
+  "body_sections": [
+    {
+      "body": "Three Fold Noodles + Dumpling Co. announced plans for a second location at 5701 Kavanaugh Boulevard, expected to open in late spring 2026. The Heights location will operate with a similar menu to the downtown original — hand-pulled noodles, soup dumplings, and the dan dan mian that has generated consistent praise — but with a larger dining room and expanded lunch service hours."
+    },
+    {
+      "heading": "What's Changing",
+      "body": "The new location will have more seating than the compact downtown original, which has operated near capacity at peak lunch hours since opening. The Heights space will also include a grab-and-go counter for noodle bowls and dumplings, targeting the weekday lunch crowd on the Kavanaugh corridor. The downtown location will remain open with its current hours."
+    },
+    {
+      "heading": "Background",
+      "body": "Three Fold opened in downtown Little Rock and quickly established itself as one of the city's most distinctive restaurants — a focused menu, exceptional craft, and a price point that made it accessible enough to become a regular destination rather than an occasional treat. The expansion represents a vote of confidence in both the Heights neighborhood's dining scene and the broader metro appetite for the type of food Three Fold does."
+    }
+  ],
+  "impact_note": "The Heights has had a strong café and casual dining scene for years, but a dedicated noodle shop of this quality is genuinely new for the neighborhood. For the 72205 zip code, this is the kind of opening that changes the texture of the local dining options.",
+  "related": [
+    {
+      "title": "Three Fold Noodles Profile",
+      "slug": "three-fold-noodles",
+      "type": "place"
+    },
+    {
+      "title": "The Heights Neighborhood Guide",
+      "slug": "the-heights",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Lunch Spots in the Heights",
+      "slug": "lunch/the-heights",
+      "type": "best-of"
+    }
+  ]
+}

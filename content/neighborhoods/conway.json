@@ -1,0 +1,73 @@
+{
+  "slug": "conway",
+  "name": "conway",
+  "display_name": "Conway",
+  "seo": {
+    "title": "Conway AR Neighborhood Guide | Metro Little Rock",
+    "description": "Conway is the fastest-growing city in Arkansas — a vibrant college town 30 miles northwest of Little Rock with affordable housing, three universities, and a booming job market.",
+    "canonical": "/neighborhoods/conway",
+    "og_image": "/images/neighborhoods/conway.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/conway.jpg",
+    "alt": "Downtown Conway, AR with college-town streetscape"
+  },
+  "hero_stats": {
+    "median_price": "$265,000",
+    "avg_days_on_market": 17,
+    "price_trend": "+7.3% YoY",
+    "walkability_score": 30
+  },
+  "intro": "Conway has been the fastest-growing city in Arkansas for over a decade, and for good reason. Thirty miles northwest of Little Rock on I-40, Conway combines the energy of a college town (three universities call it home), the affordability of a mid-sized Arkansas city, and a local job market that has diversified well beyond higher education into technology, healthcare, and retail. For buyers who want to maximize space and affordability while staying within reasonable distance of the Little Rock metro, Conway is the answer.",
+  "real_estate_overview": "Conway's housing market reflects its rapid growth: new construction is abundant, with dozens of active subdivisions at any given time, and prices remain significantly below Little Rock. Entry-level new construction starts around $220,000 for a 3/2 in an established subdivision. The $280,000–$380,000 range gets a spacious 4-bedroom home on a large lot with HOA amenities. Older neighborhoods near the University of Central Arkansas campus and downtown Conway offer historic bungalows from $160,000–$280,000. The rental market is strong and diverse due to three universities — a legitimate advantage for investors.",
+  "schools_section": {
+    "overview": "Conway Public Schools is one of the stronger school districts in the state — a significant driver of Conway's growth as families from across Arkansas choose to relocate here specifically for the schools.",
+    "highlights": [
+      { "name": "Conway High School", "note": "Large, well-resourced high school with a strong AP program, athletics, and performing arts." },
+      { "name": "Simon Middle School", "note": "High-performing middle school with strong test scores and a wide range of extracurriculars." },
+      { "name": "Bob Courtway Middle School", "note": "Second Conway middle school serving the city's eastern growth areas with a similar strong program." },
+      { "name": "University of Central Arkansas (UCA)", "note": "Major public university with 12,000 students; drives rental demand and cultural programming citywide." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Conway has the energy of a college town layered over a rapidly growing family-suburb base. Oak Street downtown has become a genuinely lively strip with local restaurants, breweries, and coffee shops. The UCA campus hosts public events, theater, and a Division I athletics program. It's a city that's becoming more than the sum of its parts.",
+    "dining": "Conway's dining scene has improved dramatically. Brewski's Pub, 64 Degrees Coffee, Boulevard Bread (a local institution), and the Oak Street restaurant cluster give residents options beyond chains. The growth in population has attracted more independent concepts in the last five years.",
+    "outdoor": "Cadron Settlement Park on the Arkansas River is a beautiful spot for hiking, fishing, and picnicking. Lake Conway (the largest man-made game and fish lake in the U.S.) is 10 minutes from downtown and a destination for boaters and anglers. Conway has an expanding trail system connecting neighborhoods to the lake.",
+    "culture": "Three universities — UCA, Central Baptist College, Hendrix College — give Conway a cultural depth unusual for a city of 65,000. Hendrix especially hosts a consistent calendar of arts events, speakers, and performances open to the public. The Faulkner County Library is excellent.",
+    "family": "Conway is one of the best places to raise a family in Arkansas. The schools are strong, housing is affordable, and the university presence creates a stimulating environment for children and teens. Youth sports infrastructure is excellent."
+  },
+  "commute_section": {
+    "overview": "Conway's relationship with Little Rock is an I-40 commute that most Conway residents accept as the cost of affordability. The 30-mile drive takes 30–40 minutes in normal conditions; rush hour on I-40 at the Conway-to-LR stretch can push it to 50–60 minutes on bad days. Remote work has made this trade-off much more palatable for many buyers.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "35 min", "notes": "I-40 E; plan for 45–55 min at 7:30–8:30 AM." },
+      { "destination": "West Little Rock / Baptist Health", "time": "30 min", "notes": "I-40 E to I-430 S; slightly shorter than downtown." },
+      { "destination": "Maumelle", "time": "20 min", "notes": "I-40 E; quick suburban connection." },
+      { "destination": "LIT Airport", "time": "45 min", "notes": "I-40 E to I-440 E; plan for 55+ min with traffic." },
+      { "destination": "Within Conway", "time": "10 min", "notes": "City is compact and most trips stay under 15 min." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["First-time buyers", "Growing families", "University employees", "Remote workers", "Investors (student rentals)"],
+    "typical_buyer": "A family or young couple attracted by the combination of affordability, school quality, and college-town amenities who either works in Conway/locally or commutes to Little Rock and values square footage over urban walkability.",
+    "budget_range": "$180,000 – $450,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Conway considered part of the Little Rock metro?",
+      "answer": "Yes — Conway is in the Little Rock–North Little Rock–Conway metropolitan statistical area (MSA). It's the third city in the metro name for a reason: it's economically and socially integrated with the Little Rock metro, though it has its own distinct identity and is growing faster than the rest."
+    },
+    {
+      "question": "Is Conway a good place to invest in rental property?",
+      "answer": "Three universities create sustained rental demand, particularly near the UCA campus. The student rental market for single-family homes near campus runs strong. Conway's overall rental market is growing with the city. Cap rates in the 6–8% range are realistic for well-located properties near campus."
+    },
+    {
+      "question": "How does Conway compare to Bryant or Benton?",
+      "answer": "Conway is north of Little Rock; Bryant and Benton are south. Conway has the college-town energy and faster job growth. Bryant/Benton have Saline County schools (also excellent) and slightly closer commutes to south Little Rock employers. Conway typically offers lower prices for comparable homes."
+    }
+  ],
+  "related": [
+    { "title": "Maumelle", "slug": "maumelle", "type": "neighborhood" },
+    { "title": "West Little Rock", "slug": "west-little-rock", "type": "neighborhood" },
+    { "title": "Cabot", "slug": "cabot", "type": "neighborhood" }
+  ]
+}

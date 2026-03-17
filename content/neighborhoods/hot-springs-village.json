@@ -1,0 +1,72 @@
+{
+  "slug": "hot-springs-village",
+  "name": "hot-springs-village",
+  "display_name": "Hot Springs Village",
+  "seo": {
+    "title": "Hot Springs Village AR Real Estate Guide | Metro Little Rock",
+    "description": "Hot Springs Village is the largest gated community in the U.S. — a retiree and second-home paradise with nine golf courses, multiple lakes, and a self-contained lifestyle 60 miles from Little Rock.",
+    "canonical": "/neighborhoods/hot-springs-village",
+    "og_image": "/images/neighborhoods/hot-springs-village.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/hot-springs-village.jpg",
+    "alt": "Lake DeSoto and golf course in Hot Springs Village, AR"
+  },
+  "hero_stats": {
+    "median_price": "$285,000",
+    "avg_days_on_market": 55,
+    "price_trend": "+4.1% YoY",
+    "walkability_score": 8
+  },
+  "intro": "Hot Springs Village is unlike anything else in the Metro Little Rock area — the largest gated community in the United States, spanning 26,000 acres across Garland and Saline Counties. With nine golf courses, eleven lakes, and a complete self-contained infrastructure including grocery stores, medical facilities, restaurants, and recreation centers, it operates more like a small city than a subdivision. It draws retirees, second-home buyers, and remote workers who want natural beauty and resort amenities at a fraction of what comparable communities cost in Florida or Arizona.",
+  "real_estate_overview": "The HSV real estate market is distinct from the broader Little Rock metro. Properties range from small lake-access cottages starting around $150,000 to custom lakefront homes exceeding $1 million. The median sits around $285,000, but the market is bimodal — there's a large inventory of older homes (1970s–1990s) in the $160,000–$280,000 range, and a growing segment of newer custom builds from $400,000 to $700,000+ for buyers who want modern construction with village amenities. POA (Property Owners Association) fees cover gate security, road maintenance, and recreation access. Buyers must factor these into their monthly costs — typically $100–$140/month. Days on market are higher than the broader metro because the buyer pool is more specific.",
+  "schools_section": {
+    "overview": "Hot Springs Village falls within the Mountain Pine School District in Garland County (HSV spans two counties — the Garland County portion is Mountain Pine; the Saline County portion is Fountain Lake). The school options are modest, which is appropriate given that the community skews heavily toward retirees without school-age children. Families with children in HSV often home school or drive to Hot Springs city schools.",
+    "highlights": [
+      { "name": "Mountain Pine School District", "note": "Small rural district serving the Garland County portion of HSV. Small class sizes; limited extracurricular offerings." },
+      { "name": "Fountain Lake School District", "note": "Serves the Saline County portion; slightly larger with better facilities than Mountain Pine." },
+      { "name": "Hot Springs area private schools", "note": "Several private school options in Hot Springs city, 20 miles south, accessible for HSV families." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "HSV's lifestyle is resort living on an Arkansas budget. Residents wake up to lake views and have nine championship golf courses, pickle ball courts, tennis, swimming, hiking trails, and kayaking all within the gates. The social infrastructure — clubs, fitness centers, restaurant options — keeps life genuinely interesting without leaving the community.",
+    "dining": "Within the Village: Balboa Club Restaurant, Coronado Center Clubhouse Restaurant, and Ponce de Leon Club Restaurant serve the POA-operated dining. Independent restaurants have opened near the north gate. For broader restaurant choice, Hot Springs city (20 miles south) or Benton (45 min east) are the options.",
+    "outdoor": "Eleven lakes for fishing, kayaking, paddleboarding, and swimming. Nine golf courses ranging from executive to championship. 20+ miles of hiking trails. Pickle ball, tennis, racquetball, and multiple fitness centers within the gates. Outdoor recreation is genuinely exceptional.",
+    "culture": "HSV has a surprisingly active cultural calendar given its size. The Hot Springs Village POA runs a robust activities program, and the resident clubs cover everything from art to woodworking to genealogy. Hot Springs city has the Garvan Woodland Gardens, Oaklawn Racing Casino Resort, and the national park system.",
+    "family": "HSV is primarily a retiree and second-home community. Young families exist here but are the minority. For families with school-age children, the school options and limited peer community for kids make other communities more practical."
+  },
+  "commute_section": {
+    "overview": "Hot Springs Village is 60 miles from downtown Little Rock — about 60–70 minutes via I-30 and US-70 West. This is a genuine barrier for daily commuters. Many HSV residents are retired, work remotely, or commute to Hot Springs city (20 min south). It's not a practical choice for Little Rock 9-to-5 workers.",
+    "key_routes": [
+      { "destination": "Hot Springs city", "time": "20 min", "notes": "US-70 W; the primary nearby city for shopping and healthcare." },
+      { "destination": "Benton", "time": "40 min", "notes": "US-70 E to I-30 N; practical for Saline County connections." },
+      { "destination": "Downtown Little Rock", "time": "65 min", "notes": "US-70 E to I-30 N; not practical for daily commuting." },
+      { "destination": "Hot Springs National Park", "time": "25 min", "notes": "US-70 W — great day trip anchor." },
+      { "destination": "Ouachita National Forest", "time": "30 min", "notes": "Extensive national forest trails accessible from the western village boundaries." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Retirees", "Second-home buyers", "Remote workers", "Active outdoor lifestyle seekers"],
+    "typical_buyer": "A retired couple in their 60s–70s relocating from a higher cost-of-living state who wants resort amenities, natural beauty, and a self-contained community at $250,000–$400,000 — a fraction of what comparable amenities would cost in Florida or Arizona.",
+    "budget_range": "$150,000 – $750,000+"
+  },
+  "faqs": [
+    {
+      "question": "What are the POA fees in Hot Springs Village?",
+      "answer": "POA (Property Owners Association) assessments run approximately $100–$140/month per property and cover gate security, road maintenance, community facilities access, and other services. Golf, boat slip rental, and certain recreation amenities have additional fees. Always request the full current fee schedule before purchase."
+    },
+    {
+      "question": "Is Hot Springs Village a good investment?",
+      "answer": "HSV has appreciated steadily at 4–5% annually, below the hotter metro markets but consistent. The post-COVID remote work wave drove a surge of interest from out-of-state buyers, compressing inventory and pushing prices up 20–30% from 2020–2022. The market has normalized since, but long-term demand from retiring Baby Boomers remains a structural tailwind."
+    },
+    {
+      "question": "Can I rent my HSV property on Airbnb or VRBO?",
+      "answer": "Short-term rental policies in HSV are governed by the POA and have been a source of ongoing debate among residents. Policies have evolved — as of 2024, short-term rentals are permitted with registration and compliance with POA rules. Verify current rules with the POA before purchasing for this purpose."
+    }
+  ],
+  "related": [
+    { "title": "Benton", "slug": "benton", "type": "neighborhood" },
+    { "title": "Bryant", "slug": "bryant", "type": "neighborhood" },
+    { "title": "Scott / Landmark", "slug": "scott-landmark", "type": "neighborhood" }
+  ]
+}

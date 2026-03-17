@@ -1,0 +1,65 @@
+{
+  "slug": "breakfast-little-rock",
+  "title": "Best Breakfast & Brunch in Little Rock",
+  "category": "breakfast",
+  "area": "little-rock",
+  "seo": {
+    "title": "Best Breakfast & Brunch in Little Rock 2026 | Metro Little Rock",
+    "description": "Little Rock's best breakfast and brunch spots — from Root Café's farm-to-table SoMa mornings to Yellow Rocket's Heights pastries and Community Bakery's downtown classics.",
+    "canonical": "/best-of/breakfast/little-rock"
+  },
+  "intro": "Little Rock's breakfast scene is anchored by a handful of places that take morning food seriously — farm-sourced ingredients, proper pastry craft, and a café culture that's grown considerably in the last decade.",
+  "items": [
+    {
+      "rank": 1,
+      "place_slug": "root-cafe",
+      "name": "Root Café",
+      "one_liner": "South Main's farm-to-table breakfast anchor — the kind of place that changes the standard for what morning food in a city should be.",
+      "why_its_here": "Root Café has done more for Little Rock's breakfast culture than any other single restaurant — not because it's the most convenient option, but because it showed what was possible when a kitchen committed to Arkansas sourcing and community-minded dining. The seasonal menu means what you order in April is different from what you'll find in September, and that's the point. Weekend lines form before the doors open; weekday breakfast is more relaxed and equally worth it.",
+      "best_for": "Weekend brunch, solo mornings, farm-sourced ingredients, community atmosphere"
+    },
+    {
+      "rank": 2,
+      "place_slug": "yellow-rocket-bread",
+      "name": "Yellow Rocket Bread",
+      "one_liner": "The Heights neighborhood bakery that has redefined what Little Rock expects from a morning pastry.",
+      "why_its_here": "Yellow Rocket Bread operates with the focus of a dedicated craft operation — naturally leavened sourdoughs, laminated croissants, and a pastry case that empties fast on Saturday mornings for reasons that become obvious the first time you eat here. The café counter is compact and the atmosphere is neighborhood-casual, which is exactly right for what it is. It's not trying to be anything other than the best bakery the Heights has, and it succeeds.",
+      "best_for": "Artisan pastries, sourdough bread, quiet weekday mornings, Heights neighborhood"
+    },
+    {
+      "rank": 3,
+      "place_slug": "community-bakery",
+      "name": "Community Bakery",
+      "one_liner": "Operating since 1947 — the kolaches alone justify the trip, the full breakfast menu justifies staying.",
+      "why_its_here": "Community Bakery earns its place by being the metro's most durable breakfast institution — not because it's the trendiest option but because it's been excellent long enough that generations of Little Rock families consider it theirs. The kolaches are a legacy item that shouldn't be skipped; the full breakfast menu is honest and well-executed; the lunch service bridges cleanly into a full café day. Downtown location makes it a natural stop before or after the museums and galleries in the area.",
+      "best_for": "Downtown breakfast, kolaches, lunch, reliable weekday café"
+    }
+  ],
+  "honorable_mentions": [
+    {
+      "name": "South on Main (weekend brunch)",
+      "note": "Weekend brunch at South on Main belongs in any serious discussion of Little Rock's best morning meals — the cocktail program carries over and the kitchen applies the same sourcing standards as dinner."
+    },
+    {
+      "name": "Local Lime (Sunday brunch)",
+      "note": "The Heights' bottomless mimosa brunch is a neighborhood ritual that's hard to argue with, especially on a Sunday when the Kavanaugh patio is in optimal condition."
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Dinner Restaurants in Little Rock",
+      "slug": "dinner/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "The Heights Neighborhood Guide",
+      "slug": "the-heights",
+      "type": "neighborhood"
+    },
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "sherwood",
+  "name": "sherwood",
+  "display_name": "Sherwood",
+  "seo": {
+    "title": "Sherwood AR Neighborhood Guide | Metro Little Rock",
+    "description": "Sherwood is an affordable northeast suburb of Little Rock with solid schools, established neighborhoods, and quick access to I-40 and downtown North Little Rock.",
+    "canonical": "/neighborhoods/sherwood",
+    "og_image": "/images/neighborhoods/sherwood.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/sherwood.jpg",
+    "alt": "Suburban neighborhood streets in Sherwood, AR"
+  },
+  "hero_stats": {
+    "median_price": "$215,000",
+    "avg_days_on_market": 23,
+    "price_trend": "+5.6% YoY",
+    "walkability_score": 24
+  },
+  "intro": "Sherwood is a northeast suburban city of about 32,000 residents that offers Little Rock metro living at some of the most accessible price points in Pulaski County. Situated along I-40 northeast of North Little Rock, it delivers solid suburban fundamentals — good schools, safe neighborhoods, mature trees, and convenient freeway access — at prices that consistently outcompete the south side of the river.",
+  "real_estate_overview": "Sherwood's housing market is defined by attainability. The stock is primarily 1970s–2000s construction: brick ranches, Cape Cods, and traditional two-stories on modest lots in well-maintained subdivisions. The $175,000–$280,000 range gets a buyer a solid 3-4 bedroom home in most neighborhoods. A small supply of newer construction in the $290,000–$380,000 range exists in subdivisions near the Sherwood/North Little Rock border. The market has been consistently appreciating as buyers are priced out of NLR and downtown and look east. Investor activity is modest compared to intown neighborhoods.",
+  "schools_section": {
+    "overview": "Sherwood is served by the Pulaski County Special School District. The Sylvan Hills cluster — Sylvan Hills High School, Middle School, and associated elementary schools — has a strong reputation and is a primary driver of family relocations to Sherwood.",
+    "highlights": [
+      { "name": "Sylvan Hills High School", "note": "Well-regarded PCSSD high school with strong athletics, AP programs, and consistently above-average test scores." },
+      { "name": "Sylvan Hills Middle School", "note": "K-8 feeder for the high school with a strong band program and active parent organization." },
+      { "name": "Oakbrooke Elementary", "note": "Popular K-5 in the northeast Sherwood area with strong parent involvement." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Sherwood is a quiet, residential suburb. The lifestyle centers on neighborhood parks, youth athletics, and the convenience of I-40 access. The commercial corridor along Highway 107 and Kiehl Avenue handles most daily needs. For entertainment and dining beyond the basics, residents drive 15–20 minutes to Argenta/NLR or downtown.",
+    "dining": "The Kiehl Avenue and Highway 107 corridors have a functional mix of casual restaurants and fast food. For destination dining, residents head to North Little Rock's Argenta district or downtown Little Rock.",
+    "outdoor": "Burns Park in NLR, one of the largest municipally owned parks in the U.S. at 1,700+ acres, is 10 minutes from Sherwood and serves as the primary outdoor recreation hub. Sherwood itself has neighborhood parks and a trail system in development.",
+    "culture": "Sherwood is a residential community — cultural activity is accessed by driving to NLR or Little Rock. The city has a community center and runs youth sports leagues.",
+    "family": "Sherwood is a reliable family suburb. Good schools, safe streets, affordable prices, and proximity to Burns Park make it a practical choice for families who need the most house for their budget."
+  },
+  "commute_section": {
+    "overview": "Sherwood's I-40 access makes it competitive for commutes across the metro's north side. The drive to downtown LR is about 25 minutes; to Cabot or Jacksonville it's 20–25 minutes east.",
+    "key_routes": [
+      { "destination": "North Little Rock (Argenta)", "time": "15 min", "notes": "Via Highway 107 or I-40 W." },
+      { "destination": "Downtown Little Rock", "time": "25 min", "notes": "I-40 W to I-30; straightforward." },
+      { "destination": "Jacksonville", "time": "20 min", "notes": "I-40 E; easy suburban commute." },
+      { "destination": "Cabot", "time": "25 min", "notes": "I-40 E; light traffic most of the day." },
+      { "destination": "LIT Airport", "time": "20 min", "notes": "I-40 W to I-440 — one of the easier airport commutes." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["First-time buyers", "Families (school-focused)", "Value-focused buyers", "NLR spillover buyers"],
+    "typical_buyer": "A family priced out of NLR who wants to stay in Pulaski County with good schools, or a first-time buyer looking for the most house in the metro for $200,000–$260,000.",
+    "budget_range": "$160,000 – $330,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Sherwood in Pulaski County?",
+      "answer": "Yes — Sherwood is an incorporated city in Pulaski County. It's served by the PCSSD school district and Pulaski County government, just like Maumelle and NLR."
+    },
+    {
+      "question": "How does Sherwood compare to Jacksonville for buyers?",
+      "answer": "Sherwood is generally more expensive than Jacksonville (median $215K vs. $165K) with slightly better schools and more retail/dining nearby. Jacksonville has a stronger military community (Little Rock AFB) and very affordable entry points. Both are practical choices for value-focused buyers."
+    }
+  ],
+  "related": [
+    { "title": "North Little Rock", "slug": "north-little-rock", "type": "neighborhood" },
+    { "title": "Jacksonville", "slug": "jacksonville", "type": "neighborhood" },
+    { "title": "Cabot", "slug": "cabot", "type": "neighborhood" }
+  ]
+}

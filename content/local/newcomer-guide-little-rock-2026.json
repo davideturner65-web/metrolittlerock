@@ -1,0 +1,106 @@
+{
+  "slug": "newcomer-guide-little-rock-2026",
+  "title": "New to Little Rock? The Honest Newcomer's Guide",
+  "seo": {
+    "title": "New to Little Rock? The Honest Newcomer's Guide 2026 | Metro Little Rock",
+    "description": "The honest guide for people new to Metro Little Rock — what the city is actually like, which neighborhoods to know, what the food scene offers, and how to start feeling like a local.",
+    "canonical": "/local/newcomer-guide-little-rock-2026"
+  },
+  "hero_image": {
+    "src": "/images/local/newcomer-guide-hero.jpg",
+    "alt": "Little Rock skyline from the Arkansas River"
+  },
+  "category": "newcomer",
+  "intro": "Little Rock is a city that rewards engagement — it has more cultural depth, outdoor infrastructure, and neighborhood character than most newcomers expect, and almost all of it requires a bit of deliberate discovery. This is the guide that saves you three months of trial and error.",
+  "sections": [
+    {
+      "id": "what-to-expect",
+      "heading": "What Little Rock Is Actually Like",
+      "body": "Little Rock is a capital city of 200,000 with a metro of about 750,000 — big enough to have real cultural institutions, a genuine restaurant scene, and a range of neighborhoods with distinct identities, but compact enough that you'll run into the same people at the farmers market, the gallery hop, and the brewery. The pace is slower than coastal cities, the cost of living is significantly lower, and the trade-off for weather (hot, humid summers; mild winters with occasional ice) is a spring and fall that justify everything. The city's national reputation lags the reality by about a decade.",
+      "places": []
+    },
+    {
+      "id": "neighborhoods-first",
+      "heading": "The Neighborhoods That Matter First",
+      "body": "The Heights (72205) is Little Rock's most walkable, most established neighborhood — Kavanaugh Boulevard with restaurants, boutiques, and the independent bookstore that anchors the literary culture. SoMa (South Main, 72202) is the creative district — galleries, Lost Forty Brewing, South on Main, and a First Friday gallery hop that functions as a community gathering. Downtown (72201) is where the events and river life happen. West Little Rock (72211–72223) is where most of the families relocating from larger cities tend to land — newer construction, good schools, and easy access to the regional retail corridor.",
+      "places": [
+        {
+          "name": "The Heights",
+          "note": "The neighborhood most newcomers wish they'd moved to immediately. Kavanaugh Boulevard is walkable; WordsWorth Books is excellent; the density of independent restaurants and cafés is the metro's best.",
+          "link": "/neighborhoods/the-heights"
+        },
+        {
+          "name": "SoMa (South Main)",
+          "note": "Little Rock's arts district — galleries, breweries, the best dinner restaurant in the metro, and a community that tends to know each other.",
+          "link": "/neighborhoods/soma"
+        },
+        {
+          "name": "West Little Rock",
+          "note": "Where most families land — good public schools (Pulaski Academy, private options), newer construction, and the I-430 corridor for regional access.",
+          "link": "/neighborhoods/west-little-rock"
+        }
+      ]
+    },
+    {
+      "id": "food-first",
+      "heading": "Where to Eat in the First Month",
+      "body": "Start with the places that establish your frame of reference: South on Main for the state of the art, Root Café for the farm-sourcing ethos, Lost Forty Brewing for the community gathering place, Lassis Inn for the history, and Cotham's Mercantile for the legend. From there, the farmers markets (River Market on Saturday, Argenta on Saturday) fill in the context.",
+      "places": [
+        {
+          "name": "South on Main",
+          "note": "Best dinner restaurant in the metro — the bar and cocktail program work as a standalone visit too.",
+          "link": "/places/south-on-main"
+        },
+        {
+          "name": "Root Café",
+          "note": "The breakfast and lunch anchor of SoMa — farm-sourced, community-minded, reliably excellent.",
+          "link": "/places/root-cafe"
+        },
+        {
+          "name": "Lassis Inn",
+          "note": "Operating since 1905, the fried catfish is one of Little Rock's essential experiences.",
+          "link": "/places/lassis-inn"
+        },
+        {
+          "name": "Cotham's Mercantile",
+          "note": "Drive to Scott for the Hubcap Burger. It's worth every mile and every minute of the wait.",
+          "link": "/places/cotham-mercantile"
+        }
+      ]
+    },
+    {
+      "id": "getting-connected",
+      "heading": "How to Start Feeling Like a Local",
+      "body": "Little Rock's social fabric is built around recurring events more than fixed venues. The First Friday gallery hop on South Main, the Argenta First Thursday, the weekly farmers markets, and the Heights Porch Fest in May are all community events that put you in contact with the people who make the city work. The Argenta Arts District on a First Thursday evening is one of the fastest ways to meet the metro's creative community. The Arkansas River Trail on a weekend morning is where the cycling culture lives.",
+      "places": [
+        {
+          "name": "SoMa First Friday Gallery Hop",
+          "note": "First Friday of each month on South Main — free, walkable, and the most reliable entry point into the city's arts community.",
+          "link": "/events/soma-first-friday-gallery-april-2026"
+        },
+        {
+          "name": "Argenta First Thursday",
+          "note": "Monthly gallery hop in the Argenta Arts District, North Little Rock — the May edition is the most festive.",
+          "link": "/events/argenta-first-thursday-april-2026"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "title": "Neighborhood Guides",
+      "slug": "/neighborhoods",
+      "type": "guide"
+    },
+    {
+      "title": "Events in Little Rock",
+      "slug": "/events",
+      "type": "guide"
+    },
+    {
+      "title": "Best Dinner Restaurants",
+      "slug": "dinner/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "moving-to-little-rock",
+  "title": "Moving to Little Rock: The Complete Relocation Guide",
+  "seo": {
+    "title": "Moving to Little Rock: Complete Relocation Guide 2026 | Metro Little Rock",
+    "description": "Everything you need to know before moving to Little Rock, AR — neighborhoods, cost of living, schools, jobs, and what locals wish they'd known.",
+    "canonical": "/guides/moving-to-little-rock"
+  },
+  "hero_image": { "src": "", "alt": "Little Rock Arkansas skyline along the Arkansas River" },
+  "intro": "Little Rock is having a moment. The capital of Arkansas has quietly become one of the South's most livable mid-size metros — with a genuine restaurant scene, outdoor recreation on the Arkansas River, a growing economy, and home prices that feel almost unfair compared to comparable cities. This guide covers everything a newcomer needs to know.",
+  "sections": [
+    {
+      "id": "cost-of-living",
+      "heading": "Cost of Living",
+      "body": "Little Rock's cost of living runs about 12–15% below the national average. Housing is the biggest advantage — a solid 3-bedroom in a good neighborhood runs $250K–$400K, and 2-bedroom apartments average $900–$1,400/month. Arkansas has a modest income tax but total tax burden is well below most comparable metros. Groceries, dining, and entertainment are all meaningfully cheaper than coastal cities.",
+      "checklist": [
+        "Research utility costs — Arkansas summers spike A/C bills July–August",
+        "Factor in car costs — Little Rock is car-dependent outside The Heights and downtown",
+        "Get homeowner's insurance quotes before closing — storm coverage matters here",
+        "Compare property tax rates by municipality (Pulaski County vs incorporated cities)"
+      ]
+    },
+    {
+      "id": "neighborhoods",
+      "heading": "Choosing Your Neighborhood",
+      "body": "The Heights and Hillcrest are walkable, older, and foodie-forward. Chenal Valley and west Little Rock are suburban and master-planned with newer construction. SoMa (South Main) is arts-forward with craft breweries and galleries. Downtown suits urban renters who want the River Market scene. North Little Rock, Conway, Benton, and Bryant are distinct cities with their own identities — not just suburbs.",
+      "checklist": [
+        "Take the neighborhood quiz to match your lifestyle to the right area",
+        "Drive neighborhoods at different times of day before committing",
+        "Check school district boundaries if you have kids — they don't follow city limits",
+        "Ask about flood plain status for any home near the Arkansas River or Fourche Creek"
+      ]
+    },
+    {
+      "id": "jobs-economy",
+      "heading": "Jobs & Economy",
+      "body": "Little Rock's economy anchors around state government, healthcare (UAMS and CHI St. Vincent are top employers), financial services (Stephens Inc., Dillard's HQ), and a growing technology sector. UAMS is the state's largest employer. Remote work has driven significant in-migration. Walmart's headquarters is 2 hours northwest in Bentonville but draws metro talent. The Conductor and Axiom International are notable tech employers.",
+      "checklist": [
+        "Check Arkansas Department of Workforce Services for state job listings",
+        "Explore Conductor, Axiom International, and Dillard's for tech and corporate roles",
+        "Browse state government positions at jobs.ar.gov",
+        "Connect with the Little Rock Regional Chamber for business networking events"
+      ]
+    },
+    {
+      "id": "schools",
+      "heading": "Schools",
+      "body": "School quality varies significantly by district and is one of the most important factors in neighborhood choice. Little Rock School District (LRSD) serves the city proper with significant school-to-school variation. Bryant and Conway school districts are consistently high-rated. The Heights feeds into Pulaski Heights Middle and Hall High. Catholic High and Mount St. Mary's Academy are the top private options.",
+      "checklist": [
+        "Look up specific schools on ADE Report Cards at dese.ade.arkansas.gov",
+        "Confirm exact school assignment by street address — boundaries are precise",
+        "Tour at least 3 schools before settling on an area",
+        "Ask current neighborhood residents with school-age kids for honest assessments"
+      ]
+    },
+    {
+      "id": "logistics",
+      "heading": "Moving Logistics",
+      "body": "Little Rock is accessible via I-30 and I-40. The airport is small — BNA (Nashville) is the regional hub 3 hours away. Moving companies book fast in summer; reserve 4–6 weeks out for June–August moves. Utilities are through Entergy Arkansas (electric), CenterPoint Energy (gas), and Central Arkansas Water or Little Rock Water Works depending on your specific address.",
+      "checklist": [
+        "Book movers 4–6 weeks ahead for summer, 2–3 weeks for fall/winter",
+        "Update Arkansas driver's license within 30 days of establishing residency",
+        "Register vehicle at Pulaski County Revenue Office within 30 days",
+        "Set up water service (CAW or LRWW) before move-in",
+        "Register to vote at vote.ar.gov",
+        "Get an Arkansas library card — Little Rock Public Library system is excellent and free"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Little Rock safe?",
+      "answer": "Little Rock has elevated crime statistics compared to national averages, concentrated in specific areas. The Heights, Chenal Valley, West Little Rock, and Hillcrest have crime rates comparable to safe neighborhoods in any city. Like all cities, geography matters — locals quickly learn which streets and areas to avoid. Ask residents, not just aggregate statistics."
+    },
+    {
+      "question": "What's the weather like?",
+      "answer": "Hot, humid summers (highs 95–100°F in July–August), mild winters with occasional ice storms, and beautiful springs and falls. Tornado season peaks in April–May. The Arkansas River corridor occasionally floods. Spring and fall are genuinely excellent — one of the best things about living here."
+    },
+    {
+      "question": "Do I need a car in Little Rock?",
+      "answer": "Yes, almost certainly. Little Rock has minimal public transit outside the River Rail streetcar (downtown only). The Heights and Hillcrest are the most walkable neighborhoods for daily errands, but even there, most residents drive. If you're coming from a transit-dependent city, budget for vehicle ownership and factor in commute times."
+    },
+    {
+      "question": "How does the real estate market look for buyers?",
+      "answer": "Little Rock has stayed more stable than larger metros — less boom, less bust. Inventory is tight in desirable neighborhoods like The Heights and Chenal Valley. Prices have risen steadily but not as dramatically as in Nashville or Austin. First-time buyers can still find value in Hillcrest, North Little Rock's Argenta, and emerging neighborhoods around SoMa."
+    }
+  ],
+  "related": [
+    { "title": "The Heights Neighborhood Guide", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "Newcomer's Guide to Little Rock", "slug": "little-rock-newcomer-guide", "type": "guide" },
+    { "title": "Best Neighborhoods for Families", "slug": "best-neighborhoods-for-families", "type": "guide" },
+    { "title": "First-Time Homebuyer in Arkansas", "slug": "first-time-homebuyer-arkansas", "type": "guide" }
+  ]
+}

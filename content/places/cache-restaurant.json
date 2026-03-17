@@ -1,0 +1,63 @@
+{
+  "slug": "cache-restaurant",
+  "name": "Cache Restaurant",
+  "seo": {
+    "title": "Cache Restaurant — Upscale Dining in Downtown Little Rock | Metro Little Rock",
+    "description": "Cache is downtown Little Rock's go-to for upscale American cuisine — a River Market District fixture with a serious wine program, river-view terrace, and the kind of room that works for both business dinners and celebrations.",
+    "canonical": "/places/cache-restaurant"
+  },
+  "type": "restaurant",
+  "cuisine_tags": [
+    "American",
+    "upscale",
+    "steakhouse",
+    "wine",
+    "river views"
+  ],
+  "neighborhood_slug": "downtown",
+  "address": "425 President Clinton Ave, Little Rock, AR 72201",
+  "coordinates": {
+    "lat": 34.7462,
+    "lng": -92.2701
+  },
+  "phone": "(501) 850-0265",
+  "website": "https://cacherestaurant.com",
+  "hours": {
+    "Monday": "11:00 AM – 10:00 PM",
+    "Tuesday": "11:00 AM – 10:00 PM",
+    "Wednesday": "11:00 AM – 10:00 PM",
+    "Thursday": "11:00 AM – 10:00 PM",
+    "Friday": "11:00 AM – 11:00 PM",
+    "Saturday": "11:00 AM – 11:00 PM",
+    "Sunday": "10:00 AM – 9:00 PM"
+  },
+  "price_range": "$$$",
+  "vibe": "upscale",
+  "description": "Cache occupies a prominent position in the River Market District — a two-story space with an outdoor terrace overlooking the Arkansas River and a dining room that signals occasion without being stiff about it. The American menu centers on steaks and seafood, executed with the kind of consistency that makes it reliable for business entertainment or anniversary dinners. The wine list is extensive and well-curated. Sunday brunch draws a crowd for the view as much as the food. The bar is good on its own terms and worth visiting for cocktails before or after dining elsewhere in the district.",
+  "must_try_items": [
+    "Filet mignon with compound butter",
+    "Pan-seared salmon",
+    "Shrimp and grits",
+    "River Market Old Fashioned"
+  ],
+  "good_for": [
+    "dinner",
+    "brunch",
+    "drinks",
+    "date_night",
+    "outdoor_seating"
+  ],
+  "featured": false,
+  "related": [
+    {
+      "title": "Downtown Little Rock Neighborhood Guide",
+      "slug": "downtown",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Upscale Dining in Little Rock",
+      "slug": "upscale-dining/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

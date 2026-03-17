@@ -1,0 +1,22 @@
+{
+  "slug": "wildwood-sculpture-exhibition-sept-2026",
+  "event_name": "Wildwood Park Open Sculpture Exhibition",
+  "seo": {
+    "title": "Wildwood Park Open Sculpture Exhibition — September 2026 | Metro Little Rock Events",
+    "description": "Explore Wildwood Park's annual outdoor sculpture exhibition across 77 acres of natural landscape. Self-guided tours of original works by regional and national artists.",
+    "canonical": "/events/wildwood-sculpture-exhibition-sept-2026"
+  },
+  "date_start": "2026-09-19",
+  "date_end": "2026-11-15",
+  "time": "Grounds open 8:00 AM – Dusk",
+  "venue_name": "Wildwood Park for the Arts",
+  "venue_address": "20919 Denny Rd, Little Rock, AR 72223",
+  "venue_coordinates": { "lat": 34.7826, "lng": -92.5024 },
+  "neighborhood_slug": "chenal-valley",
+  "category": "arts",
+  "price_range": "free",
+  "description": "Wildwood Park's annual outdoor sculpture exhibition places original works by regional and national artists throughout the 77-acre wooded campus for a two-month installation. The self-guided experience is one of the metro's most distinctive art events — sculptures appear around bends in the trail, beside the creek, and in the outdoor amphitheater space, creating a conversation between art and landscape. Opening weekend (September 19–20) features artist talks and a self-guided tour map. The park grounds are free and open daily during the exhibition. Sculptures vary each year; past exhibitions have ranged from abstract steel to large-scale ceramics.",
+  "highlight": false,
+  "tags": ["sculpture", "outdoor art", "Wildwood Park", "self-guided", "free", "fall"],
+  "recurring": { "pattern": "annual" }
+}

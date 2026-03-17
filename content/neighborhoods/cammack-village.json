@@ -1,0 +1,72 @@
+{
+  "slug": "cammack-village",
+  "name": "cammack-village",
+  "display_name": "Cammack Village",
+  "seo": {
+    "title": "Cammack Village Neighborhood Guide — Little Rock, AR | Metro Little Rock",
+    "description": "Cammack Village is a tiny incorporated city surrounded by Little Rock — a close-knit enclave of mid-century homes, low taxes, and a genuine small-town feel inside the city grid.",
+    "canonical": "/neighborhoods/cammack-village",
+    "og_image": "/images/neighborhoods/cammack-village.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/cammack-village.jpg",
+    "alt": "Tree-lined mid-century homes in Cammack Village, AR"
+  },
+  "hero_stats": {
+    "median_price": "$265,000",
+    "avg_days_on_market": 20,
+    "price_trend": "+5.4% YoY",
+    "walkability_score": 44
+  },
+  "intro": "Cammack Village is one of Arkansas's smallest incorporated municipalities — a roughly one-square-mile enclave that is geographically surrounded by Little Rock but maintains its own city government, police department, and millage rate. Its tight grid of mid-century bungalows, ranch homes, and Cape Cods has a neighborhood-within-a-neighborhood quality that longtime residents treasure. Proximity to The Heights' dining scene without The Heights' price tag is its defining advantage.",
+  "real_estate_overview": "Cammack Village's housing stock is almost entirely 1940s–1970s construction: modest bungalows, brick ranches, and split-levels on 50-75 foot lots. Homes are small to medium by modern standards (1,200–2,200 sq ft being typical), but lot sizes are generous and the tree canopy is exceptional. Prices run 15–20% below comparable homes in adjacent Heights neighborhoods. The investor and renovator community has discovered Cammack — a growing number of homes have been tastefully updated, and the flipped-and-resold market is active. Turnover is low among long-term owners, so patience is required to find the right property.",
+  "schools_section": {
+    "overview": "Cammack Village is within the Little Rock School District and feeds into the same Pulaski Heights school cluster as much of The Heights. The walkability to Pulaski Heights Elementary is a meaningful advantage for families with young children.",
+    "highlights": [
+      { "name": "Pulaski Heights Elementary", "note": "Walking distance for most Cammack Village homes; a highly regarded neighborhood K-5 school." },
+      { "name": "Pulaski Heights Middle School", "note": "Continues the feeder path for Heights and Cammack students through grade 8." },
+      { "name": "Little Rock Central High School", "note": "IB World School and National Historic Site; the secondary school for PHMS graduates." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Cammack Village is a true residential enclave — there's no commercial strip inside the village borders. But it's bordered by Kavanaugh Boulevard (The Heights' main street) within walking distance, so residents have de facto access to everything The Heights offers at a lower price of entry.",
+    "dining": "Step outside Cammack's borders onto Kavanaugh and you're immediately in The Heights' restaurant corridor — Doe's, Bruno's, ZaZa, wine bars, coffee shops. Residents treat it as their neighborhood dining scene even though it's technically one block over.",
+    "outdoor": "Allsopp Park, one of Little Rock's best urban parks, is adjacent to Cammack Village and accessible by foot or a very short drive. The park's 165 acres of wooded trails, disc golf, and tennis courts serve as Cammack's de facto backyard.",
+    "culture": "Cammack Village participates in the broader Heights cultural ecosystem. The neighborhood association runs community events including an annual celebration that draws the whole village out. WordsWorth Books and independent boutiques on Kavanaugh are effectively neighborhood institutions.",
+    "family": "Cammack Village is popular with families, particularly those who want a quieter residential environment than the Heights' more commercial core while still being in the same school zone. The walkability to Pulaski Heights Elementary is a significant selling point for parents."
+  },
+  "commute_section": {
+    "overview": "Cammack Village's central location within the Little Rock grid means excellent access to all parts of the metro. Markham Street, Cantrell Road, and I-630 are all within minutes.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "12 min", "notes": "Via Cantrell Rd or Markham St." },
+      { "destination": "UAMS Medical Corridor", "time": "12 min", "notes": "West on Markham; straightforward." },
+      { "destination": "West Little Rock", "time": "18 min", "notes": "Markham to I-630 W to Chenal Pkwy." },
+      { "destination": "LIT Airport", "time": "22 min", "notes": "Via I-630 to I-40 E." },
+      { "destination": "The Heights (Kavanaugh)", "time": "3 min", "notes": "Literally next door; walkable for most addresses." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Young families", "Heights buyers (budget-constrained)", "Renovators", "Walkability seekers"],
+    "typical_buyer": "A buyer who wants Heights-area lifestyle — walkable to Kavanaugh, in the PHES school zone, great neighborhood quality — but whose budget maxes out before the Heights' price floor. Often a first-time buyer or young family.",
+    "budget_range": "$220,000 – $380,000"
+  },
+  "faqs": [
+    {
+      "question": "What makes Cammack Village separate from Little Rock?",
+      "answer": "Cammack Village incorporated as a separate municipality in 1941 and has maintained that status ever since. It has its own mayor, city council, and police department. This means a slightly different millage rate and the distinctive quality of having a tiny 'town hall' governing a neighborhood surrounded on all sides by a major city."
+    },
+    {
+      "question": "Are the property taxes lower in Cammack Village?",
+      "answer": "The millage rate in Cammack Village can differ slightly from the City of Little Rock's rate, but both are in Pulaski County and use the same county and school district rates. The net difference is typically small. Always verify current rates with the Pulaski County Assessor."
+    },
+    {
+      "question": "How is the parking in Cammack Village?",
+      "answer": "All homes have off-street driveways. The residential streets have parking on both sides and are quieter than comparable blocks in The Heights. There is no commercial parking pressure because there are no commercial uses within the village itself."
+    }
+  ],
+  "related": [
+    { "title": "The Heights", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "Midtown", "slug": "midtown", "type": "neighborhood" },
+    { "title": "Riverdale", "slug": "riverdale", "type": "neighborhood" }
+  ]
+}

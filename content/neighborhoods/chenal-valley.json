@@ -1,0 +1,77 @@
+{
+  "slug": "chenal-valley",
+  "name": "chenal-valley",
+  "display_name": "Chenal Valley",
+  "seo": {
+    "title": "Chenal Valley Neighborhood Guide — Little Rock, AR | Metro Little Rock",
+    "description": "Chenal Valley is Little Rock's premier upscale suburb — new construction, top-rated schools, country clubs, and the city's best retail corridor all in one master-planned community.",
+    "canonical": "/neighborhoods/chenal-valley",
+    "og_image": "/images/neighborhoods/chenal-valley.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/chenal-valley.jpg",
+    "alt": "Upscale homes and manicured streetscape in Chenal Valley, Little Rock, AR"
+  },
+  "hero_stats": {
+    "median_price": "$580,000",
+    "avg_days_on_market": 22,
+    "price_trend": "+4.8% YoY",
+    "walkability_score": 28
+  },
+  "intro": "Chenal Valley is Little Rock's flagship upscale suburban community — a sprawling planned development in the far southwest corner of the city that has attracted the metro's most sought-after schools, premier country clubs, and a retail corridor that rivals anything in the region. For families prioritizing top schools, newer construction, and low crime in a cohesive community, Chenal is the benchmark.",
+  "real_estate_overview": "Chenal Valley's housing stock skews newer and larger than almost anywhere else in the Little Rock metro. The majority of homes were built after 1995, with a significant wave of construction in the 2005–2015 range and ongoing new subdivisions still adding inventory. Expect brick-and-stone traditional homes on HOA-maintained streets, with lot sizes ranging from 0.2 acres in denser sections to 1+ acres in the Country Club of Little Rock corridors. Entry points start around $350,000 for attached townhomes and smaller single-family homes; luxury custom builds in gated communities like The Pointe routinely exceed $1.5 million. The HOA structure throughout Chenal means exterior maintenance standards are high and home values stay relatively stable.",
+  "schools_section": {
+    "overview": "Chenal Valley falls within the Pulaski County Special School District (PCSSD) and draws from its best-performing campuses. The area is the primary reason families from across the metro move to Chenal, and school quality is consistently the top driver of real estate demand here.",
+    "highlights": [
+      { "name": "Chenal Elementary", "note": "A newer, high-performing K-5 campus with strong test scores and an active parent community." },
+      { "name": "Robinson Middle School", "note": "Serves much of the Chenal Valley area with a broad academic and extracurricular program." },
+      { "name": "Parkview Arts & Science Magnet", "note": "A top-ranked high school option for academically motivated students in Pulaski County." },
+      { "name": "Catholic High School / Mount St. Mary Academy", "note": "Two highly regarded private options within 15–20 minutes that attract many Chenal families." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Chenal Valley's lifestyle revolves around the car, the club, and the family calendar. The retail corridor along Chenal Parkway — anchored by Whole Foods, multiple urgent care centers, upscale dining, and national chains — means most daily errands stay in-neighborhood. Social life tends to center on the two country clubs and the neighborhood sports leagues.",
+    "dining": "Chenal Parkway has developed into one of the metro's best dining corridors. Bruno's Italian, Taziki's Mediterranean Cafe, Slim Chickens (corporate HQ nearby), Flying Fish, and a growing cluster of upscale casual concepts give residents abundant options without driving downtown.",
+    "outdoor": "Pinnacle Mountain State Park is the crown jewel of outdoor recreation in the Chenal area — a 15-minute drive to serious hiking with views of the Arkansas River Valley. The Two Rivers Park and Big Dam Bridge are accessible via Chenal Pkwy. Several neighborhoods have extensive walking trail systems through retained natural areas.",
+    "culture": "Chenal is suburban through and through on culture — the arts scene lives downtown. That said, the area has strong youth athletics infrastructure, private yoga and fitness studios, and a thriving local church community. The Country Club of Little Rock hosts an active social calendar.",
+    "family": "This is arguably the best neighborhood in the metro for families with school-age children. Sports leagues, private swim clubs, HOA-run events, safe cul-de-sacs, and proximity to top schools make it the default destination for move-up families and relocating executives."
+  },
+  "commute_section": {
+    "overview": "Chenal Valley sits at the far southwest end of the city, which means commutes to downtown, UAMS, or the financial district require planning. Chenal Parkway connects to I-430, which is the primary artery — rush hour on I-430 between Chenal and I-630 can add significant time. Many residents who work in the suburbs (West LR tech campuses, Baptist Health) barely notice.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "25–35 min", "notes": "I-430 S to I-630 E; heavily congested 7–8:30 AM." },
+      { "destination": "UAMS Medical District", "time": "25 min", "notes": "I-630 west corridor; plan for heavy morning traffic." },
+      { "destination": "Baptist Health Medical Center", "time": "10 min", "notes": "Just east on Chenal Pkwy — very easy commute." },
+      { "destination": "LIT Airport", "time": "30 min", "notes": "I-430 north to I-40 east." },
+      { "destination": "Conway", "time": "40 min", "notes": "I-430 N to I-40 W; light outside rush hour." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Move-up families", "Relocating executives", "Physicians & healthcare professionals", "School-focused buyers"],
+    "typical_buyer": "A family with two or more children relocating for a professional position — often a physician, attorney, or corporate executive — who prioritizes top schools, low crime, new construction, and is willing to accept a longer commute to downtown in exchange.",
+    "budget_range": "$350,000 – $1,500,000+"
+  },
+  "faqs": [
+    {
+      "question": "Which school district does Chenal Valley fall under?",
+      "answer": "Most of Chenal Valley is in the Pulaski County Special School District (PCSSD). Some newer westernmost subdivisions fall in the Little Rock School District. Always verify the specific school zone for any property before purchase, as boundaries can change and the distinction matters significantly."
+    },
+    {
+      "question": "Are there HOA fees in Chenal Valley?",
+      "answer": "Yes — virtually every subdivision in Chenal Valley has an HOA. Fees vary by community, typically ranging from $50/month for basic common-area maintenance to $300+/month for gated communities with amenities. Always request full HOA disclosure documents before making an offer."
+    },
+    {
+      "question": "Is Chenal Valley still growing?",
+      "answer": "Yes. New phases of residential development continue to be annexed and platted in the western Chenal corridor. Infrastructure (roads, utilities, retail) generally keeps pace, but traffic on Chenal Parkway has increased noticeably in the last five years. Future growth will be limited by the Maumelle River corridor to the north."
+    },
+    {
+      "question": "How does Chenal compare to West Little Rock for families?",
+      "answer": "Chenal Valley has newer housing stock, lower crime rates, and stronger HOA governance than most of West Little Rock. West LR offers more price diversity and slightly shorter commutes to downtown. For families where school quality is the primary driver, Chenal is typically the stronger choice."
+    }
+  ],
+  "related": [
+    { "title": "West Little Rock", "slug": "west-little-rock", "type": "neighborhood" },
+    { "title": "Pleasant Valley", "slug": "pleasant-valley", "type": "neighborhood" },
+    { "title": "Maumelle", "slug": "maumelle", "type": "neighborhood" }
+  ]
+}

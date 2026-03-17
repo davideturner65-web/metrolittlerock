@@ -1,0 +1,22 @@
+{
+  "slug": "conway-live-music-festival-july-2026",
+  "event_name": "Conway Live Music & Arts Festival",
+  "seo": {
+    "title": "Conway Live Music & Arts Festival 2026 | Metro Little Rock Events",
+    "description": "Conway's summer music and arts festival takes over downtown Conway with multiple stages, local food vendors, and family-friendly activities.",
+    "canonical": "/events/conway-live-music-festival-july-2026"
+  },
+  "date_start": "2026-07-11",
+  "date_end": "2026-07-12",
+  "time": "12:00 PM – 10:00 PM",
+  "venue_name": "Downtown Conway",
+  "venue_address": "Front Street, Conway, AR 72032",
+  "venue_coordinates": { "lat": 35.0887, "lng": -92.4421 },
+  "neighborhood_slug": "conway",
+  "category": "music",
+  "price_range": "$",
+  "description": "The Conway Live Music & Arts Festival transforms downtown Conway's Front Street and courthouse square into a two-day music destination with four stages, 30+ performers, local food vendors, and artisan market tents. The festival leans heavily into the college-town energy that Hendrix College and UCA bring to Conway — expect an eclectic lineup that runs from Americana and country to funk, soul, and indie rock. Saturday is the main event; Sunday adds family programming and afternoon acoustic sets. Conway's growing restaurant scene handles the dinner crowd in the gaps between sets.",
+  "highlight": false,
+  "tags": ["music festival", "Conway", "downtown", "arts", "college town"],
+  "recurring": { "pattern": "annual" }
+}

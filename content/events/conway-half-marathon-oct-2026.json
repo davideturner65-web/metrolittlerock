@@ -1,0 +1,22 @@
+{
+  "slug": "conway-half-marathon-oct-2026",
+  "event_name": "Conway Half Marathon & 5K",
+  "seo": {
+    "title": "Conway Half Marathon & 5K — October 2026 | Metro Little Rock Events",
+    "description": "Run through downtown Conway and the University of Central Arkansas campus in one of central Arkansas's most popular fall road races. Half marathon and 5K options.",
+    "canonical": "/events/conway-half-marathon-oct-2026"
+  },
+  "date_start": "2026-10-11",
+  "time": "7:00 AM (Half) / 7:15 AM (5K)",
+  "venue_name": "Downtown Conway / UCA Campus",
+  "venue_address": "Front St, Conway, AR 72032",
+  "venue_coordinates": { "lat": 35.0887, "lng": -92.4421 },
+  "neighborhood_slug": "conway",
+  "category": "sports",
+  "price_range": "$",
+  "ticket_url": "https://conwayhalfmarathon.com",
+  "description": "The Conway Half Marathon routes runners through downtown Conway, across the University of Central Arkansas campus, and through established residential neighborhoods before finishing back in the heart of downtown. October in central Arkansas delivers ideal race conditions — cool mornings, fall color starting in the tree canopy — and the Conway course is known for being genuinely runnable, with modest elevation change and well-organized aid stations. The 5K runs a shorter downtown loop and finishes with the half marathon crowd, making it a good option for families with mixed fitness levels attending together. Post-race area features local food vendors, music, and an awards ceremony. The Conway Half has grown into one of the better-supported fall races in the metro and typically draws 800–1,000 finishers.",
+  "highlight": false,
+  "tags": ["half marathon", "5K", "running", "Conway", "fall race", "UCA"],
+  "recurring": { "pattern": "annual" }
+}

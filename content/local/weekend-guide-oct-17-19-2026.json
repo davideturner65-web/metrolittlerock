@@ -1,0 +1,54 @@
+{
+  "slug": "weekend-guide-oct-17-19-2026",
+  "title": "This Weekend in Little Rock: October 17–19, 2026",
+  "seo": {
+    "title": "This Weekend in Little Rock: October 17–19, 2026 | Metro Little Rock",
+    "description": "Rock Lit literary festival, fall foliage hikes at Pinnacle Mountain, and the Heights' best October dining — your metro Little Rock weekend guide for October 17–19.",
+    "canonical": "/local/weekend-guide-oct-17-19-2026"
+  },
+  "date_range": {
+    "start": "2026-10-17",
+    "end": "2026-10-19"
+  },
+  "intro": "One of the metro's best weekends: Rock Lit takes over the Heights and downtown with nationally known authors, fall hiking conditions at Pinnacle Mountain are at their peak, and the October weather makes every patio in the city feel like a good decision.",
+  "picks": [
+    {
+      "event_slug": "rock-lit-literary-festival-oct-2026",
+      "category_label": "Arts & Culture",
+      "editorial_note": "Rock Lit is the metro's best weekend event for anyone who reads. Start at WordsWorth Books for the morning panels, move to the Clinton Center for the afternoon author talks, and plan around Saturday's signing line — it moves slower than expected and is more enjoyable for it."
+    },
+    {
+      "event_slug": "pinnacle-mountain-spring-hike-2026",
+      "category_label": "Outdoor",
+      "editorial_note": "Pinnacle Mountain at peak fall color is one of central Arkansas's best hiking experiences. The East Summit Trail is a hard scramble worth the effort for the view; the Base Trail loop works for families with younger kids. Pack water and get there before 10 AM on the weekend."
+    },
+    {
+      "event_slug": "argenta-block-party-oct-2026",
+      "category_label": "Community",
+      "editorial_note": "The Argenta Block Party on Saturday is a genuine neighborhood event — not a produced festival, just Main Street doing what it does when the occasion calls for it. Good bands, good food trucks, and the Argenta Community Theater usually has something happening in the evening."
+    }
+  ],
+  "also_happening": [
+    "Conway Half Marathon on Sunday — spectating on Front Street near the finish is worth the early morning",
+    "Rock Lit keynote Friday evening requires tickets — buy in advance, they go quickly",
+    "Heights Holiday Market is coming Nov 21-22 — plan ahead",
+    "Arkansas Food & Wine Festival was last weekend, but restaurant week menus may still be running at some locations"
+  ],
+  "related": [
+    {
+      "title": "All Events",
+      "slug": "/events",
+      "type": "guide"
+    },
+    {
+      "title": "Fall Food Guide",
+      "slug": "fall-food-guide-little-rock-2026",
+      "type": "eat-drink"
+    },
+    {
+      "title": "The Heights Neighborhood Guide",
+      "slug": "the-heights",
+      "type": "neighborhood"
+    }
+  ]
+}

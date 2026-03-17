@@ -1,0 +1,21 @@
+{
+  "slug": "cabot-community-day-june-2026",
+  "event_name": "Cabot Community Day",
+  "seo": {
+    "title": "Cabot Community Day 2026 | Metro Little Rock Events",
+    "description": "Cabot's annual Community Day brings the whole city together at the athletic complex for games, performances, local vendors, and fireworks.",
+    "canonical": "/events/cabot-community-day-june-2026"
+  },
+  "date_start": "2026-06-07",
+  "time": "2:00 PM – 10:00 PM",
+  "venue_name": "Cabot Athletic Complex",
+  "venue_address": "1000 Graham Dr, Cabot, AR 72023",
+  "venue_coordinates": { "lat": 34.9748, "lng": -92.0165 },
+  "neighborhood_slug": "cabot",
+  "category": "family",
+  "price_range": "free",
+  "description": "Cabot Community Day is the city's marquee annual event — a full day of family activities, local vendor booths, school and civic organization displays, live entertainment, and a fireworks show at dusk. The athletic complex's multiple fields spread the crowd comfortably, with different activity zones for younger kids, teens, and adults. Local food vendors and restaurant pop-ups provide dinner options throughout the evening. The event embodies what makes Cabot uniquely appealing: a genuine small-town community feel in a fast-growing suburb that still knows how to throw a neighborhood party.",
+  "highlight": false,
+  "tags": ["community event", "Cabot", "family", "free", "fireworks", "all ages"],
+  "recurring": { "pattern": "annual" }
+}

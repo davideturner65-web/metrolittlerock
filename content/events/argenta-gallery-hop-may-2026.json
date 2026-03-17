@@ -1,0 +1,21 @@
+{
+  "slug": "argenta-gallery-hop-may-2026",
+  "event_name": "Argenta Gallery Hop",
+  "seo": {
+    "title": "Argenta Gallery Hop — May 2026 | Metro Little Rock Events",
+    "description": "Hop between galleries, studios, and creative spaces in the Argenta Arts District on the first Thursday of May. Live music, wine, and original works across North Little Rock's arts neighborhood.",
+    "canonical": "/events/argenta-gallery-hop-may-2026"
+  },
+  "date_start": "2026-05-07",
+  "time": "5:30 PM – 9:00 PM",
+  "venue_name": "Argenta Arts District",
+  "venue_address": "Main St, North Little Rock, AR 72114",
+  "venue_coordinates": { "lat": 34.7712, "lng": -92.2668 },
+  "neighborhood_slug": "north-little-rock",
+  "category": "arts",
+  "price_range": "free",
+  "description": "The May Argenta Gallery Hop is the First Thursday edition that marks the unofficial start of the Argenta outdoor season — when the evening temperatures cooperate enough for galleries to prop their doors open and the sidewalks fill with people moving between spaces. Six to eight galleries and studios participate, each with a new show or featured work, light refreshments, and artists in attendance to discuss their work. The Argenta Community Theater often has a preview or intermission performance timed to the hop. Parking is on-street throughout the district.",
+  "highlight": false,
+  "tags": ["gallery hop", "arts", "Argenta", "NLR", "First Thursday", "free"],
+  "recurring": { "pattern": "monthly", "day_of_week": "Thursday" }
+}

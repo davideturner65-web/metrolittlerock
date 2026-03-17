@@ -1,0 +1,21 @@
+{
+  "slug": "heights-wine-bar-saturday-april-2026",
+  "event_name": "Heights Wine & Jazz Saturday",
+  "seo": {
+    "title": "Heights Wine & Jazz Saturday — April 2026 | Metro Little Rock Events",
+    "description": "Saturday jazz and wine nights at Heights Wine Bar on Kavanaugh Boulevard. Live jazz quartet, rotating wine list, and the neighborhood bar scene that makes the Heights Little Rock's most walkable nightlife corridor.",
+    "canonical": "/events/heights-wine-bar-saturday-april-2026"
+  },
+  "date_start": "2026-04-11",
+  "time": "7:00 PM – 11:00 PM",
+  "venue_name": "Heights Wine Bar",
+  "venue_address": "5716 Kavanaugh Blvd, Little Rock, AR 72207",
+  "venue_coordinates": { "lat": 34.7518, "lng": -92.3297 },
+  "neighborhood_slug": "the-heights",
+  "category": "nightlife",
+  "price_range": "$",
+  "description": "Saturday jazz nights at Heights Wine Bar are a recurring fixture in the neighborhood's evening calendar — a live jazz quartet (or trio, depending on the week's lineup) in a room that's designed for it: good acoustics, dim lighting, a serious wine list, and a crowd that came to listen. The Heights Wine Bar runs these Saturday sessions most weeks through the year, with the spring season (April through June) typically featuring the strongest rotation of local and regional jazz talent. No cover charge; bottle and glass service, charcuterie boards, and small plates. The Kavanaugh corridor around the wine bar is walkable — Park Bench, Local Lime, Half Shell, and half a dozen other options are within a two-block stretch if the mood calls for dinner first or a second stop after.",
+  "highlight": false,
+  "tags": ["jazz", "wine", "live music", "Heights", "Kavanaugh", "nightlife", "Saturday"],
+  "recurring": { "pattern": "weekly", "day_of_week": "Saturday" }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "little-rock-pride-festival-june-2026",
+  "event_name": "Little Rock Pride Festival",
+  "seo": {
+    "title": "Little Rock Pride Festival — June 2026 | Metro Little Rock Events",
+    "description": "Little Rock's annual Pride Festival fills Riverfront Park with live entertainment, community organizations, food vendors, and a parade through downtown. Central Arkansas's largest LGBTQ+ celebration.",
+    "canonical": "/events/little-rock-pride-festival-june-2026"
+  },
+  "date_start": "2026-06-27",
+  "date_end": "2026-06-28",
+  "time": "11:00 AM – 8:00 PM (Saturday) / 12:00 PM – 6:00 PM (Sunday)",
+  "venue_name": "Riverfront Park",
+  "venue_address": "Riverfront Dr, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7469, "lng": -92.2740 },
+  "neighborhood_slug": "downtown",
+  "category": "community",
+  "price_range": "free",
+  "description": "The Little Rock Pride Festival is central Arkansas's largest LGBTQ+ celebration — a two-day event at Riverfront Park featuring a main stage with live musical performances and drag shows, a vendor village with community organizations, local businesses, and resource tables, food trucks along the river, and a family-friendly area on Sunday. Saturday opens with a Pride Parade through downtown Little Rock, starting on Markham and ending at the festival grounds. The event has grown steadily in scale and polish over the past decade and reflects a broader community embrace. Both days are free and open to all. The Saturday evening headliner performance is typically the festival's most attended single event; arrive early for good standing positions near the stage.",
+  "highlight": true,
+  "image": { "src": "/images/events/little-rock-pride.jpg", "alt": "Little Rock Pride Festival at Riverfront Park" },
+  "tags": ["Pride", "LGBTQ+", "festival", "parade", "downtown", "community", "free"],
+  "recurring": { "pattern": "annual" }
+}

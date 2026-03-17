@@ -1,0 +1,96 @@
+{
+  "slug": "first-time-homebuyer-arkansas",
+  "title": "First-Time Homebuyer in Arkansas: The Complete Guide",
+  "seo": {
+    "title": "First-Time Homebuyer in Arkansas 2026: Down Payment, Process & Tips | Metro Little Rock",
+    "description": "Everything Arkansas first-time homebuyers need to know — down payment assistance programs, the buying process, what to watch for, and how to get started in the Little Rock market.",
+    "canonical": "/guides/first-time-homebuyer-arkansas"
+  },
+  "hero_image": { "src": "", "alt": "First-time homebuyer keys to a new Little Rock home" },
+  "intro": "Buying your first home in Arkansas is more achievable than you might think — especially in the Little Rock metro, where median prices remain well below the national average. This guide walks you through down payment assistance programs, the buying process, and what to watch for in this specific market.",
+  "sections": [
+    {
+      "id": "down-payment-programs",
+      "heading": "Down Payment Assistance Programs",
+      "body": "Arkansas offers several programs specifically for first-time buyers. The Arkansas Development Finance Authority (ADFA) runs the Move-Up and ADFA Down Payment Assistance programs, offering low-interest second mortgages to cover 3–6% of the purchase price. Income and purchase price limits apply. The City of Little Rock also has the HOME Program for eligible buyers in designated areas.",
+      "checklist": [
+        "Check ADFA eligibility at adfa.arkansas.gov — income limits vary by county",
+        "Ask your lender if they participate in the ADFA Move-Up program",
+        "Look into City of Little Rock HOME Program for urban properties",
+        "Explore USDA Rural Development loans for properties outside city limits",
+        "Check if your employer offers any first-time buyer assistance"
+      ]
+    },
+    {
+      "id": "the-buying-process",
+      "heading": "The Buying Process in Arkansas",
+      "body": "Arkansas uses attorneys for real estate closings (not title companies, as in some states). The process typically takes 30–45 days from accepted offer to closing. Earnest money (typically 1% of purchase price) is deposited within 3 business days of contract acceptance. Inspections happen during a negotiated inspection period, usually 10 days. Arkansas is a caveat emptor (buyer beware) state — inspections are your primary protection.",
+      "checklist": [
+        "Get pre-approved before making offers — sellers won't consider you seriously without it",
+        "Budget 2–3% of purchase price for closing costs (attorney, title insurance, lender fees)",
+        "Schedule a general home inspection within the first few days of the inspection period",
+        "Consider a separate sewer scope, radon test, and HVAC inspection for older homes",
+        "Review the seller's Property Disclosure Statement carefully"
+      ]
+    },
+    {
+      "id": "choosing-a-lender",
+      "heading": "Choosing a Lender",
+      "body": "In the Little Rock market, local lenders often have advantages over national banks — they know the market, they have relationships with local agents, and they can close faster. Credit unions like Arkansas Federal Credit Union and Arvest Bank are popular. National lenders like Rocket Mortgage work fine for straightforward purchases. Shop at least 3 lenders and compare APR, not just interest rate.",
+      "checklist": [
+        "Get Loan Estimates from at least 3 lenders within 14 days to minimize credit score impact",
+        "Compare APR (not just rate) across all offers",
+        "Ask specifically about ADFA-compatible loan products",
+        "Check lender reviews on Zillow and Google — local reputation matters",
+        "Confirm estimated closing timeline — some lenders run slow"
+      ]
+    },
+    {
+      "id": "what-to-watch-for",
+      "heading": "What to Watch For in Little Rock",
+      "body": "Foundation issues are more common in central Arkansas due to expansive clay soils — always get a structural inspection on any home over 15 years old. HVAC systems take abuse from Arkansas summers; ask about age and service history. Flood plain status is important for any property near the Arkansas River, Fourche Creek, or Palarm Creek. HOA fees vary widely in Chenal Valley and master-planned communities.",
+      "checklist": [
+        "Order a structural/foundation inspection on homes over 15 years old",
+        "Check FEMA flood map at msc.fema.gov for any property near water",
+        "Ask seller for HVAC maintenance records and filter change history",
+        "Review HOA documents for fees, reserves, and any pending special assessments",
+        "Look up the property's history on Pulaski County Assessor website (assessor.co.pulaski.ar.us)"
+      ]
+    },
+    {
+      "id": "neighborhoods-for-first-timers",
+      "heading": "Best Neighborhoods for First-Time Buyers",
+      "body": "First-time buyers get the most value in Hillcrest (charming older homes, walkable, $200K–$400K range), Argenta in North Little Rock (arts district, rapidly appreciating, $150K–$300K), and parts of west Little Rock in the $220K–$320K range. Chenal Valley and The Heights skew higher. Bryant and Benton offer the best value if schools are a priority.",
+      "checklist": [
+        "Set up saved searches on Zillow and Realtor.com for target neighborhoods",
+        "Attend at least 2–3 open houses before making offers to calibrate your eye",
+        "Ask your agent about average days on market and offer-to-list price ratios",
+        "Don't buy at the top of your pre-approval — leave room for unexpected costs"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What credit score do I need to buy a home in Arkansas?",
+      "answer": "Conventional loans typically require a 620+ score. FHA loans accept 580+ (with 3.5% down) or even 500–579 (with 10% down). ADFA programs generally require 640+. The higher your score, the better your interest rate — improving from 680 to 740 can save tens of thousands over the life of the loan."
+    },
+    {
+      "question": "How much do I need for a down payment?",
+      "answer": "With ADFA down payment assistance, you may be able to buy with as little as 0–1% out of pocket. FHA requires 3.5% down. Conventional loans start at 3% (though you'll pay PMI below 20%). Veterans can use VA loans with 0% down. Don't forget closing costs (2–3% of purchase price) on top of your down payment."
+    },
+    {
+      "question": "How long does it take to close on a house in Arkansas?",
+      "answer": "Typically 30–45 days from accepted offer to closing. Cash offers can close in 2 weeks. ADFA program loans may take 45–60 days due to extra processing. Conventional and FHA loans typically close in 30–35 days with a prepared buyer and cooperative seller."
+    },
+    {
+      "question": "Do I need a real estate agent as a buyer?",
+      "answer": "In Arkansas, buyer's agents are compensated by the seller in most transactions — you get professional representation at no direct cost to you. In today's market, having an experienced buyer's agent is strongly recommended. They know neighborhoods, can identify overpriced listings, and will protect your interests during inspection and negotiation."
+    }
+  ],
+  "related": [
+    { "title": "Moving to Little Rock Guide", "slug": "moving-to-little-rock", "type": "guide" },
+    { "title": "Best Neighborhoods for Families", "slug": "best-neighborhoods-for-families", "type": "guide" },
+    { "title": "The Heights Neighborhood Guide", "slug": "the-heights", "type": "neighborhood" },
+    { "title": "Hillcrest Neighborhood Guide", "slug": "hillcrest", "type": "neighborhood" }
+  ]
+}

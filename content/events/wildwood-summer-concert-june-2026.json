@@ -1,0 +1,23 @@
+{
+  "slug": "wildwood-summer-concert-june-2026",
+  "event_name": "Wildwood Park Summer Concert Series — Opening Night",
+  "seo": {
+    "title": "Wildwood Park Summer Concert Series Opening Night 2026 | Metro Little Rock",
+    "description": "The Wildwood Park for the Arts Summer Concert Series kicks off in June. Outdoor music on the park's main stage in west Little Rock.",
+    "canonical": "/events/wildwood-summer-concert-june-2026"
+  },
+  "date_start": "2026-06-05",
+  "time": "7:30 PM",
+  "venue_name": "Wildwood Park for the Arts",
+  "venue_address": "20919 Denny Rd, Little Rock, AR 72223",
+  "venue_coordinates": { "lat": 34.7826, "lng": -92.5024 },
+  "neighborhood_slug": "chenal-valley",
+  "category": "music",
+  "price_range": "$$",
+  "ticket_url": "https://wildwoodpark.org",
+  "description": "Wildwood Park for the Arts opens its beloved summer concert series with a Friday night under the Arkansas sky. The 77-acre sculpture park transforms into one of the metro's most magical outdoor music venues each summer, with the main stage framed by towering pines and open-air seating spread across the lawn. Opening night typically draws 500–800 attendees who bring blankets, low-back chairs, and picnic dinners to make a full evening of it. Check the Wildwood website for the specific lineup — past seasons have featured national touring acts alongside regional headliners.",
+  "highlight": true,
+  "image": { "src": "/images/events/wildwood-summer-concert.jpg", "alt": "Outdoor summer concert at Wildwood Park for the Arts in west Little Rock" },
+  "tags": ["outdoor concert", "summer", "Wildwood Park", "west Little Rock", "arts venue"],
+  "recurring": { "pattern": "annual" }
+}

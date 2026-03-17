@@ -1,0 +1,72 @@
+{
+  "slug": "maumelle",
+  "name": "maumelle",
+  "display_name": "Maumelle",
+  "seo": {
+    "title": "Maumelle Neighborhood Guide — AR | Metro Little Rock",
+    "description": "Maumelle is a master-planned city northwest of Little Rock with affordable prices, great parks, Lake Maumelle access, and family-friendly neighborhoods on the Arkansas River.",
+    "canonical": "/neighborhoods/maumelle",
+    "og_image": "/images/neighborhoods/maumelle.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/maumelle.jpg",
+    "alt": "Green parks and river views in Maumelle, AR"
+  },
+  "hero_stats": {
+    "median_price": "$285,000",
+    "avg_days_on_market": 21,
+    "price_trend": "+5.8% YoY",
+    "walkability_score": 22
+  },
+  "intro": "Maumelle is a planned city of about 21,000 residents tucked between the Arkansas River and the Ouachita foothills, just northwest of Little Rock. Developed from a master plan starting in the 1970s, it offers an orderly, green, family-oriented environment with its own parks system, lake access, and a school district that draws buyers who want suburban stability at prices below the Chenal corridor.",
+  "real_estate_overview": "Maumelle's housing market is defined by its master-planned origins: neighborhoods are well-maintained, HOA covenants are common, and the streetscapes are consistently clean. Most of the housing stock dates from the 1980s through 2010s, with a strong supply of 3-4 bedroom brick homes in the $230,000–$360,000 range. A newer wave of construction in master-planned villages is adding inventory north of Highway 100. Waterfront and lake-view properties near Lake Maumelle command premiums up to $500,000+. The market moves at a moderate pace — not as hot as The Heights or SoMa, but steady appreciation with low vacancy.",
+  "schools_section": {
+    "overview": "Maumelle is served by the Maumelle Charter School and the Pulaski County Special School District. Maumelle High School opened in 2008 and has grown into a well-regarded campus. The city's consistent investment in parks and community programs supports an engaged school community.",
+    "highlights": [
+      { "name": "Maumelle High School (PCSSD)", "note": "Opened 2008; growing athletic programs and a strong academic track record for a newer school." },
+      { "name": "Maumelle Middle School", "note": "6-8 campus with expanding electives and strong test score trajectory." },
+      { "name": "Maumelle Charter School", "note": "K-12 charter with a STEM focus; a popular option for families who prefer the charter model." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Maumelle's lifestyle is active and outdoorsy. The city maintains 14+ parks, extensive trail systems, and water access on the Arkansas River and nearby Lake Maumelle. It's an exceptionally family-friendly environment — the kind of place where kids ride bikes to school and neighbors know each other.",
+    "dining": "Maumelle's dining scene is functional rather than exciting — mostly chain restaurants and local staples along the commercial corridor near Highway 100 and Club Manor Drive. Residents who want destination dining drive 15–20 minutes to West Little Rock or downtown.",
+    "outdoor": "Maumelle's parks system is the envy of nearby communities. Maumelle Regional Park on the Arkansas River has boat launches, playgrounds, and athletic fields. The Maumelle Community Park has tennis courts, splash pads, and trails. The Arkansas River Trail connects into Little Rock via the Two Rivers Bridge.",
+    "culture": "Maumelle is community-focused rather than arts-focused. The City of Maumelle runs a robust parks-and-recreation calendar — youth sports leagues, adult fitness classes, seasonal festivals — and the community center is a genuine social hub.",
+    "family": "Maumelle consistently ranks among the most family-friendly places to live in Arkansas. The combination of safe streets, well-maintained parks, decent schools, and affordable prices makes it a natural destination for young families stretching their first or second home budget."
+  },
+  "commute_section": {
+    "overview": "Maumelle's location on I-40/I-430 gives it good freeway access, but it's a true suburb — expect 20–25 minutes to downtown and 15 minutes to West Little Rock on a normal day. Rush hour on I-430 can be frustrating but isn't as bad as larger metro commutes.",
+    "key_routes": [
+      { "destination": "West Little Rock", "time": "15 min", "notes": "I-430 S; fastest route to the suburban employment base." },
+      { "destination": "Downtown Little Rock", "time": "25 min", "notes": "I-40 E to I-30; add 5-10 min in AM rush." },
+      { "destination": "Chenal Valley", "time": "20 min", "notes": "I-430 S to Chenal Pkwy." },
+      { "destination": "Conway", "time": "25 min", "notes": "I-40 W; easy, relatively uncongested." },
+      { "destination": "LIT Airport", "time": "30 min", "notes": "I-40 E to I-440." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Young families", "First-time buyers", "Outdoor recreation lovers", "Value-focused buyers"],
+    "typical_buyer": "A family with young children who wants a safe, green, master-planned environment with decent schools at a price point 10–20% below comparable homes in Chenal Valley, and doesn't mind a slightly longer commute.",
+    "budget_range": "$200,000 – $420,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Maumelle its own city or part of Little Rock?",
+      "answer": "Maumelle is an incorporated city in Pulaski County, separate from Little Rock. It has its own city government, police department, and parks department. This is distinct from West Little Rock, which is part of the City of Little Rock."
+    },
+    {
+      "question": "Can residents access Lake Maumelle for recreation?",
+      "answer": "Lake Maumelle is the primary drinking water source for the Little Rock metro and public recreational access is restricted — no motorized boats, no swimming. The Arkansas River and Maumelle Regional Park on the river are the primary water recreation access points for residents."
+    },
+    {
+      "question": "How is the Maumelle real estate market trending?",
+      "answer": "Maumelle has appreciated at roughly 5–6% annually over the past three years, slightly below The Heights and SoMa but consistent. Inventory is typically moderate, and the market skews toward families and move-up buyers rather than investors."
+    }
+  ],
+  "related": [
+    { "title": "West Little Rock", "slug": "west-little-rock", "type": "neighborhood" },
+    { "title": "Conway", "slug": "conway", "type": "neighborhood" },
+    { "title": "Chenal Valley", "slug": "chenal-valley", "type": "neighborhood" }
+  ]
+}

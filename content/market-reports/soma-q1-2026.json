@@ -1,0 +1,46 @@
+{
+  "slug": "soma-q1-2026",
+  "neighborhood_slug": "soma",
+  "neighborhood_name": "SoMa District",
+  "seo": {
+    "title": "SoMa District Real Estate Market Report Q1 2026 | Metro Little Rock",
+    "description": "SoMa (South Main) real estate market data for Q1 2026 — median prices, trends, and what this rapidly evolving Little Rock neighborhood means for buyers and sellers.",
+    "canonical": "/market-reports/soma-q1-2026"
+  },
+  "report_date": "2026-03-01",
+  "summary": "SoMa continues to show the strongest appreciation rate in the Little Rock metro as gentrification accelerates along the South Main corridor. Buyers who purchased 3–5 years ago have seen significant equity gains. New mixed-use development is reshaping the neighborhood's character and drawing buyer attention.",
+  "stats": {
+    "median_price": 285000,
+    "median_price_change_yoy": "+9.8%",
+    "avg_days_on_market": 21,
+    "dom_change_yoy": "-8 days",
+    "active_listings": 14,
+    "sold_last_30_days": 8,
+    "price_per_sqft": 172,
+    "list_to_sale_ratio": "99.6%"
+  },
+  "price_trend_data": [
+    { "month": "Apr '25", "median_price": 242000 },
+    { "month": "May '25", "median_price": 255000 },
+    { "month": "Jun '25", "median_price": 261000 },
+    { "month": "Jul '25", "median_price": 258000 },
+    { "month": "Aug '25", "median_price": 263000 },
+    { "month": "Sep '25", "median_price": 270000 },
+    { "month": "Oct '25", "median_price": 272000 },
+    { "month": "Nov '25", "median_price": 268000 },
+    { "month": "Dec '25", "median_price": 274000 },
+    { "month": "Jan '26", "median_price": 278000 },
+    { "month": "Feb '26", "median_price": 283000 },
+    { "month": "Mar '26", "median_price": 285000 }
+  ],
+  "inventory_analysis": "SoMa has very tight inventory — just 14 active listings — driven by the neighborhood's small size and increasing buyer demand as the area's reputation grows. The mixed housing stock (converted warehouses, shotgun homes, new infill construction) creates variety but limits direct comparables. The new mixed-use development on South Main will add rental units but limited for-sale inventory.",
+  "buyer_insights": "Buyers targeting SoMa should move decisively when the right property appears — days-on-market have dropped significantly and competition is increasing. The neighborhood is still in active transition, so due diligence on specific blocks matters (some streets lag others significantly). Older housing stock warrants thorough inspection including sewer scope and electrical review.",
+  "seller_insights": "It's an excellent time to sell in SoMa. The 9.8% YoY appreciation means sellers have more equity than they may realize. Well-presented homes are achieving near-list prices in under 3 weeks. The buyer pool is expanding beyond the early adopter/investor segment to include professionals and young families priced out of The Heights.",
+  "forecast": "SoMa is likely in the middle phases of its gentrification cycle, with appreciation rates expected to remain above the metro average through 2027–2028 as the South Main corridor matures. New development activity (restaurants, mixed-use) will continue to be a positive price catalyst. Risk factor: neighborhood transition can be uneven.",
+  "related": [
+    { "title": "SoMa District Neighborhood Guide", "slug": "soma", "type": "neighborhood" },
+    { "title": "The Heights vs SoMa Comparison", "slug": "heights-vs-soma", "type": "comparison" },
+    { "title": "Buyer Consultation", "slug": "buyer-consultation", "type": "service" },
+    { "title": "South on Main Spotlight", "slug": "south-on-main", "type": "place" }
+  ]
+}

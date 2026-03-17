@@ -1,0 +1,21 @@
+{
+  "slug": "soma-first-friday-gallery-april-2026",
+  "event_name": "SoMa First Friday Gallery Walk",
+  "seo": {
+    "title": "SoMa First Friday Gallery Walk — April 2026 | Metro Little Rock Events",
+    "description": "South Main's monthly gallery walk opens studios and art spaces along the South Main Creative Corridor on the first Friday of each month.",
+    "canonical": "/events/soma-first-friday-gallery-april-2026"
+  },
+  "date_start": "2026-04-03",
+  "time": "6:00 PM – 9:00 PM",
+  "venue_name": "South Main Creative Corridor",
+  "venue_address": "S Main St (Capitol to 12th St), Little Rock, AR 72202",
+  "venue_coordinates": { "lat": 34.7365, "lng": -92.2848 },
+  "neighborhood_slug": "soma",
+  "category": "arts",
+  "price_range": "free",
+  "description": "SoMa First Friday transforms South Main Street's gallery and studio corridor into a walkable arts evening on the first Friday of each month. Galleries open their doors, studios welcome visitors, and several venues set up pop-up bars and food for the occasion. The event draws a cross-section of the city's arts community — artists, collectors, curious newcomers — all moving at whatever pace they choose between spaces. Lost Forty and Rebel Kettle bookend the corridor and provide the unofficial after-party. The April edition typically coincides with multiple new show openings as galleries launch their spring programming.",
+  "highlight": false,
+  "tags": ["gallery walk", "arts", "SoMa", "First Friday", "walkable", "free"],
+  "recurring": { "pattern": "monthly", "day_of_week": "Friday" }
+}

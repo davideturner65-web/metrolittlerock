@@ -1,0 +1,68 @@
+{
+  "slug": "benton",
+  "name": "benton",
+  "display_name": "Benton",
+  "seo": {
+    "title": "Benton AR Neighborhood Guide | Metro Little Rock",
+    "description": "Benton is the Saline County seat — a growing city 25 miles south of Little Rock with a revitalizing downtown, affordable homes, great schools, and easy I-30 access.",
+    "canonical": "/neighborhoods/benton",
+    "og_image": "/images/neighborhoods/benton.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/benton.jpg",
+    "alt": "Historic downtown Benton, AR with Saline County Courthouse"
+  },
+  "hero_stats": {
+    "median_price": "$230,000",
+    "avg_days_on_market": 20,
+    "price_trend": "+6.4% YoY",
+    "walkability_score": 22
+  },
+  "intro": "Benton is the Saline County seat and a city of about 36,000 that blends small-town character with growing suburban energy. Twenty-five miles south of Little Rock via I-30, it has a historic downtown with a genuine Main Street revitalization underway, a school district that competes with Bryant's for state rankings, and housing prices that offer some of the best value in the entire metro for buyers willing to make the commute.",
+  "real_estate_overview": "Benton's real estate market is slightly more mature and more price-accessible than Bryant's. The housing stock ranges from 1950s and 1960s homes in established downtown neighborhoods ($160,000–$240,000) to 1990s–2010s suburban homes in established subdivisions ($220,000–$350,000) and new construction in growing areas. The downtown core has attracted renovation investment — Victorian and early 20th-century homes near the Saline County Courthouse are increasingly being restored. Unlike Bryant, Benton has more character housing for buyers who don't want cookie-cutter new construction.",
+  "schools_section": {
+    "overview": "Benton School District consistently ranks among the top public school districts in the state. Together with Bryant, Benton and Bryant schools give the Saline County corridor a reputation that draws families from across the region.",
+    "highlights": [
+      { "name": "Benton High School", "note": "Strong comprehensive high school with competitive AP participation, performing arts, and athletics." },
+      { "name": "Benton Middle School", "note": "Well-regarded 7-8 facility with strong academic outcomes." },
+      { "name": "Benton Primary School", "note": "K-4 campus with consistently high ratings in the state accountability system." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Benton's lifestyle is a mix of small-town and suburban. Downtown Benton around the Saline County Courthouse has genuine pedestrian character — a Main Street Benton revitalization program is bringing back restaurants, boutiques, and coffee shops. The broader city has the standard suburban amenities.",
+    "dining": "Downtown Benton's restaurant scene is growing. Local favorites include Doe's Eat Place (a Benton outpost of the iconic LR institution), several barbecue spots, and an improving independent dining cluster on the main square. More chains and casual restaurants fill the Highway 5 corridor.",
+    "outdoor": "Tyndall Park is Benton's primary recreation hub, with trails, athletic fields, and a spray pad. Saline River access for fishing and kayaking is close by. Hot Springs National Park is 45 minutes south — a genuine day-trip gem for Benton residents.",
+    "culture": "Benton has a stronger downtown cultural identity than Bryant. The Saline County Cultural Center, local theater groups, and the revitalizing Main Street program give it a more rooted community character. Seasonal festivals draw crowds from across the county.",
+    "family": "Benton is an excellent family community. Great schools, abundant parks, affordable homes, and a genuine community identity make it a top choice for families who want Saline County schools without the Bryant new-construction premium."
+  },
+  "commute_section": {
+    "overview": "Benton's I-30 access gives it solid commute times to Little Rock. Downtown LR is 30–35 minutes; many residents work in Saline County or work from home.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "30 min", "notes": "I-30 N; add 10 min during AM rush." },
+      { "destination": "Bryant", "time": "12 min", "notes": "I-30 N or Hwy 5 — quick." },
+      { "destination": "Hot Springs", "time": "40 min", "notes": "I-30 S to US-70 W; easy and scenic." },
+      { "destination": "UAMS / West LR", "time": "38 min", "notes": "I-30 N to I-630 W." },
+      { "destination": "LIT Airport", "time": "40 min", "notes": "I-30 N to I-440 E." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Families", "First-time buyers", "Small-town character seekers", "Value buyers"],
+    "typical_buyer": "A family who wants Saline County school quality with more neighborhood character than new-construction Bryant delivers, or a buyer who works in Benton/Saline County and wants to minimize their commute while staying in a well-regarded school district.",
+    "budget_range": "$160,000 – $380,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Benton or Bryant better for families?",
+      "answer": "Both are excellent. Bryant has newer housing stock and is growing faster. Benton has more character, a revitalizing downtown, and slightly lower prices. School quality is comparable between the two districts. The deciding factor is usually housing preference — new construction vs. established neighborhood — and commute direction."
+    },
+    {
+      "question": "What's the downtown Benton revitalization about?",
+      "answer": "The Main Street Benton program has been active since the mid-2010s, working to attract independent businesses, restore historic buildings, and activate the courthouse square area. Progress has accelerated in recent years with new restaurants, a brewery, and boutique retail opening in the historic core."
+    }
+  ],
+  "related": [
+    { "title": "Bryant", "slug": "bryant", "type": "neighborhood" },
+    { "title": "Hot Springs Village", "slug": "hot-springs-village", "type": "neighborhood" },
+    { "title": "Colony West / Otter Creek", "slug": "colony-west-otter-creek", "type": "neighborhood" }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "durans-cactus",
+  "name": "Duran's Cactus",
+  "seo": {
+    "title": "Duran's Cactus — Mexican Restaurant in West Little Rock | Metro Little Rock",
+    "description": "Duran's Cactus is the West Little Rock Mexican restaurant that's been the neighborhood's quiet standard for years — honest Tex-Mex, serious margaritas, and a patio worth knowing about.",
+    "canonical": "/places/durans-cactus"
+  },
+  "type": "restaurant",
+  "cuisine_tags": [
+    "Mexican",
+    "Tex-Mex",
+    "margaritas",
+    "casual"
+  ],
+  "neighborhood_slug": "west-little-rock",
+  "address": "11100 N Rodney Parham Rd, Little Rock, AR 72212",
+  "coordinates": {
+    "lat": 34.789,
+    "lng": -92.3752
+  },
+  "phone": "(501) 225-6669",
+  "hours": {
+    "Monday": "11:00 AM – 9:00 PM",
+    "Tuesday": "11:00 AM – 9:00 PM",
+    "Wednesday": "11:00 AM – 9:00 PM",
+    "Thursday": "11:00 AM – 9:00 PM",
+    "Friday": "11:00 AM – 10:00 PM",
+    "Saturday": "11:00 AM – 10:00 PM",
+    "Sunday": "11:00 AM – 9:00 PM"
+  },
+  "price_range": "$$",
+  "vibe": "casual",
+  "description": "Duran's Cactus has been a West Little Rock institution long enough that the regulars think of it as their restaurant, which it essentially is. The Tex-Mex menu is exactly what it should be — cheese dip that people drive across the metro for, enchiladas with the right amount of sauce, fajitas that come out on a properly sizzling platter. The margaritas are strong and not overthought. The covered patio is one of the better places to spend a warm evening in the 72212 zip code. Lunch draws the office crowd; dinner draws families and couples who've been going there for years and see no reason to stop.",
+  "must_try_items": [
+    "Queso (get the large, you'll need it)",
+    "Chicken enchiladas with sour cream sauce",
+    "House margarita on the rocks",
+    "Beef fajitas"
+  ],
+  "good_for": [
+    "lunch",
+    "dinner",
+    "groups",
+    "outdoor_seating"
+  ],
+  "featured": false,
+  "related": [
+    {
+      "title": "West Little Rock Neighborhood Guide",
+      "slug": "west-little-rock",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Mexican in Metro Little Rock",
+      "slug": "mexican/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

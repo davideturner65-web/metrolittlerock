@@ -1,0 +1,60 @@
+{
+  "slug": "nexus-coffee",
+  "name": "Nexus Coffee & Creative",
+  "seo": {
+    "title": "Nexus Coffee & Creative — Coffee Shop in Argenta NLR | Metro Little Rock",
+    "description": "Nexus Coffee & Creative is Argenta's community coffee shop — specialty espresso, a gallery wall that rotates monthly, and a workspace vibe that welcomes lingering.",
+    "canonical": "/places/nexus-coffee"
+  },
+  "type": "coffee",
+  "cuisine_tags": [
+    "specialty coffee",
+    "espresso",
+    "pastries",
+    "workspace"
+  ],
+  "neighborhood_slug": "north-little-rock",
+  "address": "622 Main St, North Little Rock, AR 72114",
+  "coordinates": {
+    "lat": 34.7711,
+    "lng": -92.2671
+  },
+  "phone": "(501) 372-6398",
+  "website": "https://nexuscoffeeandcreative.com",
+  "hours": {
+    "Monday": "7:00 AM – 5:00 PM",
+    "Tuesday": "7:00 AM – 5:00 PM",
+    "Wednesday": "7:00 AM – 5:00 PM",
+    "Thursday": "7:00 AM – 5:00 PM",
+    "Friday": "7:00 AM – 6:00 PM",
+    "Saturday": "8:00 AM – 4:00 PM",
+    "Sunday": "9:00 AM – 3:00 PM"
+  },
+  "price_range": "$",
+  "vibe": "casual",
+  "description": "Nexus Coffee sits at the center of the Argenta Arts District and functions as the neighborhood's living room — a specialty espresso bar with gallery walls that rotate monthly, a community board that tracks every arts event in the district, and a layout that encourages you to stay longer than you planned. The coffee program is serious: single-origin pour-overs alongside a full espresso menu, with pastries from a rotating cast of local bakers. The space hosts events, art openings, and the occasional acoustic performance on First Thursdays. If you want to understand the Argenta arts community, spend a morning here.",
+  "must_try_items": [
+    "Single-origin pour-over (ask what's on the bar)",
+    "Lavender latte",
+    "House pastry (changes daily)",
+    "Cold brew on tap"
+  ],
+  "good_for": [
+    "solo",
+    "work_remote",
+    "lunch"
+  ],
+  "featured": false,
+  "related": [
+    {
+      "title": "North Little Rock Neighborhood Guide",
+      "slug": "north-little-rock",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Argenta Gallery Hop",
+      "slug": "argenta-gallery-hop-may-2026",
+      "type": "event"
+    }
+  ]
+}

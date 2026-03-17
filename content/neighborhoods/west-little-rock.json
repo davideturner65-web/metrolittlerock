@@ -1,0 +1,72 @@
+{
+  "slug": "west-little-rock",
+  "name": "west-little-rock",
+  "display_name": "West Little Rock",
+  "seo": {
+    "title": "West Little Rock Neighborhood Guide | Metro Little Rock",
+    "description": "West Little Rock is the metro's established suburban corridor — good schools, diverse price points, major retail, and the shortest commutes to the growing healthcare and tech job base.",
+    "canonical": "/neighborhoods/west-little-rock",
+    "og_image": "/images/neighborhoods/west-little-rock.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/west-little-rock.jpg",
+    "alt": "Suburban homes and green spaces in West Little Rock, AR"
+  },
+  "hero_stats": {
+    "median_price": "$320,000",
+    "avg_days_on_market": 19,
+    "price_trend": "+5.1% YoY",
+    "walkability_score": 35
+  },
+  "intro": "West Little Rock is the broad suburban band between I-430 and the Chenal Pkwy corridor that houses a significant share of the metro's professional workforce. It offers the practical combination of reasonable prices, solid schools, quick access to the area's largest employers, and enough retail and restaurant density to handle daily life without driving far. It's not the flashiest choice in the metro, but it consistently delivers on the fundamentals.",
+  "real_estate_overview": "West Little Rock's housing stock spans three decades of suburban construction — from 1980s ranches and contemporaries in established neighborhoods like Leawood and Westchester, to 2000s brick colonials in Maumelle-adjacent subdivisions, to newer construction pushing further west. Price points are genuinely broad: $220,000 entry-level condos and townhomes exist alongside $600,000 custom homes. The middle market — 3-bedroom, 2-bath homes in the $280,000–$380,000 range — is the most competitive. Properties in top school zones (especially Pulaski County Special) move fast, often with multiple offers in spring.",
+  "schools_section": {
+    "overview": "West Little Rock spans both the Little Rock School District and Pulaski County Special School District depending on the specific address. PCSSD campuses in the western portions are generally higher-performing. Always verify the exact school zone before purchase.",
+    "highlights": [
+      { "name": "Terry Elementary (PCSSD)", "note": "Well-regarded K-5 serving western neighborhoods with strong parent involvement." },
+      { "name": "Don Roberts Elementary (LRSD)", "note": "High-performing K-5 in the eastern portion of West LR." },
+      { "name": "Joe T. Robinson High School", "note": "PCSSD's flagship high school, consistently among the top public schools in the state for academics and athletics." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "West Little Rock's lifestyle is convenient and comfortable. The Bowman Curve / Chenal Pkwy retail corridor handles most everyday needs, and the mix of neighborhoods means you're always close to a park, a gym, or a decent restaurant. It lacks the character of The Heights or SoMa but makes up for it in livability and ease.",
+    "dining": "The Bowman Curve area — Chenal Pkwy and Bowman Road — has the metro's densest concentration of chain and independent restaurants. Slim Chickens, Taziki's, Whole Hog BBQ, Loca Luna, and local favorites fill multiple strip centers. Nothing groundbreaking, but never more than a 10-minute drive from a solid meal.",
+    "outdoor": "Two Rivers Park and the Big Dam Bridge are the outdoor anchors of West LR — both world-class amenities. The park has 60+ miles of bike and running trails connecting to the greater River Trail system. Rebsamen Park Golf Course and the Pleasant Valley Country Club add golf options.",
+    "culture": "West LR is suburban culturally — expect chain movie theaters, community leagues, and church-driven social events. For arts and nightlife, residents drive 15–20 minutes to downtown or The Heights.",
+    "family": "West LR is a reliable family neighborhood. Good schools, multiple neighborhood parks and playgrounds, youth athletic leagues, and safe streets make it one of the most common landing spots for relocating families in the metro."
+  },
+  "commute_section": {
+    "overview": "West Little Rock's freeway access via I-430 and I-630 makes it competitive for commute times to almost any employer in the metro. The western healthcare corridor (Baptist Health, CHI St. Vincent) is practically in the backyard.",
+    "key_routes": [
+      { "destination": "Baptist Health Medical Center", "time": "8 min", "notes": "Short drive east on Chenal Pkwy; easy and quick." },
+      { "destination": "Downtown Little Rock", "time": "20 min", "notes": "I-630 E; add 10 min during AM rush." },
+      { "destination": "UAMS Medical Corridor", "time": "15 min", "notes": "Straight east on Markham or I-630." },
+      { "destination": "Chenal Valley", "time": "10 min", "notes": "South on I-430; direct and quick." },
+      { "destination": "Conway", "time": "35 min", "notes": "I-430 N to I-40 W." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Move-up families", "Healthcare professionals", "First-time buyers (condos/townhomes)", "Practical suburbanites"],
+    "typical_buyer": "A professional couple — often one in healthcare — who wants a well-maintained suburban neighborhood with good schools and convenient access to major employers, and isn't prioritizing walkability or urban character.",
+    "budget_range": "$220,000 – $600,000"
+  },
+  "faqs": [
+    {
+      "question": "What's the difference between West Little Rock and Chenal Valley?",
+      "answer": "Chenal Valley is a specific master-planned community in the far southwest with newer homes, stricter HOAs, and the top-rated school zones. West Little Rock is a broader geographic area with more varied housing age, price points, and school zones. Chenal commands a price premium; West LR offers more diversity of options."
+    },
+    {
+      "question": "Is West Little Rock in the Little Rock city limits?",
+      "answer": "Yes — West Little Rock is part of the City of Little Rock proper, not an incorporated suburb. It benefits from LR city services and, depending on which part, either LRSD or PCSSD school districts."
+    },
+    {
+      "question": "What are the best neighborhoods within West Little Rock?",
+      "answer": "Leawood, Westchester, and Foxcroft are established neighborhoods with strong resale history. Newer subdivisions along the Colonel Glenn corridor offer modern construction. School zone is often the most important deciding factor within the broader West LR area."
+    }
+  ],
+  "related": [
+    { "title": "Chenal Valley", "slug": "chenal-valley", "type": "neighborhood" },
+    { "title": "Pleasant Valley", "slug": "pleasant-valley", "type": "neighborhood" },
+    { "title": "Maumelle", "slug": "maumelle", "type": "neighborhood" }
+  ]
+}

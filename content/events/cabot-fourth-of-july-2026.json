@@ -1,0 +1,21 @@
+{
+  "slug": "cabot-fourth-of-july-2026",
+  "event_name": "Cabot Fourth of July Celebration",
+  "seo": {
+    "title": "Cabot Fourth of July Celebration 2026 | Metro Little Rock Events",
+    "description": "Cabot's annual Independence Day celebration features a daytime festival, live entertainment, and one of the largest fireworks displays in central Arkansas at Cabot Athletic Complex.",
+    "canonical": "/events/cabot-fourth-of-july-2026"
+  },
+  "date_start": "2026-07-04",
+  "time": "5:00 PM – 10:30 PM",
+  "venue_name": "Cabot Athletic Complex",
+  "venue_address": "200 Bill Foster Memorial Hwy, Cabot, AR 72023",
+  "venue_coordinates": { "lat": 34.9742, "lng": -92.0165 },
+  "neighborhood_slug": "cabot",
+  "category": "community",
+  "price_range": "free",
+  "description": "Cabot's Fourth of July is one of the metro's largest Independence Day events — a full evening of live entertainment, food vendors, kids' activities, and community gathering at the Athletic Complex that culminates in a fireworks display consistently rated among the best in central Arkansas. Cabot residents treat this as the community's signature civic event, and the crowd is substantial — families arrive in the late afternoon to claim viewing spots before the live music starts. The event is free and open to all, drawing attendees from across the northeast metro corridor. Parking fills early; a shuttle from satellite lots is available. The fireworks launch at dusk, approximately 9:15 PM.",
+  "highlight": false,
+  "tags": ["Fourth of July", "fireworks", "Cabot", "independence day", "community", "free"],
+  "recurring": { "pattern": "annual" }
+}

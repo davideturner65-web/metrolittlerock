@@ -1,0 +1,21 @@
+{
+  "slug": "soma-street-food-night-june-2026",
+  "event_name": "SoMa Street Food Night",
+  "seo": {
+    "title": "SoMa Street Food Night — June 2026 | Metro Little Rock Events",
+    "description": "Food trucks and pop-up kitchens take over South Main Street for SoMa's monthly street food night. Free admission, great eats, lively atmosphere.",
+    "canonical": "/events/soma-street-food-night-june-2026"
+  },
+  "date_start": "2026-06-20",
+  "time": "5:00 PM – 9:00 PM",
+  "venue_name": "South Main Street",
+  "venue_address": "S Main St, Little Rock, AR 72202",
+  "venue_coordinates": { "lat": 34.7365, "lng": -92.2848 },
+  "neighborhood_slug": "soma",
+  "category": "food",
+  "price_range": "free",
+  "description": "SoMa Street Food Night brings 8–12 food trucks and pop-up vendors onto South Main Street on the third Saturday of the month during summer, filling the corridor with the smell of smoked meats, wood-fired pizza, international street food, and fresh-squeezed limeade. It's a walkable evening where the goal is to sample your way down the block — get two things here, two things there, find a spot on the sidewalk, and let the neighborhood come to you. Lost Forty and Rebel Kettle are steps away for drinks between courses. This is SoMa at its best.",
+  "highlight": false,
+  "tags": ["food trucks", "street food", "SoMa", "summer", "walkable"],
+  "recurring": { "pattern": "monthly", "day_of_week": "Saturday" }
+}

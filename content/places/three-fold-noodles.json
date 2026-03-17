@@ -1,0 +1,63 @@
+{
+  "slug": "three-fold-noodles",
+  "name": "Three Fold Noodles + Dumpling Co.",
+  "seo": {
+    "title": "Three Fold Noodles + Dumpling Co. — Downtown Little Rock | Metro Little Rock",
+    "description": "Three Fold is downtown Little Rock's best noodle shop — hand-pulled noodles, dumplings made in-house, and a focused menu that earns every inch of its reputation.",
+    "canonical": "/places/three-fold-noodles"
+  },
+  "type": "restaurant",
+  "cuisine_tags": [
+    "Chinese",
+    "noodles",
+    "dumplings",
+    "hand-pulled",
+    "Asian"
+  ],
+  "neighborhood_slug": "downtown",
+  "address": "611 Main St, Little Rock, AR 72201",
+  "coordinates": {
+    "lat": 34.7431,
+    "lng": -92.2836
+  },
+  "phone": "(501) 372-6274",
+  "website": "https://threefoldnoodles.com",
+  "hours": {
+    "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:00 PM",
+    "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:00 PM",
+    "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:00 PM",
+    "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+    "Saturday": "11:00 AM – 2:30 PM, 5:00 PM – 10:00 PM"
+  },
+  "price_range": "$$",
+  "vibe": "casual",
+  "description": "Three Fold is one of those restaurants that arrived in downtown Little Rock and immediately raised the bar for what the city's restaurant scene could do. The hand-pulled noodles are made to order — you can watch the process from your seat — and the dumpling program is serious, with folds and fillings that take time to develop and show it. The menu is focused: not everything, just what they do well. The spicy dan dan mian and the soup dumplings have generated enough genuine enthusiasm to keep the lunch line consistently long. Dinner is slightly more relaxed. The space is compact, the style is unfussy, and the food more than compensates for both.",
+  "must_try_items": [
+    "Dan dan mian (spicy peanut noodles)",
+    "Soup dumplings (xiao long bao)",
+    "Hand-pulled noodle soup",
+    "Chili oil dumplings"
+  ],
+  "good_for": [
+    "lunch",
+    "dinner",
+    "solo"
+  ],
+  "image": {
+    "src": "/images/places/three-fold-noodles.jpg",
+    "alt": "Hand-pulled noodles at Three Fold in downtown Little Rock"
+  },
+  "featured": true,
+  "related": [
+    {
+      "title": "Downtown Little Rock Neighborhood Guide",
+      "slug": "downtown",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Lunch Spots Downtown",
+      "slug": "lunch/downtown",
+      "type": "best-of"
+    }
+  ]
+}

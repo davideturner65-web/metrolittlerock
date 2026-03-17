@@ -1,0 +1,72 @@
+{
+  "slug": "cabot",
+  "name": "cabot",
+  "display_name": "Cabot",
+  "seo": {
+    "title": "Cabot AR Neighborhood Guide | Metro Little Rock",
+    "description": "Cabot is a fast-growing exurb northeast of Little Rock with top-rated schools, affordable new construction, and a small-town feel — one of the most popular family destinations in the metro.",
+    "canonical": "/neighborhoods/cabot",
+    "og_image": "/images/neighborhoods/cabot.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/cabot.jpg",
+    "alt": "New construction family homes in Cabot, AR"
+  },
+  "hero_stats": {
+    "median_price": "$245,000",
+    "avg_days_on_market": 16,
+    "price_trend": "+8.1% YoY",
+    "walkability_score": 18
+  },
+  "intro": "Cabot is the metro's rising exurb — a Lonoke County city of 26,000 that has earned a reputation as one of the best places to raise a family in Arkansas. Its school district consistently ranks among the top five in the state, new home construction remains robust and affordable, and the small-town community feel makes it magnetically appealing to growing families looking east from Little Rock.",
+  "real_estate_overview": "Cabot has one of the most active new construction markets in the metro. Major homebuilders including Rausch Coleman, Adams Homes, and several regional builders maintain active subdivisions, delivering 3-4 bedroom homes in the $220,000–$330,000 range. This sustained new supply keeps prices accessible while delivering modern floor plans, energy efficiency, and HOA-maintained streetscapes. The older housing stock closer to downtown Cabot offers 1970s–2000s homes in the $160,000–$230,000 range. The market moves fast — well-priced homes in good school zones often go under contract in under 10 days.",
+  "schools_section": {
+    "overview": "Cabot School District is consistently ranked among the top public school districts in Arkansas and is the primary reason many families choose to live here despite the longer Little Rock commute. The district serves approximately 8,500 students.",
+    "highlights": [
+      { "name": "Cabot High School", "note": "Top-ranked Arkansas public high school with strong AP offerings, athletics, and fine arts. Often cited as a top-5 public school in the state." },
+      { "name": "Cabot Middle School North / South", "note": "Two well-resourced middle schools with strong test scores and extensive extracurricular programs." },
+      { "name": "Cabot Elementary campuses", "note": "Multiple elementary campuses serving the district with consistently high ratings on the state accountability system." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Cabot's lifestyle is authentically small-town Arkansas with a family-first orientation. Downtown Cabot has a Main Street revitalization underway. The community rallies around school events, local churches, and youth sports in a way that is distinctly different from Little Rock's urban pace.",
+    "dining": "Cabot's dining scene is developing. Local favorites like Gene's Barbecue and a growing number of independent restaurants are supplemented by the chains that have arrived with the population growth. It's not a dining destination, but daily needs are easily met.",
+    "outdoor": "Lake Conway (20 min west) and Greers Ferry Lake (90 min north) are the area's primary outdoor recreation draws. The Cabot trail system is expanding with new developments required to incorporate greenways. Youth sports complexes are excellent.",
+    "culture": "Cabot culture centers on school sports, church, and community events. The Cabot Performing Arts Complex is a genuine asset — a high-quality theater facility that attracts productions from across the region. The city runs well-attended seasonal festivals.",
+    "family": "Cabot is arguably the top family destination in the entire metro when school quality and affordability are the primary criteria. The district's reputation pulls families from across Arkansas who settle here specifically for the schools."
+  },
+  "commute_section": {
+    "overview": "Cabot is 30–35 miles from downtown Little Rock, primarily via I-40 west. The commute is manageable but real — expect 35–45 minutes to downtown and 30 minutes to North Little Rock on a normal day. Many Cabot residents work locally or in Jacksonville.",
+    "key_routes": [
+      { "destination": "Jacksonville / LRAFB", "time": "15 min", "notes": "I-40 W; easy and fast." },
+      { "destination": "North Little Rock", "time": "30 min", "notes": "I-40 W; consistent time." },
+      { "destination": "Downtown Little Rock", "time": "40 min", "notes": "I-40 W to I-30; plan for 50 min at peak." },
+      { "destination": "Sherwood", "time": "20 min", "notes": "I-40 W or Highway 107; quick suburban hop." },
+      { "destination": "LIT Airport", "time": "40 min", "notes": "I-40 W to I-440." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Families (school-focused)", "First-time buyers", "Value-focused buyers", "Remote workers"],
+    "typical_buyer": "A family — often with a child approaching school age — who has specifically researched Arkansas school districts and landed on Cabot as the best combination of school quality and affordability in the metro, and accepts the commute as the trade-off.",
+    "budget_range": "$170,000 – $370,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Cabot in Pulaski County?",
+      "answer": "No — Cabot is in Lonoke County, which borders Pulaski County to the east. This means a different county government, different property tax millage, and a separate school district from any LRSD or PCSSD schools. Lonoke County's property taxes are generally lower than Pulaski County's."
+    },
+    {
+      "question": "What is Cabot's school district ranked in Arkansas?",
+      "answer": "Cabot School District consistently ranks in the top 5 public school districts in Arkansas on state accountability metrics. The high school in particular draws positive attention for AP participation rates and student outcomes."
+    },
+    {
+      "question": "Is Cabot still growing?",
+      "answer": "Yes — Cabot is one of the fastest-growing cities in Arkansas. New subdivision activity remains strong, and the city is actively investing in infrastructure to keep pace with growth. The eastern metro corridor (Cabot/Lonoke) is seeing the most sustained new construction activity in the region."
+    }
+  ],
+  "related": [
+    { "title": "Jacksonville", "slug": "jacksonville", "type": "neighborhood" },
+    { "title": "Sherwood", "slug": "sherwood", "type": "neighborhood" },
+    { "title": "Conway", "slug": "conway", "type": "neighborhood" }
+  ]
+}

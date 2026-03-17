@@ -1,0 +1,84 @@
+{
+  "slug": "holiday-dining-guide-2026",
+  "title": "Little Rock Holiday Dining Guide 2026",
+  "seo": {
+    "title": "Little Rock Holiday Dining Guide 2026 | Metro Little Rock",
+    "description": "Where to eat and celebrate during the holiday season in Little Rock — from Thanksgiving dinners and holiday market food to New Year's Eve reservations and the metro's best seasonal menus.",
+    "canonical": "/eat-drink/holiday-dining-guide-2026"
+  },
+  "hero_image": {
+    "src": "/images/eat-drink/holiday-dining-hero.jpg",
+    "alt": "Holiday dining in Little Rock"
+  },
+  "season": "holiday",
+  "intro": "The holiday season in Little Rock has its own dining rhythm — Thanksgiving week, the December holiday market circuit, the surge of celebrations that fill downtown restaurants through Christmas, and the New Year's Eve bar scene that makes the River Market District worth the parking. Here's how to navigate it.",
+  "sections": [
+    {
+      "heading": "Thanksgiving in Little Rock",
+      "body": "A growing number of Little Rock restaurants offer Thanksgiving dinner service — a good option for smaller households or those who'd rather not cook. South on Main and Cache Restaurant typically offer pre-reservation Thanksgiving menus. Many Heights and SoMa restaurants close Thursday but open for the holiday weekend, when the Heights Holiday Market creates a natural anchor for the neighborhood.",
+      "places": [
+        {
+          "name": "South on Main",
+          "slug": "south-on-main",
+          "note": "South on Main's Thanksgiving dinner service books out weeks in advance — call or book online as soon as reservations open."
+        },
+        {
+          "name": "Community Bakery",
+          "slug": "community-bakery",
+          "note": "The best source for Thanksgiving pies and holiday baked goods — order by early November to secure your pick."
+        }
+      ]
+    },
+    {
+      "heading": "Holiday Market Food Scene",
+      "body": "The River Market Holiday Bazaar in early December and the Heights Holiday Market in late November both bring food vendors into the mix — the Heights market has the better prepared food options, while the River Market bazaar focuses more on packaged and artisan food products. Both are worth building an afternoon around.",
+      "places": [
+        {
+          "name": "River Market Holiday Bazaar",
+          "note": "Early December, River Market Pavilion — local food producers, artisan goods, and holiday shopping in a covered venue that runs rain or shine."
+        },
+        {
+          "name": "Heights Holiday Market",
+          "note": "Thanksgiving weekend on Kavanaugh — the Kavanaugh restaurant corridor stays open during the market, making the whole afternoon a combination of market shopping and neighborhood dining."
+        }
+      ]
+    },
+    {
+      "heading": "New Year's Eve: River Market District",
+      "body": "The River Market District is Little Rock's New Year's Eve destination — a walkable concentration of bars and restaurants that run ticketed events, live music, and midnight programming. Stickyz anchors the music end; Flying Saucer is the reliable beer option; Cache has the most upscale dinner-to-midnight-toast experience. Reserve anywhere you want to be by mid-December.",
+      "places": [
+        {
+          "name": "Stickyz Rock 'n' Roll Chicken Shack",
+          "note": "Ticketed NYE show with live band and midnight countdown — advance purchase strongly recommended."
+        },
+        {
+          "name": "Cache Restaurant",
+          "slug": "cache-restaurant",
+          "note": "Upscale NYE dinner service with a midnight champagne toast — the river view at midnight is a genuine moment."
+        },
+        {
+          "name": "Flying Saucer",
+          "slug": "flying-saucer-little-rock",
+          "note": "No reservation required, 200 taps, and a NYE crowd that fills the bar but doesn't overwhelm it."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "title": "Best Dinner Restaurants in Little Rock",
+      "slug": "dinner/little-rock",
+      "type": "best-of"
+    },
+    {
+      "title": "Stickyz New Year's Eve",
+      "slug": "stickyz-new-years-eve-2026",
+      "type": "event"
+    },
+    {
+      "title": "Heights Holiday Market",
+      "slug": "heights-holiday-market-nov-2026",
+      "type": "event"
+    }
+  ]
+}

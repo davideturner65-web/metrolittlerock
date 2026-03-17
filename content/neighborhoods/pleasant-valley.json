@@ -1,0 +1,73 @@
+{
+  "slug": "pleasant-valley",
+  "name": "pleasant-valley",
+  "display_name": "Pleasant Valley",
+  "seo": {
+    "title": "Pleasant Valley Neighborhood Guide — Little Rock, AR | Metro Little Rock",
+    "description": "Pleasant Valley is one of Little Rock's most established upscale neighborhoods — mature trees, large lots, the country club lifestyle, and quick access to West LR.",
+    "canonical": "/neighborhoods/pleasant-valley",
+    "og_image": "/images/neighborhoods/pleasant-valley.jpg"
+  },
+  "hero_image": {
+    "src": "/images/neighborhoods/pleasant-valley.jpg",
+    "alt": "Mature tree-lined streets and large homes in Pleasant Valley, Little Rock, AR"
+  },
+  "hero_stats": {
+    "median_price": "$485,000",
+    "avg_days_on_market": 31,
+    "price_trend": "+3.2% YoY",
+    "walkability_score": 18
+  },
+  "intro": "Pleasant Valley is Little Rock's established old-money suburb — a quiet neighborhood of mature hardwoods, generous lot sizes, and well-maintained homes that have housed the metro's professional and business class for 50 years. It lacks Chenal Valley's flashiness but offers something increasingly rare: stable, spacious, private homes in a mature landscape with the Pleasant Valley Country Club as a social anchor.",
+  "real_estate_overview": "Pleasant Valley's housing stock is predominantly 1970s–1990s construction: brick Colonials, traditional two-stories, and sprawling ranches on half-acre to full-acre lots. Homes rarely turn over quickly — turnover is low and many properties sell off-market. When homes do list, they move at a measured pace in the $400,000–$700,000 range, with exceptional properties exceeding $900,000. The neighborhood doesn't attract the same bidding-war energy as The Heights or SoMa because buyers here are typically less time-constrained. Renovation potential is high — many homes last updated in the 1990s are ripe for modernization, and those that have been updated command a significant premium.",
+  "schools_section": {
+    "overview": "Pleasant Valley falls within the Little Rock School District. Most families send children to Fulbright Elementary or Terry Elementary as neighborhood schools, and many opt for private school options given the proximity to several well-regarded private institutions.",
+    "highlights": [
+      { "name": "Fulbright Elementary (LRSD)", "note": "Strong neighborhood K-5 with engaged parent community." },
+      { "name": "Joe T. Robinson Middle/High (PCSSD)", "note": "Accessible for some PV residents depending on exact address; one of PCSSD's top campuses." },
+      { "name": "Pulaski Academy", "note": "Private K-12 school popular with Pleasant Valley families; consistently ranked among the state's top private schools." },
+      { "name": "Episcopal Collegiate School", "note": "Established private K-12 option with strong academics and college prep." }
+    ]
+  },
+  "lifestyle_section": {
+    "overview": "Pleasant Valley's lifestyle is quiet, spacious, and anchored by the country club. The neighborhood has no commercial strip of its own — daily errands require a 5-10 minute drive to Chenal Parkway or the Bowman Curve area. Social life for many residents revolves around Pleasant Valley Country Club, backyard entertaining, and the private school community.",
+    "dining": "No neighborhood dining — all restaurants require a short drive. West Little Rock's Chenal/Bowman corridor is 8 minutes away and handles most residents' dining needs. Downtown is 20 minutes.",
+    "outdoor": "Large private lots are the primary outdoor space for most residents. Rebsamen Park Golf Course borders the neighborhood's eastern edge. The Two Rivers Park and Big Dam Bridge are 15 minutes west. The River Trail system connects Pleasant Valley to the broader metro trail network.",
+    "culture": "Pleasant Valley is residential-focused. Cultural programming is accessed via downtown, The Heights, or private club events. The neighborhood association runs community gatherings but it's a quiet social scene compared to urban neighborhoods.",
+    "family": "Pleasant Valley is deeply family-oriented. Spacious yards, quiet cul-de-sacs, low traffic, and proximity to both public and private school options have made it a multigenerational choice for Little Rock families. Many residents attended PV's private schools themselves and are now raising their own children in the same neighborhood."
+  },
+  "commute_section": {
+    "overview": "Pleasant Valley's access to I-630 and Chenal Parkway keeps commute times competitive. Most major employment centers in the metro are accessible in 15–25 minutes.",
+    "key_routes": [
+      { "destination": "Downtown Little Rock", "time": "18 min", "notes": "Markham St to I-630 E; straightforward." },
+      { "destination": "West LR / Baptist Health", "time": "10 min", "notes": "Chenal Pkwy west — extremely quick." },
+      { "destination": "UAMS Medical Corridor", "time": "15 min", "notes": "I-630 W; quick but can be slow 7:30 AM." },
+      { "destination": "Chenal Valley", "time": "15 min", "notes": "South on I-430." },
+      { "destination": "LIT Airport", "time": "25 min", "notes": "I-630 E to I-440." }
+    ]
+  },
+  "buyer_profile": {
+    "ideal_for": ["Established families", "Empty nesters downsizing (into updated homes)", "Private school families", "Country club lifestyle"],
+    "typical_buyer": "A dual-income professional couple in their 40s–50s, often with children in private school, who wants a large lot, privacy, and a stable neighborhood with country club access and isn't prioritizing walkability or new construction.",
+    "budget_range": "$380,000 – $900,000"
+  },
+  "faqs": [
+    {
+      "question": "Is Pleasant Valley a gated community?",
+      "answer": "No — Pleasant Valley is an open neighborhood, not gated. However, the low-traffic street network and cul-de-sac design mean through-traffic is minimal, giving it a private feel."
+    },
+    {
+      "question": "What is Pleasant Valley Country Club?",
+      "answer": "Pleasant Valley Country Club is a private club with golf, tennis, swimming, and dining facilities. Membership is by application and carries annual dues. It serves as the primary social hub for many neighborhood families but is not required for residents who don't want the club lifestyle."
+    },
+    {
+      "question": "Are homes in Pleasant Valley dated?",
+      "answer": "Many are. The neighborhood was primarily developed in the 1970s–1990s, and a significant portion of homes haven't had major interior updates. This creates opportunity — buyers willing to renovate can get significant space for less per square foot than Chenal Valley new construction. Fully updated homes command a strong premium."
+    }
+  ],
+  "related": [
+    { "title": "West Little Rock", "slug": "west-little-rock", "type": "neighborhood" },
+    { "title": "Chenal Valley", "slug": "chenal-valley", "type": "neighborhood" },
+    { "title": "Cammack Village", "slug": "cammack-village", "type": "neighborhood" }
+  ]
+}

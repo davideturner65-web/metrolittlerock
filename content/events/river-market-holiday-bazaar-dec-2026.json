@@ -1,0 +1,22 @@
+{
+  "slug": "river-market-holiday-bazaar-dec-2026",
+  "event_name": "River Market Holiday Bazaar",
+  "seo": {
+    "title": "River Market Holiday Bazaar — December 2026 | Metro Little Rock Events",
+    "description": "Shop handmade gifts, local food products, and Arkansas-made goods at the River Market Holiday Bazaar in downtown Little Rock. Local makers, artisans, and food vendors under the pavilion.",
+    "canonical": "/events/river-market-holiday-bazaar-dec-2026"
+  },
+  "date_start": "2026-12-05",
+  "date_end": "2026-12-06",
+  "time": "10:00 AM – 5:00 PM",
+  "venue_name": "River Market Pavilion",
+  "venue_address": "400 President Clinton Ave, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7457, "lng": -92.2697 },
+  "neighborhood_slug": "downtown",
+  "category": "markets",
+  "price_range": "free",
+  "description": "The River Market Holiday Bazaar transforms the pavilion into one of the metro's best holiday shopping destinations — sixty-plus local makers, artisans, and food producers selling handcrafted goods, Arkansas-made food products, ceramics, textiles, jewelry, and art. The vendor mix skews toward genuinely original work rather than mass-produced holiday inventory, which is what keeps serious gift-buyers coming back. The pavilion's covered structure means the bazaar runs rain or shine, and the adjacent River Market District provides plenty of lunch and dinner options before or after you shop. Free parking is available in the district on weekends. Admission is free; bring cash and a bag, as you will buy more than you planned.",
+  "highlight": false,
+  "tags": ["holiday market", "artisan", "handmade", "downtown", "River Market", "shopping"],
+  "recurring": { "pattern": "annual" }
+}

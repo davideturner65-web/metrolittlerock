@@ -1,0 +1,68 @@
+{
+  "slug": "local-lime",
+  "name": "Local Lime",
+  "seo": {
+    "title": "Local Lime — Mexican Kitchen & Margaritas in the Heights | Metro Little Rock",
+    "description": "Local Lime is the Heights neighborhood's Mexican kitchen — serious margaritas, a buzzy patio, and the kind of upscale Tex-Mex that makes it the neighborhood's most reliable go-to.",
+    "canonical": "/places/local-lime"
+  },
+  "type": "restaurant",
+  "cuisine_tags": [
+    "Mexican",
+    "Tex-Mex",
+    "margaritas",
+    "tacos",
+    "cocktails"
+  ],
+  "neighborhood_slug": "the-heights",
+  "address": "5711 Kavanaugh Blvd, Little Rock, AR 72207",
+  "coordinates": {
+    "lat": 34.7519,
+    "lng": -92.3299
+  },
+  "phone": "(501) 660-4363",
+  "website": "https://mylocallime.com",
+  "hours": {
+    "Monday": "11:00 AM – 10:00 PM",
+    "Tuesday": "11:00 AM – 10:00 PM",
+    "Wednesday": "11:00 AM – 10:00 PM",
+    "Thursday": "11:00 AM – 10:00 PM",
+    "Friday": "11:00 AM – 11:00 PM",
+    "Saturday": "11:00 AM – 11:00 PM",
+    "Sunday": "10:00 AM – 10:00 PM"
+  },
+  "price_range": "$$",
+  "vibe": "trendy",
+  "description": "Local Lime anchors the social end of the Kavanaugh Boulevard corridor — a Mexican kitchen with a margarita program that draws its own following, a covered patio that's one of the Heights' most reliably animated spots on warm evenings, and a menu that takes Tex-Mex seriously enough to offer both familiar comfort items and more interesting preparations. The tacos are consistently the right call. Happy hour runs weekdays until 6 PM and the bar gets crowded with neighbors who walked over. Sunday brunch with bottomless mimosas is a Heights ritual at this point.",
+  "must_try_items": [
+    "Mango habanero margarita",
+    "Street tacos (al pastor or carnitas)",
+    "Queso fundido",
+    "Sunday brunch chilaquiles"
+  ],
+  "good_for": [
+    "lunch",
+    "dinner",
+    "drinks",
+    "brunch",
+    "outdoor_seating",
+    "groups"
+  ],
+  "image": {
+    "src": "/images/places/local-lime.jpg",
+    "alt": "Local Lime patio on Kavanaugh Boulevard in the Heights"
+  },
+  "featured": false,
+  "related": [
+    {
+      "title": "The Heights Neighborhood Guide",
+      "slug": "the-heights",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Margaritas in Little Rock",
+      "slug": "cocktail-bars/the-heights",
+      "type": "best-of"
+    }
+  ]
+}

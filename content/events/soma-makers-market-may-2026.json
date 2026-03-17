@@ -1,0 +1,21 @@
+{
+  "slug": "soma-makers-market-may-2026",
+  "event_name": "SoMa Makers Market",
+  "seo": {
+    "title": "SoMa Makers Market — May 2026 | Metro Little Rock Events",
+    "description": "Browse handmade goods, vintage finds, and local art in the South Main Creative Corridor. The SoMa Makers Market brings together the neighborhood's creative community every second Saturday.",
+    "canonical": "/events/soma-makers-market-may-2026"
+  },
+  "date_start": "2026-05-09",
+  "time": "9:00 AM – 2:00 PM",
+  "venue_name": "South Main Creative Corridor",
+  "venue_address": "S Main St, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7368, "lng": -92.2832 },
+  "neighborhood_slug": "soma",
+  "category": "markets",
+  "price_range": "free",
+  "description": "The SoMa Makers Market runs along South Main on the second Saturday of each month through the warm season, drawing thirty to forty vendors — ceramicists, jewelers, painters, woodworkers, vintage clothing dealers, and local food producers — into the street in front of the neighborhood's galleries and studios. It functions as a natural complement to First Friday: if you visited the galleries the night before, come back Saturday morning when the street is full and the coffee shops are open. The market has a relaxed, neighborhood-first vibe — vendors are regulars, dogs are welcome, and it's the kind of event where you're as likely to run into neighbors as to discover a new favorite local artist. May is a particularly good month — the weather is still reasonable and vendors arrive with spring inventory.",
+  "highlight": false,
+  "tags": ["makers market", "handmade", "SoMa", "South Main", "artisan", "second Saturday"],
+  "recurring": { "pattern": "monthly", "day_of_week": "Saturday" }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "lost-forty-brewing",
+  "name": "Lost Forty Brewing",
+  "seo": {
+    "title": "Lost Forty Brewing — Craft Brewery in SoMa Little Rock | Metro Little Rock",
+    "description": "Lost Forty Brewing is Little Rock's flagship craft brewery — a 22,000 sq ft taproom in the South Main district with a full kitchen, live music stage, and the metro's widest rotating tap list.",
+    "canonical": "/places/lost-forty-brewing"
+  },
+  "type": "brewery",
+  "cuisine_tags": [
+    "craft beer",
+    "pub food",
+    "burgers",
+    "live music"
+  ],
+  "neighborhood_slug": "soma",
+  "address": "501 Donaghey Ave, Little Rock, AR 72201",
+  "coordinates": {
+    "lat": 34.7378,
+    "lng": -92.2831
+  },
+  "phone": "(501) 319-7275",
+  "website": "https://lostfortybrewing.com",
+  "hours": {
+    "Monday": "11:00 AM – 10:00 PM",
+    "Tuesday": "11:00 AM – 10:00 PM",
+    "Wednesday": "11:00 AM – 10:00 PM",
+    "Thursday": "11:00 AM – 11:00 PM",
+    "Friday": "11:00 AM – 12:00 AM",
+    "Saturday": "11:00 AM – 12:00 AM",
+    "Sunday": "11:00 AM – 9:00 PM"
+  },
+  "price_range": "$$",
+  "vibe": "casual",
+  "description": "Lost Forty Brewing is the metro's flagship craft beer destination and one of SoMa's defining anchors. The 22,000 square foot facility houses a full production brewery, a taproom with 20+ rotating handles, a full kitchen, and an outdoor stage that hosts live music on weekends. The beer program spans the full range — easy-drinking lagers and wheat beers alongside IPAs, stouts, and seasonal one-offs. The kitchen output is honest pub food done well: smash burgers, loaded nachos, and shareables that hold up against the beer. The outdoor patio and lawn area fill up on warm evenings. If you want to understand why South Main became Little Rock's creative corridor, spend an evening here.",
+  "must_try_items": [
+    "Rock City Amber (flagship)",
+    "Southern Yankee IPA",
+    "Lost Forty smash burger",
+    "Seasonal rotating tap — ask what's fresh"
+  ],
+  "good_for": [
+    "drinks",
+    "lunch",
+    "dinner",
+    "groups",
+    "outdoor_seating"
+  ],
+  "image": {
+    "src": "/images/places/lost-forty-brewing.jpg",
+    "alt": "Lost Forty Brewing taproom and outdoor patio in Little Rock"
+  },
+  "featured": true,
+  "related": [
+    {
+      "title": "SoMa Neighborhood Guide",
+      "slug": "soma",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Best Breweries in Metro Little Rock",
+      "slug": "breweries/little-rock",
+      "type": "best-of"
+    }
+  ]
+}

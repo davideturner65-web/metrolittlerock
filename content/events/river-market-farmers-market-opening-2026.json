@@ -1,0 +1,21 @@
+{
+  "slug": "river-market-farmers-market-opening-2026",
+  "event_name": "River Market Farmers Market — Season Opening",
+  "seo": {
+    "title": "River Market Farmers Market Season Opening 2026 | Metro Little Rock Events",
+    "description": "The River Market Farmers Market opens for the 2026 season. Fresh produce, local vendors, food trucks, and a classic Little Rock Saturday morning.",
+    "canonical": "/events/river-market-farmers-market-opening-2026"
+  },
+  "date_start": "2026-04-04",
+  "time": "7:00 AM – 2:00 PM",
+  "venue_name": "River Market Pavilion",
+  "venue_address": "400 President Clinton Ave, Little Rock, AR 72201",
+  "venue_coordinates": { "lat": 34.7478, "lng": -92.2698 },
+  "neighborhood_slug": "downtown",
+  "category": "food",
+  "price_range": "free",
+  "description": "The River Market Farmers Market is a Little Rock institution, running Saturday mornings in the riverside pavilion from April through October. Opening Day draws double the usual crowd — vendors bring their best of the early spring harvest, baked goods are flying, and the coffee and breakfast vendors are doing brisk business by 7:15 AM. Expect fresh strawberries, bedding plants, artisan cheese, honey, locally roasted coffee, and handmade goods from 60+ vendors. Dogs on leashes are welcome, strollers navigate well, and the whole thing is a genuinely pleasant way to start a Saturday in downtown Little Rock.",
+  "highlight": false,
+  "tags": ["farmers market", "fresh produce", "River Market", "downtown", "Saturday morning", "seasonal"],
+  "recurring": { "pattern": "weekly", "day_of_week": "Saturday" }
+}

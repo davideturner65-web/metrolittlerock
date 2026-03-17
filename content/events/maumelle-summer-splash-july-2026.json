@@ -1,0 +1,21 @@
+{
+  "slug": "maumelle-summer-splash-july-2026",
+  "event_name": "Maumelle Community Park Fourth of July Celebration",
+  "seo": {
+    "title": "Maumelle Fourth of July Celebration 2026 | Metro Little Rock Events",
+    "description": "Maumelle's Fourth of July celebration at Community Park — live music, fireworks over the Arkansas River, food, and family activities in a perfect park setting.",
+    "canonical": "/events/maumelle-summer-splash-july-2026"
+  },
+  "date_start": "2026-07-04",
+  "time": "5:00 PM – 10:00 PM",
+  "venue_name": "Maumelle Community Park",
+  "venue_address": "1 Maumelle Park Dr, Maumelle, AR 72113",
+  "venue_coordinates": { "lat": 34.8687, "lng": -92.3876 },
+  "neighborhood_slug": "maumelle",
+  "category": "family",
+  "price_range": "free",
+  "description": "Maumelle Community Park's Fourth of July celebration is consistently rated one of the best in the metro — partly because the park setting is exceptional, and partly because Maumelle knows how to pull a community event off cleanly. The evening opens with a live band at the main pavilion, food vendors throughout the park, and lawn games until dusk. The fireworks show launches from the river side of the park, giving the large grassy viewing areas a clean sightline over the Arkansas River. Arrive early (4:30–5 PM) for parking — the park fills up by 6.",
+  "highlight": false,
+  "tags": ["Fourth of July", "fireworks", "Maumelle", "family", "free", "river"],
+  "recurring": { "pattern": "annual" }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "argenta-first-thursday-april-2026",
+  "event_name": "Argenta First Thursday Arts & Music Night",
+  "seo": {
+    "title": "Argenta First Thursday — April 2026 | Metro Little Rock Events",
+    "description": "North Little Rock's Argenta Arts District comes alive on the first Thursday of each month with gallery openings, live music, and street energy on Main Street.",
+    "canonical": "/events/argenta-first-thursday-april-2026"
+  },
+  "date_start": "2026-04-02",
+  "time": "5:30 PM – 9:00 PM",
+  "venue_name": "Main Street Argenta",
+  "venue_address": "Main St, North Little Rock, AR 72114",
+  "venue_coordinates": { "lat": 34.7712, "lng": -92.2668 },
+  "neighborhood_slug": "north-little-rock",
+  "category": "music",
+  "price_range": "free",
+  "description": "Argenta First Thursday is the monthly arts walk that has anchored the neighborhood's cultural identity for over a decade. On the first Thursday of each month, galleries open their doors late, restaurants offer specials, and musicians take up positions on corners and in doorways along the five-block Main Street corridor. The energy peaks between 6:30 and 8:30 PM when the street fills with locals moving between venues. It's the most authentic arts night in the metro — no tickets, no velvet ropes, just people who love their neighborhood showing it off.",
+  "highlight": false,
+  "tags": ["art walk", "gallery openings", "Argenta", "free event", "NLR", "First Thursday"],
+  "recurring": { "pattern": "monthly", "day_of_week": "Thursday" }
+}

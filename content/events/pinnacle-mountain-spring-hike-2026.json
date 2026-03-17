@@ -1,0 +1,22 @@
+{
+  "slug": "pinnacle-mountain-spring-hike-2026",
+  "event_name": "Pinnacle Mountain Spring Family Hike Day",
+  "seo": {
+    "title": "Pinnacle Mountain Spring Family Hike Day 2026 | Metro Little Rock Events",
+    "description": "Celebrate spring with a family hike at Pinnacle Mountain State Park — guided wildflower walks, junior ranger activities, and summit views 15 minutes from Little Rock.",
+    "canonical": "/events/pinnacle-mountain-spring-hike-2026"
+  },
+  "date_start": "2026-04-19",
+  "time": "8:00 AM – 4:00 PM",
+  "venue_name": "Pinnacle Mountain State Park",
+  "venue_address": "11901 Pinnacle Valley Rd, Roland, AR 72135",
+  "venue_coordinates": { "lat": 34.8282, "lng": -92.4748 },
+  "neighborhood_slug": "maumelle",
+  "category": "family",
+  "price_range": "free",
+  "description": "Pinnacle Mountain State Park hosts its annual Spring Hike Day on Easter weekend, when the wildflowers are at peak bloom along the trail systems. Park naturalists lead guided wildflower walks on the easy West Summit Trail throughout the morning, and the visitor center opens Junior Ranger programming for ages 4–12 from 10 AM to 3 PM. The West Summit Trail (easy, 1.5 miles) and East Summit Trail (moderate, more challenging with scrambling near the top) are both accessible. On a clear April day, the summit view extends 40+ miles across the Arkansas River Valley. Free admission; bring water and sun protection.",
+  "highlight": true,
+  "image": { "src": "/images/events/pinnacle-mountain-hike.jpg", "alt": "Family hiking at Pinnacle Mountain State Park near Little Rock in spring" },
+  "tags": ["hiking", "state park", "family", "wildflowers", "free", "outdoors"],
+  "recurring": { "pattern": "annual" }
+}
