@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
-import { getAllEvents } from '@/lib/content';
+import { getUpcomingEvents, getHighlightedEvents } from '@/lib/content';
 import { breadcrumbSchema, toJsonLd } from '@/lib/schema';
 
 import Breadcrumbs from '@/components/layout/Breadcrumbs';
@@ -31,8 +31,8 @@ function formatShortDate(dateStr: string) {
 }
 
 export default function EventsHubPage() {
-  const allEvents = getAllEvents();
-  const highlights = allEvents.filter((e) => e.highlight).slice(0, 6);
+  const allEvents = getUpcomingEvents();
+  const highlights = getHighlightedEvents(6);
 
   const jsonLdBreadcrumb = breadcrumbSchema([{ label: 'Events' }]);
 

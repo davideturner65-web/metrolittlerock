@@ -25,7 +25,7 @@ const categoryVariant: Record<EventCategory, 'primary' | 'accent' | 'warm' | 'su
 };
 
 export default function EventCard({ slug, event_name, date_start, time, venue_name, category, price_range, highlight }: EventCardProps) {
-  const dateObj = new Date(date_start);
+  const dateObj = new Date(date_start + 'T12:00:00');
   const formatted = dateObj.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
 
   return (
