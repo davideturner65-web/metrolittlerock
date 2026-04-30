@@ -42,10 +42,6 @@
     "lunch",
     "groups"
   ],
-  "image": {
-    "src": "/images/places/cothams-mercantile.jpg",
-    "alt": "The historic Cotham's Mercantile building in Scott, Arkansas"
-  },
   "featured": true,
   "related": [
     {

@@ -45,10 +45,6 @@
     "solo",
     "work_remote"
   ],
-  "image": {
-    "src": "/images/places/root-cafe.jpg",
-    "alt": "Root Café dining room on South Main in Little Rock"
-  },
   "featured": true,
   "related": [
     {

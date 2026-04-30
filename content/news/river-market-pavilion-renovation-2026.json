@@ -1,0 +1,39 @@
+{
+  "slug": "river-market-pavilion-renovation-2026",
+  "title": "River Market Pavilion Renovation Approved, Work Starting This Summer",
+  "seo": {
+    "title": "River Market Pavilion Renovation Starting Summer 2026 | Metro Little Rock News",
+    "description": "Little Rock's River Market District pavilion is getting a long-deferred renovation this summer, with upgrades to the vendor hall, new HVAC, and improved outdoor gathering space.",
+    "canonical": "/news/river-market-pavilion-renovation-2026"
+  },
+  "date_published": "2026-04-14",
+  "category": "renovation",
+  "neighborhood_slugs": ["downtown"],
+  "summary": "The Little Rock City Board approved funding for a renovation of the River Market District pavilion structure, with construction expected to begin in June and run through early fall. The project addresses deferred maintenance, upgrades vendor stalls, and improves the outdoor event space between the pavilion and the riverfront.",
+  "body_sections": [
+    {
+      "body": "The River Market pavilion — the covered vendor hall at the center of the district — has operated with the same infrastructure since the district opened in the late 1990s. The approved renovation covers structural repairs to the roof and support systems, a full HVAC replacement for the interior vendor spaces, upgraded electrical for vendor stalls, and resurfacing of the plaza between the pavilion and the river trail. Total project cost is approximately $4.2 million, split between city capital funds and a state Main Street Arkansas grant."
+    },
+    {
+      "heading": "What's Actually Changing",
+      "body": "The vendor hall interior will be reconfigured to widen circulation paths and create two new permanent vendor stalls, bringing the total to 14. The outdoor gathering area on the river side — currently underused due to poor drainage and dated furniture — will be repaved and furnished with fixed seating arrangements designed for both the farmers market and evening events. Permanent power outlets will be installed throughout the plaza to reduce the generator dependence that has complicated outdoor programming."
+    },
+    {
+      "heading": "Market Operations During Construction",
+      "body": "The River Market Farmers Market, which operates Saturdays through November, will relocate to the parking lot on the east side of the pavilion during the main construction phase from June through August. Market staff said the Saturday schedule will not be disrupted. Several permanent vendors inside the pavilion will close temporarily during the interior work; the city says it expects all current tenants to return once construction wraps."
+    }
+  ],
+  "impact_note": "The River Market has been the anchor of downtown Little Rock's public life for over two decades, but the facility has visibly aged. This renovation doesn't change what the district is — it makes what's already there work better and sets up the space for the next phase of programming.",
+  "related": [
+    {
+      "title": "Downtown Little Rock Neighborhood Guide",
+      "slug": "downtown",
+      "type": "neighborhood"
+    },
+    {
+      "title": "River Market Holiday Bazaar",
+      "slug": "river-market-holiday-bazaar-dec-2026",
+      "type": "event"
+    }
+  ]
+}

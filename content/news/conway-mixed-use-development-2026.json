@@ -1,0 +1,39 @@
+{
+  "slug": "conway-mixed-use-development-2026",
+  "title": "Conway Approves 200-Unit Mixed-Use Project Near Hendrix College",
+  "seo": {
+    "title": "Conway Approves 200-Unit Mixed-Use Development Near Hendrix | Metro Little Rock News",
+    "description": "Conway's planning commission approved a 200-unit mixed-use development near Hendrix College, adding apartments, ground-floor retail, and structured parking to the college-town corridor.",
+    "canonical": "/news/conway-mixed-use-development-2026"
+  },
+  "date_published": "2026-04-08",
+  "category": "development",
+  "neighborhood_slugs": ["conway"],
+  "summary": "Conway's planning commission approved a 200-unit mixed-use residential and retail development on Harkrider Street near Hendrix College, a project that would be the largest new housing addition to the college-town corridor in over a decade.",
+  "body_sections": [
+    {
+      "body": "The Harkrider Station project — approved 6-1 by the Conway Planning Commission at its April meeting — calls for 200 apartment units across two five-story buildings, with approximately 18,000 square feet of ground-floor retail space and a 350-space structured parking deck shared between residents and the public. The site is a 3.4-acre former commercial strip at the corner of Harkrider and Prince streets, roughly four blocks from the Hendrix College main entrance."
+    },
+    {
+      "heading": "Unit Mix and Pricing",
+      "body": "The project's 200 units break down as 60 studios, 90 one-bedrooms, and 50 two-bedrooms. The developer, Nashville-based Ironwood Partners, has committed to holding 15 percent of units at 80 percent AMI for 15 years as a condition of the tax increment financing agreement. Market-rate rents are projected at $1,150 to $1,600 per month depending on unit size — which would make them competitive with Conway's existing newer stock."
+    },
+    {
+      "heading": "What This Means for Conway Growth",
+      "body": "Conway has added population steadily over the past decade, driven partly by UCA and Hendrix enrollment, partly by families priced out of Little Rock's closer-in neighborhoods, and partly by the Route 65 commercial corridor drawing employers north from the metro. The housing stock has lagged — most of the city's rental inventory is older single-family rentals or small apartment complexes built before 2010. Harkrider Station is the first project to add significant density near either campus."
+    }
+  ],
+  "impact_note": "Conway is the fastest-growing city in the metro by percentage, but its housing supply has not kept pace. A walkable mixed-use project near Hendrix adds exactly the kind of urban-format density that college-town corridors need to retain young residents after graduation — and to attract the coffee shops, bookstores, and small restaurants that make a neighborhood a destination.",
+  "related": [
+    {
+      "title": "Conway Neighborhood Guide",
+      "slug": "conway",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Conway Kite & Outdoor Festival 2026",
+      "slug": "conway-kite-festival-april-2026",
+      "type": "event"
+    }
+  ]
+}

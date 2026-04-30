@@ -43,10 +43,6 @@
     "dinner",
     "solo"
   ],
-  "image": {
-    "src": "/images/places/three-fold-noodles.jpg",
-    "alt": "Hand-pulled noodles at Three Fold in downtown Little Rock"
-  },
   "featured": true,
   "related": [
     {

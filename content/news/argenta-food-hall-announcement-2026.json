@@ -1,0 +1,39 @@
+{
+  "slug": "argenta-food-hall-announcement-2026",
+  "title": "Argenta Announces Plans for a Multi-Vendor Food Hall on Main Street",
+  "seo": {
+    "title": "Argenta Food Hall Coming to Main Street North Little Rock | Metro Little Rock News",
+    "description": "A developer has announced plans for a multi-vendor food hall in the Argenta Arts District, targeting a 2027 opening in a renovated building on Main Street in North Little Rock.",
+    "canonical": "/news/argenta-food-hall-announcement-2026"
+  },
+  "date_published": "2026-04-28",
+  "category": "development",
+  "neighborhood_slugs": ["north-little-rock"],
+  "summary": "A Little Rock-based developer has announced plans to convert a vacant commercial building on Main Street in Argenta into a multi-vendor food hall, with eight to ten vendor stalls, a central bar, and a rooftop terrace. The project targets a first-quarter 2027 opening.",
+  "body_sections": [
+    {
+      "body": "The project — currently unnamed — is planned for a 9,000-square-foot building at 415 Main Street in the Argenta Arts District, a two-story commercial structure that has been vacant since 2023. The developer, Riverbluff Holdings, acquired the building in late 2025 and spent the intervening months on design and vendor conversations before making the announcement public. The concept calls for eight to ten vendor stalls of between 200 and 350 square feet each, a central communal bar serving beer and cocktails, and a rooftop deck accessible from the second floor."
+    },
+    {
+      "heading": "Vendor Mix",
+      "body": "The developer is targeting a mix of first-time brick-and-mortar operators and established concepts launching second locations. Early conversations have focused on categories underrepresented in the immediate Argenta corridor — Southeast Asian, Mexican, and wood-fired pizza were mentioned in the announcement. The stall model is designed to lower the barrier for smaller operators; build-out costs will be partially subsidized in exchange for a revenue-share arrangement rather than traditional triple-net leases."
+    },
+    {
+      "heading": "Timeline",
+      "body": "Permits are expected to be filed in May 2026, with demolition and structural work beginning in September. The developer is projecting a Q1 2027 soft open with the full vendor complement in place by spring 2027. The rooftop deck will likely come online in the second phase, contingent on construction timelines."
+    }
+  ],
+  "impact_note": "Argenta has been steadily building density and foot traffic over the past decade through First Thursdays, the farmers market, and the arts district. A food hall adds a daily-use anchor that could extend the district's draw beyond event nights — which is what the neighborhood needs to become a destination on its own terms rather than just on programmed evenings.",
+  "related": [
+    {
+      "title": "North Little Rock (Argenta) Neighborhood Guide",
+      "slug": "north-little-rock",
+      "type": "neighborhood"
+    },
+    {
+      "title": "Argenta First Thursday — April 2026",
+      "slug": "argenta-first-thursday-april-2026",
+      "type": "event"
+    }
+  ]
+}

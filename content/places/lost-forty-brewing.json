@@ -46,10 +46,6 @@
     "groups",
     "outdoor_seating"
   ],
-  "image": {
-    "src": "/images/places/lost-forty-brewing.jpg",
-    "alt": "Lost Forty Brewing taproom and outdoor patio in Little Rock"
-  },
   "featured": true,
   "related": [
     {

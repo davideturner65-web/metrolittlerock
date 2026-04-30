@@ -45,10 +45,6 @@
     "date_night",
     "outdoor_seating"
   ],
-  "image": {
-    "src": "/images/places/south-on-main.jpg",
-    "alt": "Interior of South on Main restaurant in SoMa Little Rock"
-  },
   "featured": true,
   "related": [
     {

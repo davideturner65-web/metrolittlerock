@@ -41,10 +41,6 @@
     "lunch",
     "dinner"
   ],
-  "image": {
-    "src": "/images/places/lassis-inn.jpg",
-    "alt": "The historic Lassis Inn building in Little Rock"
-  },
   "featured": true,
   "related": [
     {
