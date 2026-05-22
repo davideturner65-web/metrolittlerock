@@ -1,0 +1,35 @@
+{
+  "slug": "wrights-barbecue-west-little-rock-2026",
+  "title": "Wright's Barbecue Pulls Permit for Second Little Rock Location Near Chenal",
+  "seo": {
+    "title": "Wright's Barbecue Coming to West Little Rock Near Chenal | Metro Little Rock News",
+    "description": "Wright's Barbecue filed a permit for 800 Rahling Road near Chenal, planning a 5,000-square-foot building and exterior smokehouse for a fall 2026 opening.",
+    "canonical": "/news/wrights-barbecue-west-little-rock-2026"
+  },
+  "date_published": "2026-05-16",
+  "category": "announcement",
+  "neighborhood_slugs": ["chenal-valley"],
+  "summary": "Wright's Barbecue has filed a building permit for a second Little Rock location at 800 Rahling Road near the Promenade at Chenal, with a roughly 5,000-square-foot standalone building and exterior smokehouse. The owner is targeting an October or November 2026 opening.",
+  "body_sections": [
+    {
+      "body": "Wright's Barbecue — the Arkansas concept that grew from a single Johnson location into a multi-city regional chain — has filed a building permit for 800 Rahling Road in West Little Rock, near the Promenade at Chenal. The declared construction value is $4.5 million. Plans call for a 5,000-square-foot building with an exterior smokehouse and covered outdoor seating. The Rebsamen Park Road location has been Wright's only standalone outpost within the city of Little Rock."
+    },
+    {
+      "heading": "Timeline",
+      "body": "Wright's founder and CEO has said the West Little Rock spot is \"probably about four months out, maybe five\" from opening — with October or November 2026 given as the realistic target. A formal construction timeline hasn't been released, but the permit filing puts the project on track for a fall opening barring significant delays."
+    },
+    {
+      "heading": "Chenal Context",
+      "body": "The Rahling Road corridor near the Promenade is dense with chain restaurants serving the surrounding residential subdivisions. Wright's represents a different category: a regional concept with a reputation built on wood-smoked brisket and ribs produced at a pace that prioritizes quality over throughput. The nearest comparable barbecue in the area has been the national chains, which Wright's consistently outperforms."
+    }
+  ],
+  "impact_note": "A Chenal-area Wright's makes the brand accessible to the westside population without a trip to Rebsamen — which is a meaningful time savings during lunch. The open question is whether the build-out quality and smokehouse output hold up at a second location. That's the variable worth watching as they scale.",
+  "source_url": "https://katv.com/community/little-rock-arc/arkansas-gets-a-tasty-head-start-on-national-barbecue-day-with-wrights-expansion-ribs-brisket-history-family-business-west-little-rock-benton-glaze-",
+  "related": [
+    {
+      "title": "Chenal Valley Neighborhood Guide",
+      "slug": "chenal-valley",
+      "type": "neighborhood"
+    }
+  ]
+}
